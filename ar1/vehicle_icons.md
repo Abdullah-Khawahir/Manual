@@ -1,7 +1,6 @@
-# Vehicle Icons
+أيقونات المركبات
 
-To learn more about them you can visit the [PR Icon-to-Assets Index](https://realitymod.github.io/PR-Assets-Indexes/icon-to-asset_index.html) where you can see exactly which vehicles are represented by a given icon.
-
+لمعرفة المزيد عنها يمكنك زيارة [فهرس أيقونات الموارد العامة](https://realitymod.github.io/PR-Assets-Indexes/icon-to-asset_index.html) حيث يمكنك رؤية بالضبط أي المركبات تمثلها أيقونة معينة.
 <div style="text-align: center";>
 
 <style>
@@ -16,7 +15,7 @@ img {
     <img src="../assets/asset_icons/mini_aav_heavy.png"  alt="aav_heavy"   title="Heavy AAV"                     hspace="4">
 	<img src="../assets/asset_icons/mini_jep_aa.png"     alt="jep_aa"      title="Jeep With AA Missile Launcher" hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Anti-Air Vehicles</i></p>
+<p style="color:rgb(98,160,216);"><i>المركبات المضادة للطائرات</i></p>
 
 <br><br>
 
@@ -32,7 +31,7 @@ img {
     <img src="../assets/asset_icons/mini_ahe_scout_hd.png"       alt="ahe_scout_hd"       title="Scout Attack Helicopter"      hspace="5">
     <img src="../assets/asset_icons/mini_ahe_scout_hf.png"       alt="ahe_scout_hf"       title="Scout Attack Helicopter"      hspace="5">
 </div>
-<p style="color:rgb(98,160,216);"><i>Attack Helicopters</i></p>
+<p style="color:rgb(98,160,216);"><i>مروحيات الهجوم</i></p>
 
 <br><br>
 
@@ -45,7 +44,7 @@ img {
     <img src="../assets/asset_icons/mini_box_medium.png"       alt="box_medium"     title="MT-LB APC"                  hspace="4">
 	<img src="../assets/asset_icons/mini_atm_medium.png"       alt="atm_medium"     title="Anti-Tank Missile Vehicle"  hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Armored Personnel Carriers</i></p>
+<p style="color:rgb(98,160,216);"><i>المركبات العسكرية المدرعة</i></p>
 
 <br><br>
 
@@ -60,7 +59,7 @@ img {
     <img src="../assets/asset_icons/mini_civ_truck_semi_bomb.png" alt="civ_truck_semi_bomb" title="VBIED Semi-Truck"    hspace="4">
     <img src="../assets/asset_icons/mini_zastava_supp.png"        alt="zastava_supp"        title="Zastava Van"         hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Civilian Vehicles</i></p>
+<p style="color:rgb(98,160,216);"><i>المركبات المدنية</i></p>
 
 <br><br>
 
@@ -79,7 +78,7 @@ img {
     <img src="../assets/asset_icons/mini_jet_8_attack.png"        alt="jet_8_attack"        title="Su-25 Frogfoot Jet"                   hspace="5">
     <img src="../assets/asset_icons/mini_jet_9_attack.png"        alt="jet_9_attack"        title="Propeler Plane"                       hspace="5">
 </div>
-<p style="color:rgb(98,160,216);"><i>Fixed Wing Aircraft</i></p>
+<p style="color:rgb(98,160,216);"><i>الطائرة ذات الأجنحة الثابتة</i></p>
 
 <br><br>
 
@@ -88,7 +87,7 @@ img {
     <img src="../assets/asset_icons/mini_ifv_medium.png" alt="ifv_medium" title="Medium Infantry Fighting Vehicle" hspace="4">
 	<img src="../assets/asset_icons/mini_ifv_heavy.png"  alt="ifv_heavy"  title="Heavy Infantry Fighting Vehicle"  hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Infantry Fighting Vehicles</i></p>
+<p style="color:rgb(98,160,216);"><i>مركبات القتال البري</i></p>
 
 <br><br>
 
@@ -97,7 +96,7 @@ img {
     <img src="../assets/asset_icons/mini_rec_medium.png"          alt="rec_medium"          title="FV 107 Scimitar IFV"          hspace="4">
     <img src="../assets/asset_icons/mini_rec_medium_scorpion.png" alt="rec_medium_scorpion" title="FV 101 Scorpion Scimitar IFV"  hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Reconaissance</i></p>
+<p style="color:rgb(98,160,216);"><i>استطلاع</i></p>
 
 <br><br>
 
@@ -107,7 +106,7 @@ img {
 	<img src="../assets/asset_icons/mini_shp_heavy.png"  alt="shp_heavy"  title="US Swift Boat"     hspace="4">
     <img src="../assets/asset_icons/mini_shp_lcvp.png"   alt="shp_lcvp"   title="LCVP Boat"         hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Ships and Boats</i></p>
+<p style="color:rgb(98,160,216);"><i>السفن والقوارب</i></p>
 
 <br><br>
 
@@ -116,7 +115,7 @@ img {
     <img src="../assets/asset_icons/mini_tnk_medium.png" alt="tnk_medium" title="Medium Tank" hspace="4">
 	<img src="../assets/asset_icons/mini_tnk_heavy.png"  alt="tnk_heavy"  title="Heavy Tank"  hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Tanks</i></p>
+<p style="color:rgb(98,160,216);"><i>الدبابات</i></p>
 
 <br><br>
 
@@ -125,7 +124,7 @@ img {
     <img src="../assets/asset_icons/mini_tec_rocket.png" alt="tec_rocket" title="Rocket Technical"    hspace="4">
     <img src="../assets/asset_icons/mini_tec_spg.png"    alt="tec_spg"    title="SPG-9 Technical"     hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Technicals</i></p>
+<p style="color:rgb(98,160,216);"><i>التقنيات</i></p>
 
 <br><br>
 
@@ -138,7 +137,7 @@ img {
     <img src="../assets/asset_icons/mini_the_medium_escort.png" alt="the_medium_escort" title="KA-29 Escort Transport Helicopter" hspace="5">
     <img src="../assets/asset_icons/mini_the_scout.png"         alt="the_scout"         title="Scout Transport Helicopter"        hspace="5">
 </div>
-<p style="color:rgb(98,160,216);"><i>Transport Helicopters</i></p>
+<p style="color:rgb(98,160,216);"><i>مروحيات النقل</i></p>
 
 <br><br>
 
@@ -152,7 +151,7 @@ img {
     <img src="../assets/asset_icons/mini_shp_lcvp_logi.png"  alt="shp_lcvp_logi"  title="LCVP Logistics Boat"          hspace="4">
 	<img src="../assets/asset_icons/mini_zastava_logi.png"   alt="zastava_logi"   title="Zastava Logistics Van"        hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Transport Trucks and Logistical Vehicles</i></p>
+<p style="color:rgb(98,160,216);"><i>الشاحنات النقل والمركبات اللوجستية</i></p>
 
 <br><br>
 
@@ -165,4 +164,4 @@ img {
     <img src="../assets/asset_icons/mini_jep_rws_mk19.png" alt="jep_rws_mk19" title="Fennek 1A1 GMW Jeep"          hspace="4">
 	<img src="../assets/asset_icons/mini_tec_50.png"       alt="tec_50"       title="Technical With An MG"         hspace="4">
 </div>
-<p style="color:rgb(98,160,216);"><i>Light Vehicles</i></p>
+<p style="color:rgb(98,160,216);"><i>المركبات الخفيفة</i></p>
