@@ -1,62 +1,61 @@
-# The Civilian
+المدني
 
-When playing on the Iraqi insurgent, Hamas or Taliban faction, players can choose to play as the Civilian. This role’s primary focus is to gather intelligence on Coalition forces and to run interference for the insurgent Cell Leaders. This kit does not come equipped with any weapons but has a wide variety of equipment and tools. Civilians can use their cellphones to spot enemy troops for their team by placing a marker on the map.
-
+عندما يلعب اللاعبون في الفصيل العراقي المتمرد أو حماس أو طالبان ، يمكن للاعبين اختيار اللعب كمدني. يتمحور التركيز الأساسي لهذا الدور على جمع المعلومات حول قوات التحالف وتشغيل التدخل لقادة الخلية المتمردة. هذه الحقيبة لا تأتي مجهزة بأي أسلحة ولكنها تحتوي على مجموعة واسعة من المعدات والأدوات. يمكن للمدنيين استخدام هواتفهم الخلوية لتحديد مواقع القوات العدو لفريقهم عن طريق وضع علامة على الخريطة.
 {% figure "../assets/civiii.png" %}
-A civilian.
+مدني
 {% endfigure %}
 
-Civilians are bound by particular **rules of engagement** \(ROE\), explained [below](the_civilian.md#roe). Coalition forces cannot fire against civilians that are outside the rules of engagement, risking heavy penalizations. Instead they must **arrest** them or wait untill they're a legit target.
+المدنيون ملزمون بقواعد معينة للمشاركة (ROE)، والتي يتم شرحها [أدناه](the_civilian.md#roe). لا يمكن لقوات التحالف أن تطلق النار على المدنيين الذين خارجون عن قواعد المشاركة، معرضين أنفسهم لعقوبات قاسية. بدلاً من ذلك، يجب عليهم اعتقالهم أو الانتظار حتى يصبحوا هدفًا شرعيًا.
 
-In order for a player to arrest a civilian, it must use the restrainers or the Shotgun with a buckshot round. Civilians that decide to commit suicide are also counted as arrested.
+لكي يعتقل اللاعب مدنيًا، يجب عليه استخدام القيود أو بندقية الخرطوش. يُعتبر المدنيون الذين يقررون الانتحار أيضًا كمعتقلين.
 
-If you shoot a civilian outside the ROE, you will face several penalties:
+إذا قمت بإطلاق النار على مدني خارج قواعد المشاركة، ستواجه عقوبات عدة:
 
-* After your next death you will respawn 120 seconds later, per civilian shot \(stacks up to 5 minutes additional delay\)
-* You will not be able to request any kits for 10 minutes
-* Your score is reduced to 0 and the kill will not be listed on the scoreboard
-* Your team loses 10 intelligence points
+- بعد موتك القادم، ستعود إلى الحياة بعد 120 ثانية لكل مدني تم إطلاق النار عليه (تتراكم لتصل إلى تأخير إضافي يصل إلى 5 دقائق)
+- لن تتمكن من طلب أي مجموعات لمدة 10 دقائق
+- يتم تخفيض نقاطك إلى 0 ولن يتم سرد القتلة على لوحة النتائج
+- يفقد فريقك 10 نقاط استخبارات
 
-In the other hand, shooting a civilian inside the ROE will cause:
+من ناحية أخرى، إطلاق النار على مدني داخل قواعد المشاركة سيؤدي إلى:
 
-* The civilian to have an additional 120 seconds in the respawn time
-* Your team gains 10 intelligence points
+- زيادة 120 ثانية إضافية في وقت الانتظار للمدني
+- يحصل فريقك على 10 نقاط استخبارات
 
-Running over civilians in a vehicle or shooting those climbing on ropes will also result in a penalty if done outside of the ROE.
+دهس المدنيين بالسيارة أو إطلاق النار على الذين يتسلقون الحبال سيؤدي أيضًا إلى عقوبة إذا تم ذلك خارج نطاق قواعد المشاركة.
 
-## _Rules Of Engagement_ \(ROE\) {#roe}
+قواعد المواجهة (ROE)
 
-A civilian is considered inside the ROE and therefore can be killed if any of these conditions are met:
+يعتبر المدني داخل قواعد المواجهة وبالتالي يمكن قتله إذا تم تحقيق أي من هذه الشروط:
 
-* Spawned...
-* Have picked up a kit with a weapon...
-* Used a vehicle...
-* Used an epipen...
+- تم إنشاء...
+- قام بالتقاط حقيبة تحتوي على سلاح...
+- استخدم مركبة...
+- استخدم إبرة الأدرينالين...
 
-...less than 2 minutes prior to the engagement. Or he must have an armed insurgent next to him, within 5m horizontally or 1.5m vertically.
+... قبل أقل من 2 دقيقة من المواجهة. أو يجب أن يكون لديه متمرد مسلح بجانبه، على بعد 5 أمتار أفقيًا أو 1.5 مترًا عموديًا.
 
-## _Becoming a civilian_
+التحول إلى مدني
 
-For you to become a civilian you must first either spawn as a non-armed soldier or to simply drop your kit \(Press **T** and then **Right Click** on the "REQUEST / DROP KIT" option\). Secondly, as mentioned in the previous section, you must wait 2 minutes after you spawn or dropping your kit and stay away from other Insurgents who are outside the ROE.
+لتصبح مدنيًا يجب عليك أولاً أن تظهر كجندي غير مسلح أو ببساطة إسقاط حقيبتك (اضغط على T ثم انقر بزر الماوس الأيمن على خيار "طلب / إسقاط الحقيبة"). ثانيًا، كما ذكر في القسم السابق، يجب عليك الانتظار لمدة 2 دقيقة بعد ظهورك أو إسقاط حقيبتك والابتعاد عن الثوار الآخرين الذين خارج منطقة العمليات المسموح بها.
 
-## _Civilian vehicles_ {#civilian-vehicles}
+المركبات المدنية
 
-Non armed-vehicles, including ammo techies and "Fake Garys" \(term used for dump or semi-trailer trucks\), must not be destroyed by Coalition forces.
+يجب ألا تُدمر المركبات غير المسلحة، بما في ذلك الشاحنات التقنية للذخيرة و "غاري المزيفة" (المصطلح المستخدم للشاحنات القلابة أو شبه المقطورات)، من قبل قوات التحالف.
 
-A vehicle is considered civilian and therefor cannot be destroyed if:
+تُعتبر المركبة مدنية وبالتالي لا يمكن تدميرها إذا:
 
-* Is empty
-* Does not have a gun
-* Was last used more than 1 minute ago
-* Has no enemies nearby \(3 meters\)
+- كانت فارغة
+- لا تحتوي على سلاح
+- تم استخدامها آخر مرة قبل أكثر من دقيقة واحدة
+- لا يوجد أعداء بالقرب منها (3 أمتار)
 
-Failing to comply to this ROE will result:
+فشل الامتثال لهذا القانون سيؤدي إلى:
 
-* Loss of 5 intel points for the team
-* Loss of 50 points for the player
+- فقدان 5 نقاط استخبارات للفريق
+- فقدان 50 نقطة للاعب
 
 {% figure "../assets/dumpster_trucks.png" %}
-Different types of civilian trucks.
+أنواع مختلفة من الشاحنات المدنية.
 {% endfigure %}
 
-In the image above, the difference between a normal truck (left and midle) and a suicide truck (right) can be identified by whether it's loaded with explosive barrels and other suspicious objecs or not.
+في الصورة أعلاه، يمكن التعرف على الفرق بين شاحنة عادية (اليسار والوسط) وشاحنة انتحارية (اليمين) من خلال ما إذا كانت محملة ببراميل متفجرة وأشياء مشبوهة أخرى أم لا.
