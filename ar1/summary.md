@@ -13,7 +13,7 @@
 * [قائد الفرقة](the_squad_leader.md)
 * [تشغيل المركبات](operating_vehicles.md)
 * [رموز المركبات](vehicle_icons.md)
-* [القائد](commander.md)
+* [القائد](commander.md)<!--  -->
 * [المدني](the_civilian.md)
 * [متتبع ومسجل المعارك](replays.md) <!--  -->
 
