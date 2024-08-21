@@ -7,4 +7,4 @@
 * [Brazilian Portuguese - v1.6.4](br/)
 * [Spanish / Español - v1.7](es/)
 * [Italian - v1.7](it/)-->
-* [Arabic / العربية - v1.7](ar1/)
+* [Arabic / العربية - v1.7](ar/)
