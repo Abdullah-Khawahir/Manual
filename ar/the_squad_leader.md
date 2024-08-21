@@ -1,209 +1,211 @@
-# The Squadleader
+# القائد الفريقي
 
-## _Guiding Squad_ {#guiding-squad}
+## _توجيه الفريق_ {#توجيه-الفريق}
 
-As explained in the Battlefield Navigation section, the Squad Leader can place markers on the map for his squad members to follow. They will find a marker on their compass to follow as well as an icon on the map. The Squad Leader should use these as often as possible and can also use this to easily get the distance towards a target. He can do this from the mini-map by right clicking it and placing the marker or by pressing the **secondary radio key \(T\)** and point at the target and using one of the buttons to place the marker.
+كما هو موضح في قسم تصفح ساحة المعركة \(انظر [هنا](the_basics.md#battlefield-navigation)\)، يمكن لقائد الفريق \(أو SL\) وضع علامات على الخريطة لأعضاء فريقه لمتابعتها. سيجد أعضاء الفريق علامة على بوصلتهم لمتابعتها بالإضافة إلى رمز على الخريطة. يجب على قائد الفريق استخدام هذه العلامات بقدر الإمكان ويمكنه أيضًا استخدامها للحصول بسهولة على المسافة نحو الهدف. يمكنه القيام بذلك من الخريطة الصغيرة\(**Caps Lock**\) عن طريق النقر بزر الماوس الأيمن ووضع العلامة أو عن طريق الضغط على **مفتاح الراديو الثانوي \(T\)** والإشارة إلى الهدف واستخدام أحد الأزرار لوضع العلامة.
 
-* ![](../assets/target.png) **Target** 
-* ![](../assets/build.png) **Build** 
-* ![](../assets/observe.png) **Observe**
-* ![](../assets/defendmarker.png) **Defend** 
-* ![](../assets/demolish.png) **Demolish** 
-* ![](../assets/move.png) **Move**
+* ![](../assets/target.png) **الهدف** 
+* ![](../assets/build.png) **بناء** 
+* ![](../assets/observe.png) **مراقبة**
+* ![](../assets/defendmarker.png) **الدفاع** 
+* ![](../assets/demolish.png) **تدمير** 
+* ![](../assets/move.png) **الانتقال**
 
-The commander can also order you. If you accept the order \(**PAGE UP**\) your marker will be replaced with the commander’s order.
+يمكن للقائد أيضًا إلقاء الأوامر عليك. إذا قبلت الأمر \(**PAGE UP**\) سيتم استبدال علامتك بأمر القائد.
 
-## _Spotting Enemies_ {#spotting-enemies}
+## _رصد الأعداء_ {#رصد-الأعداء}
 
-The **Squad Leader** in PR:BF2 has many functional abilities. He is able to mark enemy units on the map and forward contact reports to the team's commander with the ability to mark a target on the team's map. To perform these functions follow these steps:
+يمتلك **قائد الفرقة** في PR:BF2 العديد من القدرات الوظيفية. يمكنه وضع علامات على وحدات العدو على الخريطة وإرسال تقارير الاتصال إلى قائد الفريق بالقدرة على وضع هدف على الخريطة الخاصة بالفريق. لأداء هذه الوظائف، اتبع هذه الخطوات:
 
-1. Mark a position either via the minimap or via the secondary commo rose \(**T**\)
-2. Select the radio/cellphone item issued to Officer/Spotter/Cell Leader or Collaborator kits and use the **the alternate fire key \(RMB\)** to activate it. 
-3. While looking closely in the direction of Squad Leader marker, press and hold the primary commo rose key\(**Q**\), hover over the correct type of hostile forces, vehicle, equipment category and press either left click or right click to place the corresponding map mark.
+1. وضع علامة على موقع إما عبر الخريطة الصغيرة أو عبر القائمة الزهرية الثانوية \(**T**\).
+2. حدد عنصر الراديو/الهاتف المحمول الذي يتم إصداره لأطقم الضابط/المراقب/قائد الخلية أو المتعاون واستخدم مفتاح التبديل البديل \(RMB\) لتنشيطه.
+3. أثناء التحديق بعناية في اتجاه علامة قائد الفرق، اضغط واستمر في الضغط على مفتاح القائمة الزهرية الأساسي \(**Q**\). حوّل المؤشر فوق النوع الصحيح من القوى العدائية، أو فئة المركبة أو المعدات واضغط إما بالنقر الأيسر أو النقر الأيمن لوضع العلامة المناسبة على الخريطة.
 
-Note that steps 1 and 2 can be done in either order.
+يرجى ملاحظة أنه يمكن القيام بالخطوات 1 و 2 بأي ترتيب.
 
 {% figure "../assets/spotting.png" %}
 
-Spotting Commo Rose
+رؤية رمز الاتصال
 {% endfigure %}
 
 {{ "Video Tutorial - Marking" | youtube("XNDb2yMuoho") }}
 
-## _The GTL Designator \(GTLD\)_ {#gtld}
+## _تصميم جهاز تحديد الهدف بالليزر الأرضي_ {#gtld}
 
-The Squad Leader kit and Spotter kit used by conventional forces are equipped with **GTLD \(Ground Target Laser Designator\).**. This piece of equipment has better zoom then the regular binoculars, includes a range-finder and allows you to paint enemy targets which can be targeted by friendly \(and enemy\) air unit's bombs or missiles.
+طقم قائد الفرقة وطقم المراقب المستخدمان من قبل القوات التقليدية مجهزان بـ **GLTD \(جهاز تحديد الهدف بالليزر الأرضي\)**. هذا الجهاز لديه تكبير أفضل من النظارات البصرية العادية، ويتضمن جهاز قياس المدى ويسمح لك بتحديد أهداف العدو التي يمكن استهدافها بقنابل أو صواريخ الوحدات الجوية الصديقة \(والعدو!\).
 
-With the GTLD equipped, you can right-click to increase the zoom level and left-click to toggle the on/off state. While on, the GTLD will emit a laze, that you must keep on your target until the bomb/missile hits it, unlike previous versions where the laze would "stick" to the target even without line of sight.
+عندما يكون لديك GLTD مجهزًا، يمكنك النقر بزر الماوس الأيمن لزيادة مستوى التكبير والنقر بزر الماوس الأيسر لتبديل الحالة تشغيل/إيقاف. أثناء التشغيل، سيبث GLTD ليزرًا، يجب عليك الاحتفاظ به على هدفك حتى تصيبه القنبلة/الصاروخ \(على عكس الإصدارات السابقة حيث كان الليزر سيظل "ملتصقًا" بالهدف حتى بدون خط مرئي\).
 
-Additionally, while the lase is ON, you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map.
+بالإضافة إلى ذلك، أثناء تشغيل الليزر، يمكنك الوصول إلى القائمة الرئيسية للراديو \(Q\) لطلب الدعم الجوي القريب \(CAS\) أو استدعاء مهام القصف بالمدفعية. سيقوم ذلك تلقائيًا بإرسال رسالة نصية إلى فريقك توضح الطلب وإضافة علامة هدف على الخريطة.
 
-## _Rally Points_ {#rally-points}
+## _نقاط التجمع_ {#rally-points}
 
-A Squad Leader has the ability to set **Rally Points \(RP\)**. This allows fallen squad members to regroup in a safe area with the rest of their squad. To place a RP you need to press **the secondary radio key \(T\)** and select **PLACE RALLY POINT**.
+لدى قائد الفرقة القدرة على تحديد **نقاط التجمع \(RP\)**. يتيح هذا لأفراد الفرقة الساقطين إعادة التجمع في منطقة آمنة مع بقية فرقتهم. لوضع نقطة RP، تحتاج إلى الضغط على **مفتاح الراديو الثانوي \(T\)** واختيار **وضع نقطة التجمع**.
 
-The following conditions must be met for the RP to be placed successfully:
+يجب توفر الشروط التالية لوضع RP بنجاح:
 
-* You are the leader of your squad and are equipped with the officer kit.
-* You need to have 2 squad members close to you.
-* Enemy is further than 50m away on 1x1km maps or 125m or 2x2km and 4x4km maps.
+* أنت قائد فرقتك ومجهز بطقم الضابط.
+* تحتاج إلى وجود 2 عضو من الفرقة بالقرب منك.
+* أن يكون العدو على بعد أكثر من 50 مترًا في الخرائط بحجم 1x1 كم أو 125 مترًا في الخرائط بحجم 2x2 كم و 4x4 كم.
 
-The rally point automatically disappears after 60 seconds unless:
+تختفي نقطة التجمع تلقائيًا بعد 60 ثانية ما لم:
 
-* It is within 2x large map grid squares of a friendly FOB
-* It is within 2x large map grid squares of a friendly APC or IFV. Only those of which you can request kits.
+* تكون ضمن 2 مربع كبير على الخريطة من قاعدة FOB صديقة.
+* تكون ضمن 2 مربع كبير على الخريطة من مركبة APC أو IFV صديقة. فقط تلك التي يمكنك طلب الطقم منها.
 
-An enemy that comes within 50m on 1x1km maps or 125m or 2x2km and 4x4km maps from the rally point will disable it. On larger maps it is 600m.
+سيقوم العدو الذي يقترب من 50 مترًا في الخرائط بحجم 1x1 كم أو 125 مترًا في الخرائط بحجم 2x2 كم و 4x4 كم من نقطة التجمع بتعطيلها. على الخرائط الأكبر حجمًا هو 600 متر.
 
-A rally point rearms every 1 minute. Unless it has become overrun. In which case you need to wait 5 minutes.
+تعيد نقطة التجمع التزود كل دقيقة واحدة. ما لم تتمكن من الاحتفاظ بها، حيث يجب عليك الانتظار 5 دقائق. بالإضافة إلى ذلك، يمكنك إعادة تزويد RP عن طريق الاقتراب \(25 مترًا\) من FOB صديق ونشط، مستودع المركبات أو ACV.
 
-## _Requesting Support_ {#requesting-support}
+## _طلب الدعم_ {#requesting-support}
 
-The squad leader can also use his radio to request support from other squads. To do so he must activate his radio and then press **the secondary radio key \(T\).** This will open up the menu for requesting support and deploying team assets. The lower five commands starting with **“NEED ...”** will place a map marker at your position. They also transmit a radio message to your team to alert them of your request. The **“NEED AREA ATTACK”** request behaves a bit different from the rest. On some maps conventional forces can use this command to request an **artillery barrage**. If your request is approved by the team's commander, the attack will strike after about one minute. After loading a new map or executing an area attack it takes 30 minutes until it is available again. Similarly unconventional factions have access to a mortar barrage every 20 minutes on most maps.
+يمكن لقائد الفريق أيضًا استخدام راديوهاته لطلب الدعم من فرق أخرى. للقيام بذلك، يجب عليه تنشيط راديوهاته ثم الضغط على **مفتاح الراديو الثانوي (T)**. سيفتح هذا القائمة لطلب الدعم ونشر أصول الفريق. تبدأ الأوامر الخمسة السفلية بـ **"NEED ..."** بوضع علامة على الخريطة في موقعك. كما تنقل رسالة إذاعية إلى فريقك لتنبيههم بطلبك. يتصرف طلب **"NEED AREA ATTACK"** بشكل مختلف قليلاً عن الباقي. في بعض الخرائط، يمكن للقوات التقليدية استخدام هذا الأمر لطلب **قصف مدفعي**. إذا تمت الموافقة على طلبك من قبل قائد الفريق، سيتم الهجوم بعد حوالي دقيقة واحدة. بعد تحميل خريطة جديدة أو تنفيذ هجوم منطقة، يستغرق 30 دقيقة حتى يكون متاحًا مرة أخرى. بالمثل، تحصل الفصائل غير التقليدية على قصف مدفعي كل 20 دقيقة على معظم الخرائط.
 
 
 {% figure "../assets/support.png" %}
-Requesting support through radio.
+طلب الدعم عبر الراديو.
 {% endfigure %}
 
-## _Construction Work_ {#construction-work}
+## _عمل البناء_ {#construction-work}
 
-Constructing assets is an essential functionality of the Squad Leader which the team's Commander also possesses. When deploying and constructing a Forward Outpost \(FOB\) a Squad Leader needs to have an officer kit and a heavy supply crate within a 50m radius of his vicinity. 2 light supply crates offer the same capabilities as 1 heavy supply crate to achieve the same goal. Insurgents, Taliban and the Hamas can only deploy hideouts, mortars and anti-tank positions for their team which do not require supplies to build these structures. To perform this function either a cell leader or collaborator kit is necessary.
+بناء الأصول هو وظيفة أساسية لقائد الفرقة، والتي يمتلكها أيضًا قائد الفريق. عند نشر وبناء قاعدة تشغيل أمامية \(FOB\)، يحتاج قائد الفرقة إلى حقيبة ضابط وصندوق إمداد ثقيل واحد \(أو 2 صندوق إمداد خفيف يقدم نفس القدرات\) ضمن نصف قطر 50 مترًا من محيطه. يمكن للمتمردين وحركة طالبان وحماس فقط نشر الأوكار والمدافع ومواقع مكافحة الدبابات لفريقهم والتي لا تتطلب إمدادات لبناء هذه الهياكل. لأداء هذه الوظيفة، يلزم وجود حقيبة قائد الخلية أو المتعاون. على عكس طلب الحقائب من صناديق الإمداد، لا يؤدي بناء الهياكل إلى استنزاف أي نقاط إمداد من الصناديق المستخدمة.
 
 {% figure "../assets/buildcomo.png" %}
-Building assets through radio.
+بناء الأصول من خلال الراديو.
 {% endfigure %}
 
-To deploy a structure follow these steps:
-
-1. Select and activate the radio / cellphone.
-2. Look in the direction where the structure should be positioned. It will be placed 10m in front of you.
-3. Once you deploy it, press the **secondary radio menu key \(T\).**
-4. Left click your mouse on **DEPLOY / REMOVE ASSET.**
-5. Select the structure you want to build from the list.
+1. حدد وقم بتنشيط الراديو / الهاتف الخلوي.
+2. انظر في الاتجاه الذي يجب أن تكون فيه الهيكل. سيتم وضعه على بعد 10 أمتار أمامك.
+3. بمجرد نشره، اضغط على **مفتاح القائمة الراديو الثانوي (T).**
+4. انقر بزر الماوس الأيسر على **نشر / إزالة الأصل.**
+5. حدد الهيكل الذي تريد بناؤه من القائمة.
 
 {% figure "../assets/shovel.png" %}
-Shovel needed to build up deployables.
+المطلوب مجرفة لبناء الأشياء القابلة للنشر.
 {% endfigure %}
 
-Players currently standing where the deployable is being placed will die. So make sure your squad knows where you intend to build. Soldiers need to use **the entrenching tool** to build assets. Construction is complete once the digging stops.
+اللاعبون الذين يقفون حاليًا حيث يتم وضع القابل للنشر سيموتون. لذا تأكد من أن فريقك يعرف أين تنوي بناء الهياكل. يحتاج الجنود إلى استخدام **أداة الحفر** لبناء الأصول. يكتمل البناء عندما تتوقف عملية الحفر.
 
-Place the deployables on open terrain non obstructed area to avoid undesirable effects and unwanted placement locations. The deployable will only appear if its placement location isn't too far above or below your position.
+ضع الهياكل القابلة للنشر على التضاريس المفتوحة والمناطق غير المعوقة لتجنب التأثيرات غير المرغوب فيها وأماكن الوضع غير المرغوب فيها. سيظهر القابل للنشر فقط إذا لم يكن موقع وضعه بعيدًا جدًا فوق أو أسفل موقعك.
 
-To dismantle a built structure, squad members must use the entrenching tools right click to destroy an emplacement, then the Squad Leader is able to right-click **DEPLOY / REMOVE ASSET** menu whilst pointing towards the object no more than 5m away, to completely remove it.
+لتفكيك هيكل مبني، يمكن لزعيم الفرق النقر بزر الماوس الأيمن **نشر / إزالة الأصول** من خلال قائمة الوردة التواصلية أثناء التوجيه نحو الكائن لا يزيد عن 5 أمتار، لإزالته تمامًا، كرر الخطوات. يمكن لأفراد الفرق أيضًا استخدام أدوات الحفر بالنقر بزر الماوس الأيمن لتدمير المنشآت.
 
-Deployable Emplacements weapons can be rearmed by dropping ammunition bags next to them. Several bags are needed to completely rearm an emplacement.
+يمكن إعادة تسليح أسلحة الهياكل القابلة للنشر عن طريق إسقاط أكياس الذخيرة بجوارها. يتطلب تسليح هيكل بالكامل عدة أكياس.
 
 {% figure "../assets/deploy.png" %}
-Unbuild and build examples of a foxhole.
+نهدم ونبني أمثلة على حفرة الثعلب.
 {% endfigure %}
 
-## _Deployable Structures_ {#deployable-structures}
+## _الهياكل القابلة للنشر_ {#deployable-structures}
 
-Here is a list of the deployable structures and the requirements for building them. Deployable assets can be either dismantled with a shovel or alternatively destroyed with C4, IEDs, tank shells, APC shells, or any over forms of heavy ordnance. Deployables can also be completely destroyed by continuing to damage the base of the emplacement. Forward outposts and hideouts can be destroyed as well by ordnance or C4 plastic explosives and TNT. Squad leaders can remove unbuilt deployable emplacements with the radio in a similar way to how they were deployed, by alternatively using the right click to remove the deployable base. The alternate fire mode for the entrenchment tool also has the ability to dismantle unbuilt deployable emplacements. An important note on the requirements and limitations listed below is that all values about distance to an FOB and the maximum amount of assets per FOB are doubled on the CNC gamemode \(except for the amount of mortars\). Also remember that 2 large supply crates can also be replaced by 4 small supply crates or 1 large and 2 small crates. To learn more about logistics and crates see [the logistics chapter.](the_basics.md#logistics).
+هنا قائمة بالهياكل القابلة للنشر والمتطلبات لبنائها. يمكن تفكيك الأصول القابلة للنشر إما باستخدام مجرفة أو تدميرها بالمتفجرات مثل C4 أو IEDs أو قذائف الدبابات أو قذائف الآر بي سي أو القصف بالهاون أو أي شكل آخر من الذخيرة الثقيلة. يمكن أيضًا تدمير الهياكل القابلة للنشر تمامًا عن طريق مواصلة التلف في قاعدة التثبيت. يمكن أيضًا تدمير النقاط الأمامية والمخابئ بواسطة المتفجرات أو المتفجرات البلاستيكية C4 والديناميت.
 
-**Forward Operating Base \(FOB\):** The forward operating base, also known as a forward outpost serves as a defensive spawn position for the team. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 2 enemies are within 50m, 4 enemies within 100m or 8 enemies within 150m. Requirements and limitations:
+ملاحظة مهمة حول المتطلبات والقيود المدرجة أدناه هي أن جميع القيم حول المسافة إلى نقطة التموضع الأمامية والحد الأقصى لعدد الأصول لكل نقطة تموضع أمامية يتم مضاعفتها في وضع اللعب CNC (باستثناء عدد المدافع). تذكر أيضًا أن يمكن استبدال 2 صناديق إمداد كبيرة بـ 4 صناديق إمداد صغيرة أو صندوق كبير و 2 صناديق صغيرة. لمعرفة المزيد حول اللوجستيات والصناديق انظر [الفصل الخاص باللوجستيات](the_basics.md#logistics).
 
-* Must be constructed within 50m of a friendly large supply crate.
-* The team may have a total of 6 forward outposts at the same time.
-* Must be constructed at least 200m from other forward outposts and the team's HQ.
-* Must be constructed at least 10m away from the map border \(200m on CNC\).
+**القاعدة التشغيلية الأمامية (FOB):** تعمل القاعدة التشغيلية الأمامية، المعروفة أيضًا باسم النقطة الأمامية، كموقع إنبات دفاعي للفريق. تصبح نشطة بعد 90 ثانية من البناء. تصبح غير قابلة للإنبات لمدة 30 ثانية إذا كان هناك عدو واحد على بعد 10 متر، أو 2 أعداء على بعد 50 متر، أو 4 أعداء على بعد 100 متر، أو 8 أعداء على بعد 150 متر. المتطلبات والقيود:
+
+* يجب بناؤها على بعد 50 متر من صندوق إمداد كبير صديق.
+* يمكن للفريق أن يمتلك مجموع 6 نقاط أمامية في نفس الوقت.
+* يجب بناؤها على بعد ما لا يقل عن 200 متر من النقاط الأمامية الأخرى ومقر الفريق.
+* يجب بناؤها على بعد ما لا يقل عن 10 أمتار من حدود الخريطة (200 متر على CNC).
 
 {% figure "../assets/fobb.png" %}
 {% endfigure %}
 
-**Hideout:** Insurgents use hideouts as a spawn location. If 2 or more enemies are close by \(within 50m\), spawning is disabled until 90 seconds after they leave or die. Requirements and limitations:
+**مخبأ:** يستخدم المتمردون المخابئ كموقع للظهور. إذا كان هناك عدوان 2 أو أكثر قريبين \(ضمن 50 مترًا\), يتم تعطيل الظهور حتى بعد 90 ثانية من مغادرتهم أو موتهم. المتطلبات والقيود:
 
-* Requested further than 200m from the closest hideout and the insurgent HQ.
-* The team may have up to 6 hideouts at the same time.
-* Must be constructed at least 10m away from the map border.
+* يمكن للفريق أن يمتلك ما يصل إلى 6 مخابئ في نفس الوقت.
+* يجب أن يكون الموقع المطلوب على بعد أكثر من 200 متر من أقرب مخبأ ومقر المتمردين.
+* يجب أن يتم بناؤه على بعد ما لا يقل عن 10 متر من حدود الخريطة.
 
 {% figure "../assets/hideoutt.png" %}
 {% endfigure %}
 
-**Heavy MG:** A deployable heavy machine gun. Requirements and limitations:
+مدفع ثقيل: مدفع ثقيل قابل للنشر. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* Only 2 MG’s per FOB and within 200m radius.
-* The team can have up to 24 heavy MGs.
+* يجب وضعه ضمن مسافة 200 متر من قاعدة تشغيل أمامية / مخبأ وعلى بعد 200 متر على الأقل من موقع قائد الفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق إمداد كبيرة ضمن مسافة 200 متر.
+* يُسمح بوجود 2 مدافع ثقيلة فقط لكل قاعدة تشغيل أمامية وضمن نصف قطر 200 متر.
+* يمكن للفريق أن يمتلك ما يصل إلى 12 مدفعًا ثقيلًا.
 
 {% figure "../assets/hmg.png" %}
 {% endfigure %}
 
-**Anti-Tank:** A deployable anti-tank missile launcher. This weapon features thermal imaging and 1 fixed level of magnification. Reloading takes 20s. Requirements and limitations:
+**صاروخ مضاد للدبابات (ATGM):** إطلاق صاروخ مضاد للدبابات قابل للنشر. هذا السلاح يتميز بالرؤية الحرارية ومستوى ثابت من التكبير. يستغرق إعادة التحميل 15 ثانية. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* No other anti-tank emplacement may be within 200m distance and on that FOB.
-* The team can have up to 3 anti-tank positions at the same time.
+* يجب وضعه ضمن 200 متر من قاعدة تشغيل أمامية / مخبأ وعلى بعد 200 متر على الأقل من موقع القائد العام للفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق إمداد كبيرة ضمن 200 متر.
+* لا يجب أن يكون هناك أي مواقع أخرى للمدافع المضادة للدبابات ضمن مسافة 200 متر وعلى تلك القاعدة.
+* يمكن للفريق أن يمتلك ما يصل إلى 3 مواقع للمدافع المضادة للدبابات في نفس الوقت.
 
 {% figure "../assets/tow.png" %}
 {% endfigure %}
 
-**Anti-Tank \(unconventional forces\):** The SPG9 AT-launcher only has a narrow range of traverse. It can shoot two types of ammunition and takes 15s to reload. Requirements and limitations:
+**مضاد الدبابات (القوات غير التقليدية):** يحتوي مطلق الصواريخ الدبابات SPG9 على نطاق ضيق للغاية. يمكنه إطلاق نوعين من الذخيرة ويستغرق 10 ثوانٍ لإعادة التحميل. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m \(only for the militia and Syrian Rebels\).
-* No other anti-tank emplacement may be within 200m distance and on that FOB.
-* The team can have up to 3 anti-tank positions at the same time.
+* يجب وضعه ضمن مسافة 200 متر من قاعدة تشغيل أمامية / مخبأ وعلى بعد 200 متر على الأقل من موقع قائد الفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق إمداد كبيرة ضمن مسافة 200 متر (فقط للميليشيا والثوار السوريين).
+* لا يجوز وجود أي مواقع أخرى لمضادات الدبابات ضمن مسافة 200 متر وعلى تلك القاعدة.
+* يمكن للفريق أن يمتلك ما يصل إلى 3 مواقع لمضادات الدبابات في نفس الوقت.
 
 {% figure "../assets/spg.png" %}
 {% endfigure %}
 
-**Anti-Air:** A deployable surface-to-air missile launcher. Requirements and limitations:
+**الدفاع الجوي:** منصة إطلاق صواريخ سطحية جوية قابلة للنشر. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* No other anti-air emplacement may be within 200m distance and on that FOB.
-* The team can have up to 6 anti-air emplacements.
-* Unconventential forces get a DShK machine gun on a tripod as anti-air emplacement. 
+* يجب وضعها على بعد 200 متر من قاعدة تشغيلية / مخبأ وعلى بعد 200 متر على الأقل من موقع قائد الفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق إمداد كبيرة على بعد 200 متر.
+* لا يجوز وجود أي منصة دفاع جوي أخرى على بعد 200 متر وعلى تلك القاعدة.
+* يمكن للفريق أن يمتلك ما يصل إلى 6 منصات دفاع جوي.
+* تحصل القوات غير التقليدية على مدفع رشاش DShK على حامل ثلاثي الأرجل كمنصة دفاع جوي.
 
 {% figure "../assets/aaa.png" %}
 {% endfigure %}
 
-**Foxhole:** A sandbag fortified foxhole provides cover against small arms and artillery strikes. Requirements and limitations:
+**الثغرة:** ثغرة محصنة بالأكياس الرملية توفر غطاءً ضد الأسلحة الصغيرة وضربات المدفعية. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
+* يجب وضعها ضمن 200 متر من نقطة التموين الأمامية / المخبأ وعلى بعد 200 متر على الأقل من مركز القيادة الرئيسي للفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق تموين كبيرة ضمن 200 متر.
+* يجب أن يكون هناك حد أقصى من 9 ثغرات أخرى أو أكياس رملية أو شرائح من الأسلاك الشائكة ضمن 200 متر وعلى تلك النقطة التموينية.
+* يمكن للفريق أن يمتلك حتى 60 ثغرة أو جدران من الأكياس الرملية أو شرائح من الأسلاك الشائكة بإجمالي.
 
 {% figure "../assets/foxhole.png" %}
 {% endfigure %}
 
-**Sandbag-wall:** A sandbag wall is a small 5m long wall made of sandbags to hide behind and use as cover against small arms. Requirements and limitations:
+الجدار الرملي: الجدار الرملي هو جدار صغير طوله 5 أمتار مصنوع من أكياس الرمل للاختباء واستخدامه كغطاء ضد الأسلحة الصغيرة. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
-
+* يجب وضعه ضمن مسافة 200 متر من قاعدة تشغيل أمامية / مخبأ وعلى بعد 200 متر على الأقل من موقع قائد الفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق إمداد كبيرة ضمن مسافة 200 متر.
+* يجب أن يكون هناك حد أقصى من 9 حفريات أخرى للثعابين أو أكياس الرمل أو شرائح الأسلاك الشائكة ضمن مسافة 200 متر وعلى تلك القاعدة.
+* يمكن للفريق أن يمتلك حتى 60 حفرية للثعابين أو جدران رملية أو شرائح من الأسلاك الشائكة بالمجموع.
 {% figure "../assets/sandbagwall.png" %}
 {% endfigure %}
 
-**Razor wire:** A 10m wide road block of razor wire and tank traps. Requirements and limitations:
+**سلك شائك:** حاجز طريق عريض بعرض 10 أمتار من الأسلاك الشائكة والفخاخ الدبابات. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
+* يجب وضعه ضمن 200 متر من قاعدة تشغيل أمامية / مخبأ وعلى بعد 200 متر على الأقل من موقع القائد العام للفريق وعلى بعد 50 متر عن مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق إمداد كبيرة ضمن 200 متر.
+* يجب أن يكون هناك حد أقصى من 9 حفر أو أكياس رملية أو شرائح من الأسلاك الشائكة ضمن 200 متر وعلى تلك القاعدة.
+* يمكن للفريق أن يمتلك حتى 60 حفرة أو جدار من الأكياس الرملية أو شرائح من الأسلاك الشائكة بإجمالي.
 
-**Roadblock \(unconventional forces\):** A 5m or 10m \(right or left click\) wide road block of garbage. Requirements and limitations:
+{% figure "../assets/razorwire.png" %}
+{% endfigure %}
 
-* Must be placed 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* A maximum of 9 other roadblocks, razorwires, foxholes and sandbags can be within 200m.
-* The team can have up to 100 roadblocks in total.
+**عائق على الطريق (قوى غير تقليدية):** عائق عرضه 5 أمتار أو 10 أمتار (انقر يمينًا أو يسارًا) من القمامة. المتطلبات والقيود:
+
+* يجب وضعه على بُعد 200 متر من موقع القائد العام للفريق وعلى بُعد 50 مترًا من مستودع المركبات.
+* يمكن أن يكون حد أقصى لـ 9 عوائق طرق أخرى، وأسلاك شائكة، وحفر للمدافع، وأكياس رملية ضمن نطاق 200 متر.
+* يمكن للفريق أن يمتلك حتى 100 عائق على الطريق في المجموع.
 
 {% figure "../assets/roadblock.png" %}
 {% endfigure %}
 
-**Mortar:** A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km. Requirements and limitations:
+**الهاون:** موقع هاون ثابت يمكنه توفير دعم ناري غير مباشر على مدى بعيد. يمكن لجميع الفصائل إطلاق قذائف عالية الانفجار. يمكن للقوات التقليدية والميليشيا استخدام أيضًا قذائف الانفجار الجوي والدخان. لا يمكن بناء المدافع على الخرائط التي يقل حجمها عن 2 كم. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m \(only needed for conventional forces, militia and Syrian Rebels\).
-* The team can have up to 2 mortar positions at the same time.
-* Both mortar positions must be placed within 50m of each other.
+* يجب وضعه ضمن 200 متر من نقطة التموين الأمامية / المخبأ وعلى بعد 200 متر على الأقل من موقع القائد العسكري للفريق وعلى بعد 50 متر على الأقل من مستودع المركبات.
+* يجب أن تكون هناك 2 صناديق تموين كبيرة ضمن 200 متر (مطلوبة فقط للقوات التقليدية والميليشيا والثوار السوريين).
+* يمكن للفريق أن يمتلك ما يصل إلى 2 موقع هاون في نفس الوقت.
+* يجب وضع كلا موقع هاون ضمن 50 متر من بعضهما البعض.
 
 {% figure "../assets/mortarss.png" %}
 {% endfigure %}

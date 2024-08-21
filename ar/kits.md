@@ -1,185 +1,184 @@
-# Kits
+الحقائب
 
-Kits in Project Reality define your class, equipment and your role in the team. PR features a wide selection of kits that you can take. Generally speaking, there are 2 kinds of kits in Project Reality:
+تحدد الحقائب في Project Reality دورك وتجهيزاتك ودورك في الفريق. يتميز PR بمجموعة واسعة من الحقائب التي يمكنك اختيارها. بشكل عام، هناك نوعان من الحقائب في Project Reality:
 
-* **Standard Kits**, which are the standard infantry squad roles and can be selected directly from the spawn screen
-* **Specialist Kits**, which are more specialised roles and can only be obtained through a special [request procedure](kits.md#kit-request)
+- الحقائب القياسية، وهي أدوار الفرقة القياسية للجنود ويمكن اختيارها مباشرة من شاشة الظهور.
+- الحقائب المتخصصة، وهي أدوار أكثر تخصصًا ويمكن الحصول عليها فقط من خلال إجراء طلب خاص.
 
-## _Where to start_ {#where-to-start}
+أين تبدأ
 
-As a new player, you should always join an infantry squad and take the **Rifleman** kit. The Rifleman represents the basic infantry grunt and can be used without restrictions by as many people as desired in a squad/team. All other kits are associated to more specialised roles and have rigid restrictions regarding the number of them that can be simultaneously used in a squad/team.
+كلاعب جديد، يجب عليك دائمًا الانضمام إلى فرقة الجنود واختيار حقيبة الـ Rifleman. يمثل الـ Rifleman الجندي العادي ويمكن استخدامه دون قيود من قبل العديد من الأشخاص في الفرقة/الفريق. ترتبط جميع الحقائب الأخرى بأدوار أكثر تخصصًا وتفرض قيودًا صارمة بشأن عدد الحقائب التي يمكن استخدامها في نفس الوقت في الفرقة/الفريق.
 
-Due to these restrictions, and in order to avoid negatively affecting your team performance by misusing a limited kit, it is **strongly recommended that you start playing with the Rifleman kit**. As you get more experienced and learn the basics of infantry gameplay, if you feel up to the task, you can ask your Squad Leader to assign you a different role. In any case, **you should ALWAYS ask your Squad Leader before changing kits**.
+نظرًا لهذه القيود، ومن أجل تجنب التأثير السلبي على أداء فريقك من خلال سوء استخدام حقيبة محدودة، يُوصى بشدة بأن تبدأ اللعب بحقيبة الـ Rifleman. عندما تكتسب المزيد من الخبرة وتتعلم أساسيات لعب الجنود، إذا شعرت بأنك قادر على ذلك، يمكنك طلب من قائد الفرقة تعيين دور مختلف لك. في أي حال، يجب عليك دائمًا طلب إذن من قائد الفرقة قبل تغيير الحقائب.
+## _أطقم قياسية_ {#standard_kits}
 
-## _Standard Kits_ {#standard_kits}
+**الأطقم القياسية** هي الأطقم السبعة المعروضة في شاشة الإنتاج وتمثل الأدوار التي عادة ما تشكل فرق المشاة. في الجدول التالي يمكنك رؤية نظرة عامة على الأطقم القياسية السبعة بالإضافة إلى معلومات حول عدد الأطقم من هذا النوع يمكن أن يكون في فرقة واحدة وكم يحتاج الفريق من الأشخاص لكي يتمكنوا من الإنتاج بها.
 
-The **Standard Kits** are the 7 kits shown in the spawn screen and they represent the roles that typically make an infantry squad. In the following table you can see an overview of the 7 standard kits as well as information regarding how many kits of this type can be in a single squad and how many people need to be in the squad in order to be able to spawn with them.
-
-| Kit | Limitation per squad | Minimum Squad Size |
+| الطقم | الحد في الفرقة الواحدة | الحد الأدنى لحجم الفرقة |
 | --- | --- | --- |
-| **Officer** | 1 | 2 |
-| **Medic** | 2 | 2 |
-| **Automatic Rifleman** | 1 | 4 |
-| **Breacher** | 1 | 4 |
-| **Grenadier** | 1 | 6 |
-| **Light Anti-Tank** | 1 | 4 |
-| **Rifleman** | Unlimited | 1 |
+| **الضابط** | 1 | 2 |
+| **الطبيب** | 2 | 2 |
+| **رامي البندقية التلقائية** | 1 | 4 |
+| **المفتش** | 1 | 4 |
+| **قاذف القنابل** | 1 | 6 |
+| **مدمر خفيف للدروع** | 1 | 4 |
+| **رجل بندقية** | غير محدود | 1 |
 
-Having these limitations in mind, it can be said that the typical 8-man squad usually has the a composition of 1 of each of those kits but with 2 medics.
+بمراعاة هذه القيود، يمكن القول أن الفرقة النموذجية المكونة من 8 أفراد عادة ما تحتوي على واحد من كل هذه الأطقم ولكن مع وجود 2 من الأطباء.
 
-Note that each kit in the selection menu of the spawn screen has two buttons: **"Standard"** and **"Alternative"**. This is because there are two variants of each kit. Depending on the faction, this **typically affects the choice of optics** \(scope, reflex or none\), although in some cases, particularly with unconventional forces the choice is not between an optic or iron sights but between completely different firearms instead.
+يرجى ملاحظة أن كل طقم في قائمة الاختيار على شاشة الإنتاج له زرين: **"قياسي"** و **"بديل"**. هذا لأن هناك نوعين من كل طقم. وتعتمد الاختيارات عادةً على البصريات \(نطاق، نقطة رؤية أو لا شيء\), على الرغم من أنه في بعض الحالات، خاصة مع القوى غير التقليدية، الاختيار ليس بين نطاق أو نقاط الرؤية بل بين أسلحة مختلفة تمامًا بدلاً من ذلك.
 
-Note as well that, for playability purposes, in addition to the squad limitations above, the **Grenadier** and the **Light Anti-Tank** kits are also limited to a maximum number of them per team, depending on the number of players:
+كما يجب ملاحظة أنه لأغراض اللعب، بالإضافة إلى القيود على الفرق أعلاه، يتم تحديد الحد الأقصى لعدد **قاذف القنابل** و **مدمر خفيف للدروع** أيضًا لكل فريق، وذلك اعتمادًا على عدد اللاعبين:
 
-| Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
+| الطقم | 1-7 لاعبين | 8-15 لاعبين | 16-23 لاعبين | 24-31 لاعبين | 32- 50+ لاعب |
 | --- | --- | --- | --- | --- | --- |
-| **Light Anti-Tank** | 1 | 2 | 4 | 5 | 8 |
-| **Grenadier** | 1 | 2 | 4 | 5 | 8 |
+| **مدمر خفيف للدروع** | 1 | 2 | 4 | 5 | 8 |
+| **قاذف القنابل** | 1 | 2 | 4 | 5 | 8 |
 
-Here follow a more detailed explanation of each kit:
+هنا شرح أكثر تفصيلًا لكل طقم:
 
-* ![](../assets/rifleman.png)**Rifleman**. Unlimited kit, representing the standard infantry grunt. Typically, it is equipped with an assault rifle, fragmentation and smoke grenades. Lacking a specialized role, the rifleman is ideal for more aggressive positions and maneuvers. It is also the only class with an ammo bag, which allows him to resupply teammates.
-* ![](../assets/officer.png)**Officer**. Limited to 1 per squad and only available to the Squad Leader. In addition of the standard fighting equipment, this kit comes with a side weapon, an officer radio and binoculars. He can have direct voice communication with the other officers in the team, place markers on the map, build emplacements and fortifications, and request support missions \(artillery, mortar fire, armor or air support, etc\). You can find more detailed information about this crucial role in the [**Squad Leader**](../the_squad_leader.md#the_squad_leader) section of this manual.
-* ![](../assets/medic.png)**Medic**. Limited to 2 per squad. He is responisble of providing medical assitance in the battlefield, and therefore, it is one of the roles that affect squad performance the most. Battle-awareness and a survival instinct are essential for this role. In addition to an assault rifle, it comes equipped with several smoke grenades, a first-aid kit, epipens and field dressings. It is the only kit capable of dragging wounded teammates. 
-* ![](../assets/ar.png)**Automatic Rifleman \(AR\)**. Limited to 1 per squad. Equipped with a light machine gun, the Automatic Rifleman \(or AR\), is a less mobile and less versatile \(it has no frag grenades\) rifleman who provides, on the other hand, superior firepower. His speciality is an accurate and deadly suppressive fire, which is also very effective to restrict the movement of enemies.
-* ![](../assets/breacher.png)**Breacher**. Limited to 1 per squad. He is a demolition specialist who also acts as pointman in the breaching of buildings. His equipment includes an assault rifle, a grappling hook to climb over obstacles, a shotgun and a few loads of C4 explosive for tactic demolitions.
-* ![](../assets/at.png)**Light Anti-Tank \(LAT\)**. Limited to 1 per squad and to **8 per team**. The LAT is a rifleman equipped with an assault rifle and a handheld light anti-tank weapon system. His main role is to act as an ultra-light anti-tank element, with capacity to deter and neutralize light vehicles and vehicles with light armor. **It is however NOT effective against Heavy Armored Vehicles or Tanks.**
-* ![](../assets/grenadier.png)**Grenadier**. Limited to 1 per squad and to **8 per team**. Usually equipped with an underbarrel grenade launcher attached to its assault rifle. His main job is to hostigate low visibility areas where enemy presence is suspected as well as to harass light vehicles. It is specially useful for long distance engagements and to fight enemies digged up inside of buildings.
+* ![](../assets/kit_icons/kit_light_scope_outline.png)**المقنصل**. عدة غير محدودة، تمثل الجندي العادي في القوات البرية. عادةً ما يكون مجهزًا ببندقية هجومية، وقنابل يدوية وقنابل دخانية ومجرفة. نظرًا لعدم وجود دور متخصص، يعتبر المقنصل مثاليًا للمواقع والتحركات العدوانية. كما أنه الفئة الوحيدة التي تحمل حقيبة ذخيرة، مما يتيح له إعادة تزويد زملائه في الفريق.
+* ![](../assets/kit_icons/kit_officer_outline.png)**الضابط**. محدود بواحد في كل فرقة ومتاح فقط لقائد الفرقة. بالإضافة إلى التجهيزات القتالية القياسية، تأتي هذه العدة مع سلاح جانبي، وراديو ضابط وناظور. يمكنه التواصل المباشر بالصوت مع الضباط الآخرين في الفريق، ووضع علامات على الخريطة، وبناء تحصينات وطلب مهام دعمية \(مثل القصف الصاروخي، ونيران الهاون، والدعم الجوي أو الدبابات، وما إلى ذلك\). يمكنك العثور على معلومات مفصلة حول هذا الدور الحيوي في [**قسم قائد الفرقة**](the_squad_leader.md#the_squad_leader) من هذا الدليل.
+* ![](../assets/kit_icons/kit_medic_outline.png)**الطبيب**. محدود باثنين في كل فرقة. يتحمل مسؤولية تقديم المساعدة الطبية في ساحة المعركة، وبالتالي، يعتبر أحد الأدوار التي تؤثر على أداء الفرقة بشكل كبير. الوعي بالمعركة وغريزة البقاء هما أمران أساسيان لهذا الدور. بالإضافة إلى بندقية هجومية، يأتي مجهزًا بعدة قنابل دخانية، وعلبة إسعافات أولية، وإبر الإيبينيفرين، وقطع الضمادات. إنه العدة الوحيدة القادرة على سحب زملاء الفريق المصابين.
+* ![](../assets/kit_icons/kit_heavy_assault_outline.png)**رجل الرشاش التلقائي \(AR\)**. محدود بواحد في كل فرقة. مجهز ببندقية رشاشة خفيفة، يعتبر رجل الرشاش التلقائي، مقنصل أقل حركة وأقل تنوعًا \(لا توجد لديه قنابل يدوية\) يوفر، من ناحية أخرى، قوة نيران فائقة. تخصصه هو إطلاق نار قاهر دقيق وقاتل، والذي يكون أيضًا فعالًا للغاية في تقييد حركة الأعداء.
+* ![](../assets/kit_icons/kit_mountaineer_outline.png)**المقتحم**. محدود بواحد في كل فرقة. هو أخصائي تفجيرات يعمل أيضًا كرجل أمامي في اقتحام المباني. تشمل تجهيزاته بندقية هجومية، وخطاف تسلق لتسلق العقبات، وبندقية ذات غلقة وبعض كميات متفجرات C4 للتفجيرات التكتيكية.
+* ![](../assets/kit_icons/kit_at_outline.png)**مكافح الدبابات الخفيف \(LAT\)**. محدود بواحد في كل فرقة وبـ **8 في كل فريق**. مكافح الدبابات الخفيف مقنصل مجهز ببندقية هجومية ونظام سلاح مضاد للدبابات الخفيف المحمول. يكون دوره الرئيسي هو العمل كعنصر مكافح للدبابات فائق الخفة، بقدرته على ردع وتعطيل المركبات الخفيفة والمركبات ذات الدروع الخفيفة. **ومع ذلك، فإنه غير فعال ضد المركبات ذات الدروع الثقيلة أو الدبابات.**
+* ![](../assets/kit_icons/kit_grenadier_outline.png)**القناص**. محدود بواحد في كل فرقة وبـ **8 في كل فريق**. عادةً ما يكون مجهزًا بقاذف قنابل تحت السبطانة مرتبط ببندقيته الهجومية. يكون العمل الرئيسي له هو استهداف المناطق ذات الرؤية المنخفضة حيث يُشتبه في وجود العدو، بالإضافة إلى مضايقة المركبات الخفيفة. إنه مفيد بشكل خاص للمواجهات عن بُعد ولمحاربة الأعداء المحاصرين داخل المباني.
 
-## _Specialist Kits_ {#specialist_kits}
+أطقم الاختصاصيين
 
-In addition to the above described Standard Kits, in PR there exists a wide selection of **Specialist Kits** capable of highly specialized tasks. Some of these kits include the Heavy Anti-Tank, the Combat Engineer, the Marksman, the Sniper or the Anti-Air Rifleman, among others. 
+بالإضافة إلى الأطقم القياسية الموصوفة أعلاه، توجد في PR مجموعة واسعة من **أطقم الاختصاصيين** قادرة على أداء مهام متخصصة للغاية. تشمل بعض هذه الأطقم القاذف الثقيل للدبابات، ومهندس القتال، والرامي الماهر، والقناص، أو رامي الدفاع الجوي، بين آخرين.
 
-It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described [below](kits.md#kit-request). Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
+لا يمكن الظهور مباشرة بأحد هذه الأطقم المحدودة والمتخصصة. للحصول عليها، يحتاج اللاعب إلى طلبها من صناديق الإمدادات أو الآليات المتحالفة وفقًا لإجراء موصوف [أدناه](kits.md#kit-request). علاوة على ذلك، واعتمادًا على عدد اللاعبين في الفريق، تكون **هذه الأطقم محدودة بعدد معين منها لكل فريق**. في الجدول التالي، يتم تلخيص هذه القيود:
 
-| Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
+| الطقم | 1-7 لاعبين | 8-15 لاعبًا | 16-23 لاعبًا | 24-31 لاعبًا | 32- 50+ لاعبًا |
 | --- | --- | --- | --- | --- | --- |
-| **Machine Gunner** | 1 | 2 | 3 | 3 | 4 |
-| **Marksman** | 1 | 2 | 3 | 3 | 4 |
-| **Anti-Personnel Rifleman** | 1 | 2 | 3 | 3 | 4 |
-| **Spotter** | 0 | 1 | 1 | 2 | 2 |
-| **Combat Engineer** | 0 | 1 | 1 | 2 | 2 |
-| **Anti-Air Rifleman** | 0 | 1 | 1 | 2 | 2 |
-| **Sniper** | 0 | 1 | 1 | 2 | 2 |
-| **Heavy Anti-Tank** | 0 | 1 | 1 | 1 | 1 |
+| **قاذف الرشاش** | 1 | 2 | 3 | 3 | 4 |
+| **الرامي الماهر** | 1 | 2 | 3 | 3 | 4 |
+| **رامي الدفاع الجوي** | 1 | 2 | 3 | 3 | 4 |
+| **المراقب** | 0 | 1 | 1 | 2 | 2 |
+| **مهندس القتال** | 0 | 1 | 1 | 2 | 2 |
+| **رامي الدفاع الجوي** | 0 | 1 | 1 | 2 | 2 |
+| **القناص** | 0 | 1 | 1 | 2 | 2 |
+| **القاذف الثقيل للدبابات** | 0 | 1 | 1 | 1 | 1 |
 
-Furthermore, your squad also requires a minimum amount of players before you can request these kits:
+علاوة على ذلك، يتطلب فريقك أيضًا عددًا أدنى من اللاعبين قبل أن تتمكن من طلب هذه الأطقم:
 
-| Kit | Minimum Squad Size |
+| الطقم | الحد الأدنى لحجم الفريق |
 | --- | --- |
-| **Machine Gunner** | 6 |
-| **Marksman** | 6 |
-| **Anti-Personnel Rifleman** | 4 |
-| **Spotter** | 2 |
-| **Combat Engineer** | 3 |
-| **Anti-Air Rifleman** | 3 |
-| **Sniper** | 3 |
-| **Heavy Anti-Tank** | 3 |
+| **قاذف الرشاش** | 6 |
+| **الرامي الماهر** | 6 |
+| **رامي الدفاع الجوي** | 4 |
+| **المراقب** | 2 |
+| **مهندس القتال** | 3 |
+| **رامي الدفاع الجوي** | 3 |
+| **القناص** | 3 |
+| **القاذف الثقيل للدبابات** | 3 |
 
-Due to the highly restricted nature of these kits, it is **strongly recommended** that new and unexperienced players **DO NOT** use them. If they do, they risk wasting and losing these crucial team assets, leaving the team in a notable disadvantage. **Remember to ALWAYS ask your Squad Leader before taking any of these kits**.
+نظرًا للطبيعة المقيدة لهذه الحقائب ، يُوصى **بشدة** بعدم استخدامها من قبل اللاعبين الجدد وغير المتمرسين. إذا فعلوا ذلك ، فإنهم يخاطرون بإهدار وفقدان هذه الأصول الفريقية الحاسمة ، مما يترك الفريق في موقف تحت المراقبة. **تذكر دائمًا أن تطلب إذن قائد الفريق قبل استخدام أي من هذه الحقائب المتخصصة**.
 
-Here follows a more detailed description of each specialized kit:
+وهنا يتبع وصف مفصل لكل حقيبة متخصصة:
 
-* ![](../assets/mlg.png)**Machine Gunner \(MG\)**. Although a heavier and more cumbersome version of the Automatic Rifleman \(AR\), thanks to his greater firepower, the Machine Gunner is a lethal soldier cappable of pinning down entire squads and is unparalelled in long-distance engagements.
-* ![](../assets/marskman.png)**Marksman**. The Marksman excels providng his squad with low rate but high accuracy fire. He is a proficient shooter while engaging objectives or enemies beyond the rifleman range.
-* ![](../assets/ap.png)**Anti-Personnel Rifleman \(AP\)**. The AP Rifleman comes with powerful anti-personnel mines equipped with remote detonators. He is most useful preparing ambushes or using his explosives to defend tactical objectives.
-* ![](../assets/sniper.png)**Sniper**. The sniper shines while in reconnaissance missions and providing the team with intel regarding enemy movements and positions. Equipped with a high precision sniper rifle, he is also capable of engaging enemies from very long distances. Due to its limitation of 2 per team, in PR, taking the sniper kit for arcadish solo missions is highly frowned upon.
-* ![](../assets/spotter.png)**Spotter**. Issued with a grappling hook and binoculars, the Spotter is able to position himself in vantage points in order to gather key intel from the battlefield. He is also capable of using his laser designator to set targets for air strikes. His role typically involves supporting Armor and Close Air Support elements, as well as snipers.
-* ![](../assets/combat_engineer.png)**Combat Engineer**. Specialist in explosives and demolitions. Equipped with Anti-Vehicle Landmines, he is the designated person to establish mine fields or to defuse them. Be mindful that mines are activated by both allies and enemy troops! He also comes with several explosives for demolitions and can repair light vehicles.
-* ![](../assets/aa.png)**Anti-Air Rifleman \(AA\)**. He comes equipped with a handheld Anti-Air weapon system, making him the person to deter and take down enemy air elements. His restriction to 2 per team makes him a highly critical asset. Do not waste this kit!
-* ![](../assets/hay.png)**Heavy Anti-Tank \(HAT\)**. The HAT is a highly effective threat against armor and can destroy vehicles with extreme prejudice even at long ranges. The high limitation of this kit \(**1 per team**\) makes this an absolutely critical kit. Losing or wasting it can change the course of a battle. For this reason, players without the required experience are **emphatically asked** to stay away from it.
+* ![](../assets/kit_icons/kit_mg_outline.png)**رامي الرشاش \(MG\)**. على الرغم من كونه نسخة أثقل وأكثر سخونة من رامي البندقية التلقائية \(AR\), إلا أنه بفضل قوته النارية الأكبر، يعتبر رامي الرشاش جنديًا فتاكًا قادرًا على تثبيت فرق كاملة ولا يضاهى في المواجهات على مسافات بعيدة.
+* ![](../assets/kit_icons/kit_marksman_outline.png)**رامي القنص**. يتفوق رامي القنص في توفير نيران منخفضة السرعة وعالية الدقة لفريقه. إنه مُبارز ماهر عند التعامل مع الأهداف أو الأعداء خارج نطاق الجندي العادي.
+* ![](../assets/kit_icons/kit_claymore_outline.png)**رامي البنادق المضادة للأفراد \(AP\)**. يأتي رامي البنادق المضادة للأفراد مزودًا بألغام قوية مضادة للأفراد مجهزة بمفجرات عن بعد. إنه مفيد للغاية في التحضير للكمائن أو استخدام متفجراته للدفاع عن الأهداف التكتيكية.
+* ![](../assets/kit_icons/kit_sniper_outline.png)**قناص**. يتألق القناص أثناء المهام الاستطلاعية وتوفير المعلومات للفريق بشأن حركة العدو ومواقعه. مجهز ببندقية قنص عالية الدقة، كما أنه قادر على مواجهة الأعداء من مسافات بعيدة جدًا. نظرًا لقيوده البالغة 2 لكل فريق، في PR، يُعتبر أمرًا مستهجنًا بشدة استخدام عدة القناص للمهام الفردية الأركادية.
+* ![](../assets/kit_icons/kit_spotter_outline.png)**مرشد**. يأتي المرشد مزودًا بخطاف تسلق ومناظير، مما يمكنه من تحديد مواقع استراتيجية لجمع المعلومات الرئيسية من ساحة المعركة. كما أنه قادر على استخدام جهاز توجيه الليزر الخاص به لتحديد الأهداف لضربات جوية. يتضمن دوره عادة دعم عناصر الدبابات والدعم الجوي القريب، بالإضافة إلى القناصين.
+* ![](../assets/kit_icons/kit_engineer_outline.png)**مهندس قتالي**. متخصص في المتفجرات والتدمير. مجهز بألغام أرضية مضادة للمركبات، وهو الشخص المعين لإنشاء حقول الألغام أو تفكيكها. تذكر أن الألغام تُنشط من قبل الحلفاء والقوات العدو! كما أنه يأتي أيضًا مع عدة متفجرات للتدمير ويمكنه إصلاح المركبات الخفيفة.
+* ![](../assets/kit_icons/kit_aa_outline.png)**رامي الدفاع الجوي \(AA\)**. يأتي مجهزًا بنظام سلاح دفاع جوي محمول، مما يجعله الشخص المناسب لردع وإسقاط عناصر الجو العدو. تقييده بـ 2 لكل فريق يجعله أصولًا حرجًا للغاية. لا تهدر هذه العدة!
+* ![](../assets/kit_icons/kit_ataa_outline.png)**مدمر الدروع الثقيل \(HAT\)**. يُعتبر مدمر الدروع الثقيل تهديدًا فعالًا ضد الدروع ويمكنه تدمير المركبات بحسم حتى على مسافات بعيدة. تقييده العالي بـ \(**1 لكل فريق**\) يجعل هذه العدة حرجة للغاية. فقدانها أو إهدارها يمكن أن يغير مجرى المعركة. لهذا السبب، يُطلب بشدة من اللاعبين الذين ليس لديهم الخبرة اللازمة الابتعاد عنها.
 
 
-## _Insurgency Kits_ {#insurgency-kits}
+## _أطقم التمرد_ {#insurgency-kits}
 
-Unique to some of the irregular forces and/or the Insurgency game mode are a number of kits for use in asymmetric styles of warfare. Often less sophisticated than to military issued gear in terms of capability, the insurgent kits are often issued a very varied mixture of firearms and an assortment of other improvised equipment to help mitigate aforementioned capability gap. Particularly of note is the Iraqi Insurgency as their infantry small arms table is vastly different from all other factions and thus warrants a closer inspection:
+فريدة من نوعها لبعض القوات الغير منتظمة و/أو وضع اللعبة التمردية هي عدد من الأطقم للاستخدام في أنماط الحرب غير المتماثلة. غالبًا ما تكون أقل تطورًا من العتاد الصادر عن الجيش من حيث القدرة، حيث يتم توزيع أطقم المتمردين مزيجًا متنوعًا من الأسلحة النارية ومجموعة متنوعة من الأدوات المحلية للمساعدة في التخفيف من الفجوة المذكورة في القدرة. يُلاحظ بشكل خاص التمرد العراقي حيث إن جدول أسلحة الجنود العاديين لديهم يختلف بشكل كبير عن جميع الفصائل الأخرى وبالتالي يبرز الحاجة إلى فحص أقرب:
 
-**Iraqi Insurgent Spawn Screen Kits**
-* Cell Leader: The Insurgent version of the Officer Kit.
-* Insurgent: The Insurgent Rifleman class archetype. Not all of them feature Extra Ammunition, and utilize booby traps or anti-tank grenades instead. Their assortment of weapon system varies from Shotguns to SMGs to Assault or Battle Rifles.
-* Sapper: Another support class. Sappers work as a combination of the Combat Engineer and Rifleman AP class. Their main purpose is to set up ambushes against enemy footsoldiers and vehicles, as well as area denial. They have limited access to firearms and have to stay away from combat as they do not pass for civilians and are legal targets. They do not have access to a wrench unlike a true Combat Engineer.
-* Collaborator: This unique class features elements of the medic class with light personal arms, but can also opt to go unarmed into the conflict using the alternate kit loadout. Outside of reviving and healing friendlies or helping with their grappling hook, their main purpose is to feed hostile positions and other information to the team while remaining an unsuspecting bystander of the conflict. Killing a Collaborator under certain conditions constitutes a violation of the Rules of Engagement, penalizing the killer and his team. The coalition forces thus have to restrain themselves from shooting everyone on-sight. On the other hand, collaborators are valuable sources of intel points because their ability to defend themselves against an arrest is very limited at best and more often than not a game of cat and mouse among houses and rooftops. Only two of these are allowed in a squad at any time.
+**أطقم شاشة الإنتاج العراقية للمتمردين**
+* ![](../assets/kit_icons/kit_officer_outline.png)**قائد الخلية**. النسخة العراقية من طقم الضابط.
+* ![](../assets/kit_icons/kit_carbine_assault_outline.png) 
+  ![](../assets/kit_icons/kit_battle_rifle_assault_outline.png) 
+  ![](../assets/kit_icons/kit_insurgent_assault_outline.png) 
+  ![](../assets/kit_icons/kit_rifle_outline.png)**المتمرد**. نموذج فئة الجندي العادي للمتمردين. لا تتميز جميعها بالذخيرة الإضافية، وتستخدم الألغام العبوية أو القنابل المضادة للدبابات بدلاً من ذلك. تتنوع مجموعتهم من أنظمة الأسلحة من بنادق الصيد إلى رشاشات الرصاص الفردية إلى بنادق الهجوم أو القتال.
+* ![](../assets/kit_icons/kit_specops_outline.png)**مهندس الطرق**. فئة دعم أخرى. يعمل مهندسو الطرق كمزيج من مهندس القتال وفئة الجندي العادي المضاد للدروع. الغرض الرئيسي منهم هو إعداد كمائن ضد الجنود الأعداء والمركبات، فضلاً عن منع المنطقة. لديهم وصول محدود إلى الأسلحة النارية ويجب أن يبتعدوا عن المعركة لأنهم لا يمرون كمدنيين وهم أهداف قانونية. ليس لديهم وصول إلى مفتاح ربط كما هو الحال مع مهندس القتال الحقيقي.
+* ![](../assets/kit_icons/kit_medic_outline.png)**المتعاون**. تتميز هذه الفئة الفريدة بعناصر من فئة الطبيب مع أسلحة شخصية خفيفة، ولكن يمكنهم أيضًا الاختيار من الذهاب بدون سلاح إلى الصراع باستخدام تحميلة الطقم البديلة. خارج إعادة الإحياء والشفاء للأصدقاء أو المساعدة في استخدام خطافهم، الغرض الرئيسي منهم هو تغذية المواقع العدائية ومعلومات أخرى للفريق مع البقاء كشاهد لا يشتبه به في الصراع. قتل المتعاون تحت ظروف معينة يشكل انتهاكًا لقواعد الاشتباك، مع عقوبة للقاتل وفريقه. لذلك يجب على القوات التحالفية كبح أنفسها عن إطلاق النار على الجميع عند الرؤية. من ناحية أخرى، المتعاونون مصادر قيمة لنقاط المعلومات لأن قدرتهم على الدفاع عن أنفسهم ضد الاعتقال محدودة للغاية على أفضل تقدير وغالبًا ما يكون لعبة صيد الفأر بين المنازل والأسطح. يُسمح بوجود اثنين فقط من هؤلاء في فريق في أي وقت.
 
-**Insurgent Pick Up Kits**
-The Iraqi Insurgents cannot, for the most part, access some of their heavier weaponry from the spawn menu. They instead either pick up or request them from the main base vehicle repair station or an active cache. Caches of the Iraqi Insurgency spawn a number of machine guns otherwise not accessible to an insurgent squad. In their main bases usually limited numbers of Marksmen, Sniper, Engineer and RPG kits may be picked up as well.
+أطقم الانتفاضيين لالتقاط الأسلحة
 
-The last class unique to the insurgent forces is the Civilian: When dropping your player kit, the player is issued a dummy kit. Some irregular factions gain the civilian status effect when using it for 2 minutes or longer. The civilian kit, much like the collaborator mentioned above acts like a scout and a deterrent against military assaults, but has no means to help the team in terms of other support equipment.
+لا يمكن للمتمردين العراقيين، في معظم الأحيان، الوصول إلى بعض أسلحتهم الثقيلة من قائمة الظهور. بدلاً من ذلك، يقومون بالتقاطها أو طلبها من محطة إصلاح المركبات في القاعدة الرئيسية أو من مخزن نشط. تنشأ مخازن الانتفاضيين العراقيين عددًا من البنادق الآلية التي لا يمكن الوصول إليها بواسطة فرقة من المتمردين. في قواعدهم الرئيسية، يمكن التقاط أعداد محدودة من أطقم القناصين، والقناصين، والمهندسين، والقاذفات الصاروخية أيضًا.
 
-*A more in-depth explanation on the collaborator and civilians can be found in a separate section of the manual  [**here**](../the_civilian.md#the_civilian).
+الفئة الأخيرة الفريدة للقوات الانتفاضية هي المدني: عند إسقاط طقم، يتم تزويد اللاعب بطقم وهمي. تحصل بعض الفصائل غير النظامية على تأثير حالة المدني عند استخدامه لمدة 2 دقيقة أو أكثر. يعمل طقم المدني، تمامًا مثل المتعاون المذكور أعلاه، ككشاف وعامل ردع ضد الهجمات العسكرية، لكنه ليس لديه وسائل لمساعدة الفريق من حيث المعدات الأخرى للدعم.
 
-## _Other Kits_ {#other-kits}
+يمكن العثور على شرح أعمق حول المتعاون والمدنيين في قسم منفصل من الدليل [هنا](the_civilian.md#the_civilian).
+## أطقم المركبات
 
-In addition to the kits already described, there are some special kits that have special rules. These are the Crewman, the Pilot, the Civilian and all the Insurgent kits. The Civilian and Insurgent kits pertain to the **Insurgency Game Mode** and are thus described in the corresponding section of the manual {\#Insurgency}.
+بالإضافة إلى الأطقم الموصوفة بالفعل، هناك بعض الأطقم الخاصة للوصول إلى المركبات العسكرية الكبيرة والطائرات؛ وتسمى هذه الأطقم **الطاقم** (للمركبات المدرعة) و**الطيار** (للطائرات). بدونهم، يصبح من المستحيل الوصول إلى وظائف مفتاحية في هذه المركبات وسيتم عرض شاشة سوداء فقط عند دخول السائق، والمدفعي، والمساعد، وبعض المقاعد الأخرى في المركبة.
 
-In addition to the kits already described, there are some special kits to access the larger military vehicles and aircraft; these are called the **Crewman** \(Armored Vehicles\) and **Pilot** \(Air Vehicles\) kit. Without them, accessing key functionalities of these vehicles is impossible and only a black screen will be shown when entering driver, gunner, co-pilot and certain other seats of a vehicle. They are one of the few kits which have no limitations on both how many people need to be in the squad to be requested and how many of them can be issued per squad in total. As specialised kits, they are very limited in their choice of weaponry, with only a small number of factions issuing rifles to their Crewmen, with Pilots receiving pistols only. As they are a type of Specialist Kit, it is not possible to directly spawn with them and must be requested as usual {\#kit\_request}. They have, however, no restriction about the number of them that can simultaneously be in a team and thus can also be considered unlimited kits.
+إنهما من بين الأطقم القليلة التي ليس لها قيود على عدد الأشخاص الذين يجب أن يكونوا في الفرقة لطلبها وعلى عدد الأطقم التي يمكن إصدارها لكل فرقة بشكل عام. كأطقم متخصصة، فإن اختيار أسلحتهم محدود للغاية، حيث تصدر عدد قليل من الفصائل بنادق لطواقمها، ويتلقى الطيارون فقط مسدسات. كونهما نوعًا من الأطقم المتخصصة، فإنه ليس من الممكن أن يتم إنشاؤهما مباشرة ويجب طلبهم كالمعتاد (انظر [أدناه](kits.md#kit-request)). ومع ذلك، ليس هناك أي قيود على عدد الأطقم التي يمكن أن تكون في الفريق في نفس الوقت وبالتالي يمكن اعتبارها أيضًا أطقمًا غير محدودة.
 
-* ![](../assets/pilot.png)**Pilot**. The pilot is the only kit capable of operating helicopters and fixed-wing aircrafts. It comes equipped with a side arm, a parachute and a signal smoke grenade. Do not attempt to operate aircraft without proper experience.
-* ![](../assets/crewman.png)**Crewman**. It is the only kit capable of operating armored vehicles. The crewman is equipped with a compact weapon for self-defense and with binoculars to study the battlefield. Normally, both the driver and the gunner in an armored vehicle need the crewman kit.
+* ![](../assets/kit_icons/kit_pilot_outline.png)**الطيار**. الطيار هو الأطقم الوحيد القادر على تشغيل المروحيات والطائرات ذات الأجنحة الثابتة. يأتي مجهزًا بسلاح جانبي ومظلة وقنبلة دخان إشارة. لا تحاول تشغيل الطائرات بدون تجربة مناسبة.
+* ![](../assets/kit_icons/kit_crewman_outline.png)**الطاقم**. هو الأطقم الوحيد القادر على تشغيل المركبات المدرعة. يتم تجهيز الطاقم بسلاح مدمج للدفاع عن النفس وبناظير لدراسة ساحة المعركة. عادةً ما يحتاج السائق والمدفعي في المركبة المدرعة إلى أطقم الطاقم.
 
-## _Kit Request Procedure_ {#kit-request}
+إجراء طلب الطقم
 
-Once spawned, and if certain conditions are met, it is possible to request a new kit \(both Standard or Specialist\) from an allied supply crate or armored vehicle. Usually, in order to request a kit, these 3 conditions need to be met:
+بمجرد الظهور، وإذا تم تحقيق بعض الشروط، يمكنك طلب طقم جديد (سواء كان قياسيًا أو متخصصًا) من صندوق إمدادات حليف أو مركبة مدرعة. عادةً ما يجب تحقيق الشروط الثلاثة التالية لطلب طقم:
 
-* **Permission**. You have the Squad Leader's permission. He gets to decide who gets what
-* **Location**. You are in the right place to request a kit - next to an allied supply crate or armored vehicle
-* **Required Numbers**. You are part of a squad with the required minimum number of members
+- **الإذن**. يجب أن يكون لديك إذن قائد الفرقة. هو من يقرر من يحصل على ما.
+- **الموقع**. يجب أن تكون في المكان المناسب لطلب الطقم - بجوار صندوق إمدادات حليف أو مركبة مدرعة.
+- **الأعداد المطلوبة**. يجب أن تكون جزءًا من فرقة تحتوي على الحد الأدنى المطلوب من الأعضاء.
 
-The following actions can temporarily restrict your right to request kits:
+يمكن أن تقيد الإجراءات التالية حقك مؤقتًا في طلب الطقم:
 
-| Condition | Time Penalty |
+| الشرط | العقوبة الزمنية |
 | --- | --- |
-| You either spawn, or request and get granted, a limited kit | Unable to request a kit for 2 minutes |
-| You change squads | Blocked for +2 minutes |
-| You kill a teammate \(teamkilling\) carrying a limited kit | Blocked for +3 minutes |
-| You spam several kit requests in a short time | Blocked for +30 seconds |
-| You kill a civilian violating the Rules of Engagement \(Insurgency\) | Blocked for +10 minutes |
+| إما أن تظهر، أو تطلب وتحصل على، طقم محدود | غير قادر على طلب طقم لمدة 2 دقيقة |
+| تغيير الفرق | محظور لمدة +2 دقيقة |
+| قتل زميل (قتل الفريق) يحمل طقم محدود | محظور لمدة +3 دقائق |
+| إرسال طلبات عديدة للطقم في وقت قصير | محظور لمدة +30 ثانية |
+| قتل مدني ينتهك قواعد الاشتباك (التمرد) | محظور لمدة +10 دقائق |
+لطلب مجموعة، يجب اتباع تسلسل مفتاح معين:
 
-To request a kit a specific key sequence needs to be followed:
-
-| Key Sequence to Request a Kit |
+| تسلسل المفاتيح لطلب مجموعة |
 | --- |
-| 1. Press and hold the **Secondary Radio key /\(T/\)** \(it will bring up a _Comm Rose_\), |
-| 2. With the mouse, select the central option of the Comm Rose \(**REQUEST / DROP KIT"**\) and **left-click** on it. This will open a menu list with all kits in it |
-| 3. Move your mouse to highlight the desired kit. The highlighted HUD element then displays further STD and ALT to allow the request of a kit’s standard or alternate loadout. **Left-click** on the highlighted variant of your choice to issue the kit request |
-| 4. If all conditions are met, the requested kit will be automatically picked up, discarding your current kit in the process |
+| 1. اضغط واستمر في الضغط على **مفتاح الراديو الثانوي (T)** (سيظهر _Commo Rose_), |
+| 2. باستخدام الماوس، حدد الخيار المركزي في Comm Rose (**REQUEST / DROP KIT**) واضغط عليه بالزر الأيسر. سيتم فتح قائمة بجميع المجموعات فيها |
+| 3. حرك الماوس لتحديد المجموعة المرغوبة. سيعرض العنصر المميز على الشاشة الرئيسية بعد ذلك STD و ALT للسماح بطلب تحميل مجموعة قياسي أو بديل. انقر بالزر الأيسر على النسخة المميزة التي تختارها لطلب المجموعة |
+| 4. إذا تم تلبية جميع الشروط، سيتم اختيار المجموعة المطلوبة تلقائيًا، مع التخلص من المجموعة الحالية الخاصة بك في العملية |
 
-If your request is denied, you will see a yellow text message explaining why:
+إذا تم رفض طلبك، سترى رسالة نصية صفراء تشرح السبب:
 
-If you requested the kit in the wrong location:
+إذا طلبت المجموعة في الموقع الخطأ:
 
-* **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**, OR
-* **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
+* **"يجب أن تكون قريبًا من صندوق إمداد صديق أو APC لطلب هذه المجموعة"**, أو
+* **"يجب أن تكون قريبًا من صندوق إمداد صديق أو مركبة لطلب هذه المجموعة"**
 
-  If the squad that you are in fails the squad requirements:
+إذا فشلت الفرقة التي تنتمي إليها في متطلبات الفرقة:
+* **"غير متاح بسبب قيود الفرقة"**
 
-* **“Unavailable due to squad limitations”**
+إذا تم منح جميع المجموعات المسموح بها بالفعل للفريق:
 
-  If all allowed kits have already been granted to the team:
+* **"تم منح جميع هذه المجموعات"**
 
-* **“All of these kits have been issued”**
+أسباب أخرى محتملة:
 
-  Other possible reasons:
+* **"غير متاح لقواتك"**
+* **"لا يمكنك الحصول على مجموعة محدودة أخرى بعد وقت قصير من آخر طلب"**
+* **"أنت جديد في هذه الفرقة، قدم الطلب مرة أخرى بعد دقيقة"**
 
-* **“Unavailable for your forces”**
-* **“You can't get another limited kit so soon after your last”**
-* **“You are new to this squad, request again in a minute”**
+## _إجراء إسقاط المجموعة_ {#drop-kit}
+في بعض الحالات ، قد ترغب في التخلص من حقيبتك. عادة:
 
-## _Kit drop procedure_ {#drop-kit}
+* اخترت عدوًا بشكل متعمد أو غير متعمد \(الذي سيقتلك بعد 30 ثانية ما لم تتخلص منه\),
+* أنت طبيب جراح مصاب وترغب في إعطاء حقيبتك لشخص آخر حتى يتمكنوا من علاجك،
+* ترغب في تبديل الحقائب مع شخص أكثر خبرة أو مهارة منك،
+* تريد أن تصبح مدنيًا أثناء اللعب في وضع الثورة.
 
-In certain situations, you might want to drop your kit. Most typically:
+ما عليك سوى اتباع هذا التسلسل:
 
-* You intentionally or unintentionally picked an enemy kit \(which **will kill you after 30 seconds** unless you drop it\), 
-* You are a wounded medic and want to give your kit to someone else so that they can heal you, 
-* You wish to swap kits with someone more experienced or skillful than you, 
-* You want to become a Civilian while playing in Insurgency mode.
-
-Simply follow this sequence:
-
-| Key Sequence to Drop your Kit |
+| تسلسل مفاتيح للتخلص من حقيبتك |
 | --- |
-| 1. **Press and hold down the Secondary Radio key /\(T/\)** |
-| 2. Select the middle option of the _Comm Rose_ \(**REQUEST / DROP KIT"**\) and to **right-click** in it. This will drop your old kit below you, and you will wear an invisible Unarmed Kit. |
+| 1. اضغط واستمر في الضغط على **مفتاح الراديو الثانوي \(T\)** |
+| 2. حدد الخيار الأوسط في _Commo Rose_ \(**طلب / إسقاط الحقيبة**\) وانقر بزر الفأرة الأيمن عليه. سيتم إسقاط حقيبتك القديمة تحتك ، وسترتدي حقيبة غير مسلحة غير مرئية. |
 
-Note that a kit on the ground will disappear after about 5 minutes so long as it has not been picked up in the interim. The eventually despawning kits with limited availability squad- or team-wise become requestable from the squad‘s or team’s kit pool again once they disappear.   
+يرجى ملاحظة أن الحقيبة على الأرض ستختفي بعد حوالي 5 دقائق طالما لم يتم اختيارها في الوقت الفاصل. تصبح الحقائب التي تختفي في النهاية والتي تكون متاحة بشكل محدود للفرق أو الفرق قابلة للطلب مرة أخرى من مجموعة الحقائب للفرقة أو الفريق عندما تختفي.
 
-A dropped kit is visble on the ground looking like a bundle of military clothes with some extras, depending on faction, the items might eg. be in that faction’s camouflage pattern, etc. . The kit can be picked up by other players(though only team mates are able to use it for extended periods of time) by going near the items and pressing **\(G\)** to swap the kit with their current kit. As long as your previously discarded kit has not despawned you can always go and pick it back up.
+تظهر الحقيبة المسقطة على الأرض على شكل حزمة من الملابس العسكرية مع بعض الإضافات ، اعتمادًا على الفصيل ، قد تكون العناصر على سبيل المثال في نمط التمويه لتلك الفصيلة ، إلخ. يمكن للاعبين الآخرين التقاط الحقيبة \(على الرغم من أن الزملاء فقط قادرون على استخدامها لفترات طويلة\) عن طريق الذهاب بالقرب من العناصر والضغط على **\(G\)** لتبديل الحقيبة مع حقيبتهم الحالية. طالما أن حقيبتك التي تم التخلص منها سابقًا لم تختفي ، يمكنك دائمًا الذهاب والتقاطها مرة أخرى.

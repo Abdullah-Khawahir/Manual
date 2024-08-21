@@ -18,13 +18,13 @@
   * **Target Laze**هو وضع علامة بالليزر علي موقع معين ليتم قصفه منقبل الدعم الجوي.
 
 {% figure "../assets/commands.png" %}
-Possible commands, squad orders and icons commander can use.
+الأوامر الممكنة، وأوامر الفرقة والرموز التي يمكن للقائد استخدامها.
 {% endfigure %}
  **اوامر الفرق** :
 **بعض العلامات يمكن أستعمالها مع الضباط يمكن اختيار فرقة من القائمة التي علي اليسار و من ثم اعطائهم الأوامر , اذا قبلو (PAGE UP) ستبدل  العلامة التي وضعها قائد الفرقة بعلامتك انت.**
 
 {% figure "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
-The build, observe, defend, demolish and move markers, respectively.
+البناء، المراقبة، الدفاع، الهدم والتحرك، على التوالي.
 {% endfigure %}
 
 

@@ -1,424 +1,459 @@
-# The Basics
+# الأساسيات
 
-Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is by far the most fun to play in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. We expect you to have some basic understanding of BF2 when it comes to navigating the menu’s in-game such as scoreboard, map and kit selection. You can always start up BF2 and do the tutorial there to get acquainted with its interface. This manual will focus on the differences with BF2.
+الأمر الأهم هو **الانضمام إلى فرقة**. بعض الخوادم حتى تفرض ذلك عن طريق طرد اللاعبين الفرديين بعد فترة تحذير. اللعبة أكثر متعة عند اللعب في فرقة تعمل بشكل جيد. إذا كنت بحاجة إلى أي مساعدة، فقط **اسأل اللاعبين في فرقتك** ما يجب القيام به. إذا كان ذلك ممكنًا، استخدم Mumble. إنه مستخدم بشكل شائع في PR. اللعب في PR:BF2 بدون ميكروفون لن يمنحك التجربة الكاملة لذلك فإنه استثمار حكيم. إذا لم يجيب أحد، جرب الانضمام إلى فرقة أخرى أو استخدم الدردشة العامة. هناك العديد من أعضاء المجتمع المساعدين الذين يرحبون باللاعبين الجدد ويقدمون لهم المساعدة.
 
-## _Kit selection & spawning_ {#kit-selection-and-spawning}
+نتوقع منك أن تمتلك بعض الفهم الأساسي لـ BF2 عندما يتعلق الأمر بالتنقل في القوائم داخل اللعبة مثل لوحة النتائج والخريطة واختيار العتاد. للتعرف على واجهة PR يمكنك بدء مباراة غير متصلة بالإنترنت عن طريق النقر على التعاوني أو اللاعبين المتعددين، ثم إنشاء محلي، انقر على إضافة الخريطة ثم نفذ.
 
-* When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
-* After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
-* Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(like BF2\), a supply crate [\(see Logistics\)](the_basics.md#logistics) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+## _اختيار العتاد والتوليد_ {#اختيار-العتاد-والتوليد}
 
-In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
+* عندما تبدأ اللعب، يُوصى بأن تولد فقط كـ جندي مع نظرة من اختيارك. بهذه الطريقة يمكنك تعلم الأساسيات الأساسية للعب.
+* بعد تعلم الأساسيات الخاصة بالجنود يمكنك طلب من قائد الفرقة تعيين عتاد متخصص عندما تشعر بأنك جاهز للمهمة. إذا كنت ترغب في تجربة معدات جديدة أو مركبة، يمكنك القيام بذلك بسهولة في وضع التعاون دون إزعاج أعضاء الفرقة أو تعريض أصول فريقك للخطر.
+* العتاد المتخصص والأكثر صعوبة في التشغيل عادة ما يكون محدودًا ويمكن الحصول عليه فقط إذا تم تلبية شروط معينة ضمن فرقة. هذه العتاد المحجوزة محدودة للغاية للفريق ويجب عليك دائمًا السؤال قبل طلب واحدة.
+* يمكن طلب العتاد من القائمة الرئيسية للتوليد (الافتراضي: **Caps Lock**), صندوق إمداد \([انظر اللوجستيات](the_basics.md#logistics)\) أو الجزء الخلفي من مركبة النقل العسكري / المدرعة. لكي تكون لديك القدرة على طلب عتاد من صندوق إمداد أو مركبة، يجب أن تكون جزءًا من فرقة.
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are only available to conventional forces. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
+في PR:BF2 لا يمكنك التوليد في كل نقطة تحكم يسيطر عليها فريقك. نقاط التوليد المتاحة في PR:BF2 هي:
+
+* **نقطة التوليد الفرعية لفرقتك (RP)** هي دائرة خضراء تحيط بنقطة توليد مع رقم فرقتك المجاور لها. يعتمد طول عمرها على موقع نقطة التوليد الفرعية الخاصة بفرقتك بالنسبة لـ FOB للفريق. ملاحظة: إذا تولدت على نقطة توليد فرقة أخرى، ستولد تلقائيًا على نقطة توليد فرقتك الخاصة، أو أي FOB قريب. إذا لم تكن متاحة ستنقل إلى القاعدة الرئيسية لفريقك. إذا تم الاستيلاء عليها من قبل العدو، ستختفي نقطة توليد فرقتك الفرعية. نقاط التوليد الفرعية غير متاحة لكل الفصائل. \([انظر الهياكل القابلة للنشر](the_squad_leader.md#deployable-structures)\)
 
 {% figure "../assets/rally.png" %}
-  A rallypoint.
+نقطة تجمع
 {% endfigure %}
 
-* **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
-* **The commander rally point**. This RP can only be placed by the commander, provided multiple squad’s leaders are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
-* In the insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes to close similar to the FOB.
+* **نقاط تجمع الفريق الخاصة بالخريطة**. هذه النقاط تنتهي عادة بعد 5 دقائق من بدء الجولة ويمكن استخدامها من قبل الفريق بأكمله. كما أنها تسمح فقط بظهور حد أقصى 12 شخصًا عليها حتى تختفي.
+* **نقطة التجمع الخاصة بالقائد**. يمكن وضع هذه النقطة فقط من قبل القائد، بشرط وجود قائد فرقة و4 أفراد من الفرقة بالقرب من القائد. على الخريطة ستظهر هذه النقطة بجانبها حرف "C".
+* **قاعدة تشغيلية أمامية (FOB) أو مخابئ** يمكن استخدامها من قبل الفريق بأكمله للظهور فيها، ولكن يجب بناؤها قبل أن تصبح تشغيلية. على الخريطة ستظهر كنقطة ظهور برمادي أخضر. تصبح تشغيلية بعد مرور 90 ثانية من بنائها. تصبح غير قابلة للظهور لمدة 30 ثانية إذا كان هناك عدو واحد على بعد 10 متر، أو 2 أعداء على بعد 50 متر، أو 4 أعداء على بعد 100 متر، أو 8 أعداء على بعد 150 متر. [\(انظر الهياكل القابلة للنشر\)](the_squad_leader.md#deployable-structures)
+* في وضع اللعب Insurgency، يمكن لفريق المتمردين الدفاعي أن يظهر في **مخازن الأسلحة** التي لم يتم الكشف عنها للعدو، ويُطلق عليها اسم المخزن المجهول. يتم تعطيل هذا الظهور أيضًا إذا اقترب الأعداء كثيرًا، على غرار ما يحدث مع الـ FOB.
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
-FOB, Hideout & weapon cache.
+نقطة التجمع، مخبأ ومخزن للأسلحة.
 {% endfigure %}
 
 
 
-* **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
+* **مقر فريقك، القاعدة الرئيسية أو النقطة الدائمة.** هذه هي النقطة الوحيدة التي يمكن الوصول إليها دائمًا.
 
 {% figure "../assets/acv.png" %}
-Armored Command Vehicle (ACV) found in mainbases only.
+مركبة قيادة مدرعة (ACV) توجد فقط في القواعد الرئيسية.
 {% endfigure %}
 
-* Some maps feature **parachute spawns** where a airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
+* بعض الخرائط تتضمن **نقاط إنزال بالمظلة** حيث يتم تحاكي الهجوم الجوي. سيتم تصوير هذه النقاط على الخريطة الصغيرة. اختر واحدة وستظهر بمظلة تنفتح تلقائيًا.
+## واجهة اللعبة \(HUD\)
+* في واجهة اللعبة في PR:BF2، يتم إخطار اللاعبين بواسطة **رسائل محددة لكل لاعب** التي يمكن رؤيتها فقط من قبل ذلك اللاعب. يتم استخدامها لإعطاء اللاعبين تغذية راجعة حول أحداث اللعبة المختلفة على سبيل المثال:
+  * السبب في عدم منح اللاعب العدة التي طلبها.
+  * السبب في عدم إمكانية بناء الأصل القابل للنشر الذي طلبه اللاعب.
+  * أن اللاعب يجب أن يخرج من السيارة أو المقعد الحالي لتجنب العقوبة.
+* يستخدم PR أيضًا **إشعارات القيادة العليا** التي تُعرض بخط برتقالي كبير في أعلى الشاشة اليسرى. تقدم هذه الإشعارات تحديثات حول الأهداف الحالية وتقدم المهمة ورسائل أخرى أساسية.
+* ستظهر الرسائل المباشرة من مسؤولي الخادم وبعض أنواع إشعارات اللعبة بنص برتقالي بالقرب من مركز الشاشة. بعض هذه الرسائل إعلامية فقط بينما البعض الآخر، خاصة رسائل مسؤولي الخادم، قد تتطلب انتباهك.
+* إذا فاتك رسالة أو إعلان، مثل نتيجة التصويت على الخريطة، يمكنك عرضها مرة أخرى عن طريق الاستمرار في الضغط على زر Tab، ثم النقر بزر الماوس الأيمن مرة واحدة لتنشيط المؤشر الخاص بك والنقر بزر الماوس الأيسر على علامة التبويب **الإشعارات**.
+* تمت إزالة **شعارات الاستهداف** من الشاشة. إذا كنت ترغب في إطلاق النار بدقة، فيجب عليك الضغط على مفتاح الإطلاق البديل لتوجيه نظرك نحو نقاط الهدف للسلاح، أو استخدام BUIS للقتال في المسافات القريبة \(انظر [فصل الأسلحة](weapons_and_equipment.md#buis)\).
+* **تمت إزالة معظم الرموز ثلاثية الأبعاد** لجميع اللاعبين. من الضروري تحديد أهدافك قبل التورط لتجنب إطلاق النار على الأصدقاء. يساعدك تعلم التمييز بين أنماط الكامو، والأعلام، وشكل ملامح جنود الفصائل في تحديد العدو بشكل أسرع. على سبيل المثال، للعثور على قائد الفرقة، ابحث عن هوائي راديو يمتد لأعلى من حقيبته.
+* **لا يوجد شريط حالة الصحة** الذي يشير إلى حالتك الحيوية. \([انظر إدارة الصحة](the_basics.md#health-management)\)
+* **عداد الذخيرة** يعرض فقط وضع إطلاق السلاح وعدد المجلات المتبقية.
+* لتقدير **عدد الطلقات المتبقية** في المجلة يمكنك فتح الوردة التواصلية \(استمرار الضغط: **Q**\) ورؤية مؤشر بصري على كمية الذخيرة المتبقية.
 
-## _In-game interface \(HUD\)_ {#hud}
-* In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
-  * The reason why the player is not issued the kit being requested.
-  * The reason why the deployable asset that the player requested could not be built.
-  * That the player must exit the vehicle or the current seat to avoid punishment.
-* PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
-* Direct messages from server administrators and some types of game notifications will appear in orange text near the center of the screen. Some of these are just informative while others, especially messages from server administrators, may require your attention.
-* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see the weapons chapter\).
-* **Most 3D icons have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. [\(see Health Management\)](the_basics.md#health-management)
-* **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(**Q**\) and see a visual indicator of the amount of ammo left. ![](../assets/ammo.png)
-* **The medic** can see how far he is done healing a soldier with the HUD in the bottom right corner. Infantry can watch the same way how long until deployable is finished shoveling.
-* There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only air vehicles use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
-* **The current map & layer** can be viewed on the top of the screen when opening the map with squad/kit menu.
-* Using the little arrow will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
+{% figure "../assets/ammo_check.png" %}
+مؤشر الذخيرة.
+{% endfigure %}
+
+* **الطبيب** يمكنه رؤية مدى اكتمال عملية شفاء الجندي من خلال واجهة المستخدم الرقمية التي تظهر فوق البوصلة. يمكن للجنود المشاة مشاهدة نفس الطريقة لمعرفة متى سينتهي الجهاز القابل للنشر من حفر الأرض.
+
+{% figure "../assets/heal_build_bar.png" %}
+شريط مؤشر الشفاء / البناء.
+{% endfigure %}
+
+* لا توجد **رسائل قتل** \(النيران الصديقة استثناء\). حتى الجدول الزمني لن يظهر من هو على قيد الحياة أو ميت في فريق العدو. إذا كنت بحاجة لمعرفة ما إذا كان شخص ما ميتًا، يجب عليك البحث عن جثته.
+* يستخدم الطائرات وبعض سائقي المركبات الدبابات فقط **خريطة صغيرة** دائمة على الواجهة. يتوفر تراكب الخريطة الكامل للجميع.
+* يمكن رؤية **الخريطة والطبقة الحالية** في أعلى الشاشة عند فتح الخريطة باستخدام قائمة الفرق/الطقم.
+* باستخدام السهم الصغير \(على يسار المؤقت\) ستظهر لك **معلومات الأصول الحالية للخريطة** لجميع المركبات الموجودة على الخريطة بما في ذلك أوقات الإعادة للمركبات الصديقة وما إذا كانت تنتظر بتأخير أو تعيد الظهور بعد تدميرها. القصف الجوي خارج الخريطة أو المدفعية، المعروفة أيضًا باسم هجمات المنطقة، عادة ما تكون محدودة إلى 3 أو 4 استخدامات، ويمكن استخدامها فقط بعد فترات انتظار طويلة نسبيًا.
 
 {% figure "../assets/assets.png" %}
-Current map asset info overlay.
+معلومات الأصول الحالية على الخريطة.
 {% endfigure %}
 
-* **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
-* **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will appear darker and become blurred like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
+* **يمكن رؤية التذاكر المتبقية** لفريقك والوقت المتبقي فقط من شاشة الفريق. لا يتم عرض تذاكر العدو.
+* **القمع** يحدث عندما تكون تحت نيران مدفعية قريبة أو أسلحة ثقيلة أو انفجارات قريبة. ستصبح الشاشة غير واضحة، كما لو كانت تهتز. يحاكي هذا التأثير القدرة المخفضة على الرد بفعالية بينما يتم قمعك من قبل العدو.
 
-{% figure "../assets/suppresion.png" %}
-Normal view of the game (left) and suppresion effect in action (right).
+{% figure "../assets/suppression.png" %}
+العرض العادي للعبة (اليسار) وتأثير القمع في العمل (اليمين).
 {% endfigure %}
-* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, indicated by blinking, sprinting is no longer possible, jumping however still is.
-* When a player is **dead,** he will not be not revivable and black screen with an appropriate message will be displayed instead of seeing their surroundings.
-* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
-* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted from within a vehicle.
-* Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
-* **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
+* يقع على الجانب الأيسر السفلي من الشاشة شريط للقدرة. ستقلل الركض والقفز من القدرة المتاحة، وعدم الركض أو القفز سيعيد تعبئتها ببطء. عندما يتم تقليل القدرة إلى 50٪ أو أقل، كما هو موضح بالوميض، لن يكون الركض ممكنًا بعد، ولكن القفز لا يزال ممكنًا.
+* عندما يكون اللاعب **ميتًا** (يشار إليه عادة بالموت الحقيقي)، فلن يكون قابلًا للإحياء وسيتم عرض شاشة سوداء مع رسالة مناسبة بدلاً من رؤية المحيط.
+* ستتدهور أداة القتال الخاصة بك وتصبح غير دقيقة للإطلاق بناءً على كمية الحركة التي تقوم بها. عند التصويب بنظرة على الأهداف، سيظهر مؤشر **الانحراف** فوق بوصلتك، يُظهر مستوى الانحراف الحالي لأداة القتال الخاصة بك. كلما زادت عرض المؤشر، زادت الانتشار؛ إذا اندمجت النقطتان في نقطة واحدة، فقد وصلت أداة القتال الخاصة بك إلى انحراف منخفض، ولكن قد يستغرق الأمر لحظة أو لحظتين أخريين لكي تصل الأداة إلى دقتها القصوى.
+* **تمت إزالة نظام الكشف التلقائي على الخريطة** من الجنود العاديين. يمكن للمركبات الجوية ما زالت يمكن رؤيتها من داخل مركبة.
+* يمكن للضباط إرسال تقرير **عن الاتصال** إلى القائد أو استخدام راديوهاتهم لوضع علامة يدويًا على خريطة الفريق. يمكن للجنود العاديين فقط أن يصرخوا تحذيرًا عامًا عند رؤية وحدات العدو.
+* **يحتوي راديو Commo-rose (الافتراضي: Q & T)** على عناصر تحتوي على وظيفتين. النقر الأيسر **"إعادة تحميل / وقف إطلاق النار"** يخبر الأشخاص من حولك أنك تقوم بتغيير الخراطيش، بينما يخبرهم النقر الأيمن بالتوقف عن الإطلاق. ينطبق نفس المبدأ على **"انطلق، انطلق، انطلق / انسحب"** وغيرها من عناصر القائمة.
 
 {% figure "../assets/commorose.png" %}
-Commo-rose when pressing Q.
+التواصل السريع عند الضغط على Q.
 {% endfigure %}
-* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
-* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
+* يمكنك **توجيه نفسك** على الخريطة باستخدام عنصر الاتجاه الذي ستجده حول رمز اللاعب الخاص بك.
+* عندما تكون مجهزًا بأسلحة أو معدات معينة، يتم استبدال القائمة الرئيسية للاتصال اللاسلكي بقائمة سياقية صغيرة. عند حملك لـ "field dressing" أو حقيبة الإسعاف، يمكنك استخدام أمر "FIRST AID" لإبلاغ اللاعبين القريبين بأنك ترغب في علاجهم. تستخدم العديد من القطع وبعض الأسلحة قوائم سياقية.
 
-## _Health Management_ {#health-management}
+## _إدارة الصحة_ {#إدارة-الصحة}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25% HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
+الأسلحة في Project Reality قاتلة للغاية ومسألة وقت حتى تتعرض لإصابة وتبدأ في النزيف. على الرغم من أن HUD في PR لا يحتوي على شريط صحة، إلا أنه بمجرد أن تنخفض صحتك دون 75٪، ستظهر إشارات بصرية لتحذيرك مثل شاشة تظلم بانتظام مع تأثير رؤية النفق. عندما تكون الصحة أقل من 25٪، ستسمع سعالًا وزفيرًا ثقيلًا، عند 10 نقاط صحة ستفقد قدرتك على القتال ولا يمكنك استعادتها إلا إذا عالجت نفسك فوق تلك الـ 10 نقاط. أثناء النزيف، سيزداد تأثير تظلم الشاشة ورؤية النفق، مما يقيد فعاليتك في المعركة أكثر فأكثر.
 
-### Healing
+### العلاج
 
-Once in bleed status, you’ll continue to lose HP over time until you eventually pass out. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health. The patch itself does not stop bleeding however. Should your HP, after applying the patch, still be below 75%, you’ll continue to bleed and have merely bought yourself some time, you thus have to apply more field dressings if available, scavenge hostile bodies if necessary.
+بمجرد دخولك في حالة النزيف، ستستمر في فقدان الصحة مع مرور الوقت حتى تفقد الوعي في النهاية. لتجنب ذلك، لديك طريقتان لعلاج نفسك. تحتوي معظم الحقائب تقريبًا على "field dressing" التي يتم اختيارها عن طريق الضغط على المفتاح المناسب أو التنقل من خلال تحديد السلاح الخاص بك. الضغط على زر النار يرميها على الأرض. خلال ثانية أو ثانيتين، ستختفي "field dressing" وسيستعيد اللاعب الذي يقف بجواره 25٪ من إجمالي صحته. التصحيح نفسه لا يوقف النزيف. إذا كانت صحتك، بعد تطبيق الرقعة، لا تزال أقل من 75٪، ستستمر في النزيف ولم تشتري وقتًا لنفسك فقط، لذا يجب عليك تطبيق المزيد من "field dressings" إذا كانت متاحة، والتنقل بين جثث الأعداء إذا لزم الأمر.
 
-The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. They and the Collaborator are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose (“Q”)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be touching the player to be healed, and then hold down the left mouse button. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+تمنح معظم الحقائب فقط "field dressing" واحدة للاستخدام الطارئ، يعتمد اللاعبون بشكل كبير على الأطباء النفسيين في فرقهم أو فرقهم للعودة إلى الصحة الكاملة. الأدوار الطبية والمتعاونة هي الوحيدة التي تمنحها علبة إسعاف أولي لعلاج الأصدقاء دون الحاجة إلى "field dressings". عند الإصابة، استخدم إما mumble أو commo rose ("Q") خيار الاتصال "Medic" لجذب انتباه طبيبك. ومع ذلك، على عكس BF2، لا يمكن للطبيب إلقاء علبة الإسعاف الأولي على الأرض بل يجب أن يمسكها بيديه، ويكون على مسافة تلامس من اللاعب المصاب ثم يضغط على زر الماوس الأيسر بينما ينظر نحوهم. سيشير صوت يحاكي تمزيق الضمادات إلى أن الإسعاف الأولي يتم تطبيقه. يستغرق الشفاء الكامل حوالي 15 ثانية، لذا تأكد من القيام بذلك في مكان آمن.
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
-Field dressing, first aid kit & epipen.
+تضميد الجروح، مجموعة الإسعافات الأولية والإيبين.
 {% endfigure %}
 
-### Reviving
+### إحياء
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(H\) or **squad’s Radio Net \(0 numpad\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team. In order to revive you, the medic select the **epipen** from their weapon selection and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious players torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there. If the player is stuck on uneven ground or in a bad position for reviving, it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot to start dragging. You can drag in all directions including backwards. 
+إذا كنت غير قادر على الشفاء في الوقت المناسب، ستفقد الوعي وستظهر على الشاشة رسالة تقول إنك تعاني من جرح حرج. هذا لا يعني أنك ميت! عندما تصبح في حالة جرح حرج، يمكن للطبيب النقلي إحيائك خلال 5 دقائق، مما يوفر لفريقك تذاكر قيمة. يمكنك استخدام Mumble لتنسيق الطبيب النقلي إلى موقعك عن طريق استخدام القناة المحلية (H) أو شبكة الراديو للفرق (Numpad 0). يمكنك أيضًا النقر على زر استدعاء الطبيب النقلي لتظهر مؤقتًا على الخريطة لكل طبيب في الفريق.
+
+لإحيائك، سيختار الطبيب النقلي الإبرة النقلية من قائمة أسلحته (الافتراضي: 5) وبالإبرة في يده، سيقوم بحقن وإعطاء جرعة الأدرينالين إلى منطقة الصدر المركزية للاعب الذي فقد الوعي عن طريق النقر والاستمرار في الضغط على زر الماوس الأيسر. سيستعيد اللاعب الوعي بعد ذلك ولكنه سيكون فقط بنسبة 10% من الصحة وسيحتاج لاستمرار الشفاء. يجب على الطبيب واللاعب الذي تم إحياؤه مؤخرًا العثور على منطقة آمنة ومواصلة عملية الشفاء هناك.
+
+إذا كان اللاعب عالقًا على أرض غير مستوية أو في وضع سيء للإحياء، فمن الضروري سحب الجسم المصاب إلى وضع أفضل أولاً. لسحب الجسم كطبيب، يجب أن تكون في وضع الانحناء والبقاء فيه. بعد ذلك يمكنك استخدام فتحة السلاح للسحب (الافتراضي: 2) لبدء السحب. يمكنك السحب في جميع الاتجاهات بما في ذلك الخلف.
 
 {{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
 
-### Death
+### الموت
 
-Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, click **Give up** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
+أحيانًا لن يكون اللاعبون قابلين للإحياء، مثل عندما يتم قتل لاعب في مركبة. إذا تم إحياؤك مؤخرًا وأصبحت مصابًا بجروح حرجة مرة أخرى في غضون 2 دقيقة، فلن تكون قابلًا للإحياء في المرة الثانية. إذا كنت مصابًا ولم يتم إحياؤك في غضون 5 دقائق، فسوف تموت أيضًا. إذا لم يكن هناك فرصة للإحياء، انقر على **الاستسلام** على شاشة الظهور. الآن ستظهر الشاشة أنك ميت ويمكنك الاستعداد للظهور من جديد. الوقت الذي قضيته في الانتظار قبل النقر على الاستسلام يحتسب ضمن وقت الظهور الإجمالي الخاص بك.
 
-### Re-spawning
+### الظهور من جديد
 
-A player's respawn time is at least 45 seconds and at most 60 seconds plus temporary penalties. Time spent while waiting for a medic is subtracted from that time. Once a player dies he has to wait at least 5 seconds before spawning. These actions influence the respawn time:
+وقت ظهور اللاعب على الأقل 45 ثانية وعلى الأكثر 60 ثانية بالإضافة إلى العقوبات المؤقتة. يتم خصم الوقت الذي قضاه في انتظار الطبيب من ذلك الوقت. بمجرد موت اللاعب، يجب عليه الانتظار لمدة 5 ثوانٍ على الأقل قبل الظهور من جديد. تؤثر هذه الإجراءات على وقت الظهور من جديد:
 
-* Player death: **+3s**
-* Capturing CP or destroying objective: **-3s**
-* Doing a defensive action: **-1s**
-* Squad built forward outpost: **-10s**
+* موت اللاعب: **+3 ثوانٍ**
+* الاستيلاء على نقطة التحكم أو تدمير الهدف: **-3 ثوانٍ**
+* القيام بإجراء دفاعي: **-1 ثانية**
+* بناء نقطة تجمع للفريق الأمامية: **-10 ثوانٍ**
 
-A temporary spawn time penalty which only affects the next time you die \(building up to 5 minutes\) is added by these actions:
+يتم إضافة عقوبة مؤقتة لوقت الظهور تؤثر فقط على المرة التالية التي تموت فيها \(تصل إلى 5 دقائق\) من خلال هذه الإجراءات:
 
-* Teamkill: **15 seconds per teamkill**
-* Suicide: **15 seconds**
-* Civilian getting captured: **90 seconds**
-* Civilian killed violating ROE: **120 seconds per civilian**
-* Own weapons cache destroyed: **300 seconds**
+* قتل الفريق: **15 ثانية لكل قتل في الفريق**
+* الانتحار: **15 ثانية**
+* اعتقال مدني: **90 ثانية**
+* قتل مدني ينتهك قواعد الاشتباك: **120 ثانية لكل مدني**
+* تدمير مخزن الأسلحة الوديعة: **300 ثانية**
 
-To select a spawn point, bring up the spawn map and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
+لتحديد نقطة الظهور، افتح خريطة الظهور \(الافتراضي: **Enter**\) وحدد موقعًا مناسبًا مميزًا بنقطة بيضاء. بمجرد أن تكون راضيًا عن موقع الظهور ذلك، يجب عليك النقر على زر **الظهور** في الزاوية السفلية اليمنى من شاشة الخريطة للظهور من جديد في اللعبة.
 
-## _Logistics_ {#logistics}
+## _اللوجستيات_ {#logistics}
 
-Whether your running low on ammunition and need to rearm, want a new kit or simply want to build deployables, logistics keep your team alive.
+سواء كنت تواجه نقصًا في الذخيرة وتحتاج إلى إعادة التسليح، أو ترغب في حصول على حقيبة جديدة أو ببساطة ترغب في بناء الأجهزة القابلة للنشر: تبقي اللوجستيات فريقك على قيد الحياة.
 
-### _Ammunition_ {#ammunition}
+### الذخيرة {#ammunition}
 
-To be able to rearm yourself, you'll need to get closer to one of several sources of ammo, which will then automatically re-fill your weapons. These sources are:
+لتكون قادرًا على إعادة التسليح لنفسك، ستحتاج إلى الاقتراب من إحدى عدة مصادر للذخيرة، والتي ستملأ سلاحك تلقائيًا بعد ذلك. هذه المصادر هي:
 
-* **Ammo bags** - These can be found in the rifleman, militant, warrior and some insurgent kits and must be thrown \(left click\) on the ground, for you or other soldiers be able to rearm, or on deployables \(tow, aa, mortars\) to rearm them. 
-* **Ammo boxes** - Dropped by light transported vehicles, APCs and IFVs.
-* **Light/Heavy supply crates** - More information in the [next section](the_basics.md#crates)
-* **Weapons caches** - Available only for insurgents
-* **Vehicle depot** - Present in all main bases, it also heals you
+* **حقائب الذخيرة** - يمكن العثور عليها في حقائب الجندي المسلح، والمقاتل، والمحارب، وبعض أطقم المتمردين، ويجب رميها \(انقر بالزر الأيسر\) على الأرض، لكي يتمكن أنت أو جنود آخرون من إعادة التسليح، أو على الأجهزة القابلة للنشر \(القاطرة، والمدافع المضادة للطائرات، والمدافع\) لإعادة تسليحها.
+* **صناديق الذخيرة** - تُسقط من قبل مركبات النقل الخفيفة، ومركبات النقل المصفحة، ومركبات النقل العسكرية المصفحة.
+* **صناديق الإمداد الخفيفة/الثقيلة** - تُسقط أساسًا من قبل شاحنات النقل أو الإمداد \(المعروفة أيضًا باسم اللوجيستيات\) والمروحيات النقل. لمزيد من المعلومات انظر [صناديق الإمداد](the_basics.md#crates).
+* **مخابئ الأسلحة** - متاحة فقط للمتمردين.
+* **مستودع المركبات** - موجود في جميع القواعد الرئيسية، ويقوم أيضًا بشفاءك.
 
 {% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
-Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
+حقيبة الذخيرة، صندوق ذخيرة قوات التحالف، صندوق ذخيرة الثوار، مخزن الأسلحة ومستودع المركبات.
 {% endfigure %}
 
-Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
-The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
+كن على علم أن جميع مصادر الذخيرة محدودة باستثناء **مخازن الأسلحة** و**مستودع المركبات**. في النهاية، ستنفد هذه المصادر وتختفي. من الممكن حتى أن تنفد مصادر الذخيرة قبل أن تعيد تسليح نفسك تمامًا. تستخدم **حقائب الذخيرة**، **صناديق الذخيرة** و**صناديق الإمداد** نقاط الإمداد لتحديد مدى استخدامها. يمكنك معرفة النقاط المتبقية لصناديق الإمداد وصناديق الذخيرة عن طريق النظر إليها لثانية. ستظهر بجوار البوصلة. تتطلب الأسلحة المختلفة المتاحة في PR كميات مختلفة من نقاط الإمداد لإعادة التزويد. العناصر المنفعية مثل خطاف الحبال، الألغام الإشارية والضمادات الطبية تكلف أقل لإعادة التزويد لكل استخدام من الذخيرة المتفجرة مثل الصواريخ/الصواريخ المضادة للدبابات، القنابل العنقودية والألغام. انظر الجداول أدناه لتكلفة إعادة التزويد لفئة ونوع السلاح المقابل:
 
-**Firearms**
+<div style="text-align: center";>
+<p><b>الأسلحة النارية</b></p>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط التوريد** |
 | --- | --- |
-| **Pistols low capacity** | 15 |
-| **Pistols high capacity** | 30 |
+| **مسدسات سعة منخفضة** | 15 |
+| **مسدسات سعة عالية** | 30 |
 | **PDW** | 30 |
-| **SMG** | 45 |
-| **Shotgun primary** | 50 |
-| **Shotgun breacher** | 25 |
-| **Rifle** | 60 |
-| **Sniper** | 40 |
-| **LMG** | 150 |
-| **GPMG** | 200 |
+| **رشاشات SMG** | 45 |
+| **بندقية رئيسية** | 50 |
+| **بندقية تخريق** | 25 |
+| **بندقية** | 60 |
+| **قناص** | 40 |
+| **رشاش خفيف LMG** | 150 |
+| **رشاش ثقيل GPMG** | 200 |
 
-**Grenade Launcher/Rifle Grenades**
+<div style="text-align: center";>
+<p><b>قاذف قنابل/قنابل بندقية</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط التوريد** |
 | --- | --- |
-| **Anti-Tank x1** | 70 |
-| **Anti-Tank x2** | 140 |
-| **Flare** | 60 |
-| **Fragmentation low capacity** | 80 |
-| **Fragmentation high capacity** | 120 |
-| **Smoke** | 60 |
+| **مضاد للدبابات x1** | 70 |
+| **مضاد للدبابات x2** | 140 |
+| **إشعال** | 60 |
+| **تفجير سعة منخفضة** | 80 |
+| **تفجير سعة عالية** | 120 |
+| **دخان** | 60 |
 
-**Items & Utilities**
+<div style="text-align: center";>
+<p><b>العناصر والمرافق</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط التوريد** |
 | --- | --- |
-| **Ammo box** | 200 |
-| **C4 low capacity** | 45 |
-| **C4 high capacity** | 75 |
-| **Tripflare** | 20 |
-| **Grappling hook** | 40 |
-| **Epipen** | 60 |
-| **Field dressing x1** | 30 |
-| **Field dressing x3** | 75 |
-| **Field dressing x6** | 120 |
-| **Field dressing x12** | 180 |
+| **صندوق الذخيرة** | 200 |
+| **C4 سعة منخفضة** | 45 |
+| **C4 سعة عالية** | 75 |
+| **الفخ المضيء** | 20 |
+| **خطاف التسلق** | 40 |
+| **الإبرة الإنعاشية** | 60 |
+| **تضميد الميدان x1** | 30 |
+| **تضميد الميدان x3** | 75 |
+| **تضميد الميدان x6** | 120 |
+| **تضميد الميدان x12** | 180 |
 
-**Heavy ordnance & munitions**
+<div style="text-align: center";>
+<p><b>الذخيرة الثقيلة والذخائر</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط الإمداد** |
 | --- | --- |
-| **Fragmentation grenade x1** | 60 |
-| **Fragmentation grenade x2** | 120 |
-| **Fragmentation grenade x4** | 240 |
-| **Smoke grenade low capacity** | 40 |
-| **Smoke grenade high capacity** | 60 |
-| **Signal smoke grenade** | 30 |
-| **Anti-personel mine x2** | 140 |
-| **Anti-personel mine x3** | 210 |
-| **Conventional mine** | 420 |
-| **Insurgent mine** | 160 |
-| **Light IED** | 60 |
-| **Heavy IED** | 80 |
-| **Anti-air missile x1** | 100 |
-| **Anti-air missile x2** | 170 |
-| **Light anti-tank x1** | 70 |
-| **Light anti-tank x2** | 140 |
-| **Light anti-tank x3** | 210 |
-| **Light anti-tank x4** | 280 |
-| **Medium anti-tank x1** | 80 |
-| **Medium anti-tank x2** | 160 |
-| **Medium anti-tank x3** | 240 |
-| **Heavy anti-tank x1** | 90 |
-| **Heavy anti-tank x2** | 180 |
-| **Guided anti tank** | 120 |
+| **قنبلة تفجيرية x1** | 60 |
+| **قنبلة تفجيرية x2** | 120 |
+| **قنبلة تفجيرية x4** | 240 |
+| **قنبلة دخان سعة منخفضة** | 40 |
+| **قنبلة دخان سعة عالية** | 60 |
+| **قنبلة دخان إشارة** | 30 |
+| **منجنيق مضاد للأفراد x2** | 140 |
+| **منجنيق مضاد للأفراد x3** | 210 |
+| **منجنيق تقليدي** | 420 |
+| **منجنيق متمردين** | 160 |
+| **IED خفيفة** | 60 |
+| **IED ثقيلة** | 80 |
+| **صاروخ مضاد للطائرات x1** | 100 |
+| **صاروخ مضاد للطائرات x2** | 170 |
+| **صاروخ مضاد للدبابات الخفيف x1** | 70 |
+| **صاروخ مضاد للدبابات الخفيف x2** | 140 |
+| **صاروخ مضاد للدبابات الخفيف x3** | 210 |
+| **صاروخ مضاد للدبابات الخفيف x4** | 280 |
+| **صاروخ مضاد للدبابات المتوسط x1** | 80 |
+| **صاروخ مضاد للدبابات المتوسط x2** | 160 |
+| **صاروخ مضاد للدبابات المتوسط x3** | 240 |
+| **صاروخ مضاد للدبابات الثقيل x1** | 90 |
+| **صاروخ مضاد للدبابات الثقيل x2** | 180 |
+| **صاروخ مضاد للدبابات الموجه** | 120 |
 
-Note that on a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
+يرجى ملاحظة أن نظام إعادة التزويد على الخادم المحلي لن يعمل كما هو موضح. سيتطلب كل فتحة سلاح 100 نقطة إمداد لإعادة التعبئة بغض النظر عن نوع العنصر.
 
-Requesting a kit costs 200 supply points. Be aware that re-arming an ammo bag at for example an ammo box or light/heavy supply crate will cost as many points at it provides (200).
-The amount of supply points for the supply sources are:
+طلب عدة يكلف 250 نقطة إمداد. يرجى ملاحظة أن إعادة تعبئة حقيبة ذخيرة في صندوق ذخيرة خفيف أو ثقيل، على سبيل المثال، ستكلف 200 نقطة.
 
-* **Ammo bags** : 200 (will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example)
-* **Ammo boxes** : 450
-* **Light supply crates** : 1500
-* **Heavy supply crates** : 3000
+كمية نقاط الإمداد لمصادر الإمداد هي:
+
+* **حقائب الذخيرة :** 205 \(سيتم احتساب 43 نقطة إمداد فقط عند استخدامها من قبل تثبيت الأصول مثل TOW أو المدفع على سبيل المثال\).
+* **صناديق الذخيرة :** 500.
+* **صناديق الإمداد الخفيفة :** 1500.
+* **صناديق الإمداد الثقيلة :** 3000.
 
 {% note %}
-Resupplying is **not instant** but takes a few seconds, depending on the ammo source as well with the amount of ammo you need to resupply. 
-
-Additionally if you're not rearming, confirm that the Light/Heavy supply crates is indeed yours, rearming from **enemy supply crates** is not possible.
+إعادة التزويد ليست فورية ولكنها تستغرق بضع ثوانٍ، تعتمد على مصدر الذخيرة، بالإضافة إلى كمية الذخيرة التي تحتاج إلى إعادة تزويدها. بالإضافة إلى ذلك، إذا لم تكن تعيد التسليح، تأكد من أن صندوق الإمداد الخفيف/الثقيل هو حقاً لك، فإعادة التسليح من صناديق الإمداد العدو ليست ممكنة.
 {% endnote %}
 
+### صناديق الإمداد {#crates}
 
-
-### _Supply Crates_ {#crates}
-
-There are two types of supply crates in PR:BF2 - Light Supply Crate and Heavy Supply Crate. While both allow to ressuply players and build deployables a Light crate is the equivalent of half of the Heavy Supply Crate meaning that you will need 2x light supply crates where only 1x heavy supply crate is needed. To learn more about deployable emplacements see the [Deployable Structures chapter.](the_squad_leader.md#deployable-structures)
+هناك نوعان من صناديق الإمداد في PR: BF2 - صندوق إمداد خفيف وصندوق إمداد ثقيل. بينما يسمح كل منهما بإعادة إمداد اللاعبين وبناء الأجهزة القابلة للنشر، يعتبر صندوق الإمداد الخفيف ما يعادل نصف صندوق الإمداد الثقيل، مما يعني أنك ستحتاج إلى صندوقي إمداد خفيف حيث يكفي صندوق إمداد ثقيل واحد فقط. لمعرفة المزيد حول الأجهزة القابلة للنشر، انظر 
+[فصل الهياكل القابلة للنشر.](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/largecrate.png", "../assets/smallcrate.png" %}
-Here you can see the heavy supply crate on the left and the light version on the right.
+هنا يمكنك رؤية صندوق الإمداد الثقيل على اليسار والنسخة الخفيفة على اليمين.
 {% endfigure %}
 
-Just like rearming, requesting kits from crates will deplete the supply crates. Each kit will cost 200 points, with light crates having 1500 \(7x kits\) and heavy ones 3000 \(14x kits\).
+مثل إعادة التسليح، طلب الحقائب من الصناديق سيؤدي إلى نفاد صناديق الإمداد. ستكلف كل حقيبة 250 نقطة، مع وجود صناديق خفيفة تحتوي على 1500 نقطة \(6 حقائب\) وصناديق ثقيلة 3000 نقطة \(12 حقيبة\).
 
 {% note %}
-Requesting kits from a crate that does not have enough points will still grant you the kit but the crate will be destroyed in the process.
+طلب الحصول على الأدوات من صندوق لا يحتوي على نقاط كافية سيمنحك الأدوات ولكن الصندوق سيتم تدميره في العملية.
 {% endnote %}
 
-Light Supply Crate can be transported by:
+Light Supply Crate يمكن نقلها بواسطة:
 
-* Light Helicopters such as the Huey, Lynx and Zhi-9B \(One Crate\)
-* Transport trucks \(One Crate\)
+* طائرات هليكوبتر خفيفة مثل Huey و Lynx و Zhi-9B (صندوق واحد)
+* شاحنات نقل (صندوق واحد)
 
-While, Heavy Supply Crate can be transported by:
+بينما يمكن نقل Heavy Supply Crate بواسطة:
 
-* Medium Lift Helicopters such as the Black Hawk, Mi-17 and NH-90 \(One Crate\)
-* Heavy Lift Helicopters such as the Chinook, Zhi-8KA and MV-22 \(Two Crates\)
-* Logistic trucks: \(Two Crates\)
+* طائرات هليكوبتر رفع متوسطة مثل Black Hawk و Mi-17 و NH-90 (صندوق واحد)
+* طائرات هليكوبتر رفع ثقيلة مثل Chinook و Zhi-8KA و MV-22 (صندوقان)
+* شاحنات لوجستية (صندوقان)
 
-The ownership of the crate is depicted by the flag display on top of the crate.
+يتم تصوير ملكية الصندوق من خلال العلم المعروض في الجزء العلوي من الصندوق.
 
-### Repair Drop
+### إصلاح الإسقاط
 
-Logistic trucks also have the ability to drop a repair station. They are necessary for field repairs to vehicles that are heavily damaged and cannot move.
+تمتلك الشاحنات اللوجستية أيضًا القدرة على إسقاط محطة إصلاح. إنها ضرورية لإصلاح المركبات في الميدان التي تكون تالفة بشكل كبير ولا يمكنها التحرك.
 
 {% figure "../assets/reapir.png" %}
-Repair drop.
+إصلاح القطرة.
 {% endfigure %}
 
-## _Score_ {#score}
+## _النقاط_ {#score}
 
-A player's score is divided in teamwork points and individual points. It speaks for itself that doing team related activities \(building, driving vehicles, defending/attacking flags\) contribute to the first and individual actions \(killing players\) contribute to your personal score.
+تنقسم نقاط اللاعب إلى نقاط العمل الجماعي والنقاط الفردية. من الواضح أن القيام بأنشطة تتعلق بالفريق (بناء، قيادة المركبات، الدفاع/الهجوم على الأعلام) تسهم في النقاط الأولى والإجراءات الفردية (قتل اللاعبين) تسهم في نقاطك الشخصية.
 
-The total score of a player can never go below 0 but the teamwork score can become negative. There are also score multipliers for when you are for example in a vehicle or a squad leader. Here are some other score additions and deductions. These are not all but give you a good idea on what you can achieve.
+لا يمكن أن تنخفض النقاط الإجمالية للاعب أبدًا إلى أقل من 0 ولكن يمكن أن تصبح النقاط الجماعية سالبة. هناك أيضًا مضاعفات للنقاط عندما تكون على سبيل المثال في مركبة أو قائد فرقة. إليك بعض الإضافات والخصومات الأخرى للنقاط. هذه ليست كلها ولكنها تعطيك فكرة جيدة عن ما يمكنك تحقيقه.
 
-* Capturing a civilian: **+100**
-* Killing a civilian \(outside ROE\): **-100**
-* Destroying your own objective: **-100**
-* Destroying enemy objective: **+150**
+* التقاط مدني: **+100**
+* قتل مدني (خارج قواعد الاشتباك): **-100**
+* تدمير هدفك الخاص: **-100**
+* تدمير هدف العدو: **+150**
 
-## _Mortars_ {#mortars}
+## _المدافع_ {#mortars}
 
-A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km.
+موقع مدفع ثابت يمكنه توفير دعم ناري غير مباشر على مسافات طويلة. يمكن لجميع الفصائل إطلاق قذائف عالية الانفجار. يمكن للقوات التقليدية والميليشيا أيضًا استخدام قذائف الانفجار الجوي والدخان. لا يمكن بناء المدافع على الخرائط التي يقل حجمها عن 2 كم.
 
-* **High Explosive \(HE\)** \(press **1** to select\): Most common type of mortar round. Does the most damage directly to the target. Ideal for light armored targets and emplacements.
-* **Airburst** \(press **2** to select\): Explodes in the air above the ground. Covers a larger area but does less damage overall. Ideal for engaging infantry inside buildings and on uneven terrain.
+* **الانفجار العالي \(HE\)** (اضغط على **1** للاختيار): نوع القذيفة الأكثر شيوعًا. يحدث أكبر قدر من الضرر مباشرة للهدف. مثالي للأهداف المدرعة الخفيفة والتحصينات.
+* **الانفجار الجوي** (اضغط على **2** للاختيار): ينفجر في الهواء فوق الأرض. يغطي منطقة أكبر ولكن يحدث أقل ضرر بشكل عام. مثالي لاستهداف الجنود في داخل المباني وعلى التضاريس غير المستوية.
 
-Once mortars are needed you can use the mortar’s calculator \(press **3** to select\). The distance to the target and the difference in elevation can be entered into the calculator by clicking on the numbers in the **“Range”** and **“Height”** fields. To get the range make sure you SL’s marker is on the target, then open the map and you’ll find the range listed under the map. Once you are done just click the **“Calculate”** button to display the required barrel elevation. The elevation can be adjusted with the W and S keys while the deflection is changed using the A and D keys. When both values are set, just select the required rounds and fire. There are both Air-Burst and Impact rounds available that share ammunition.
+بمجرد بناء المدافع، يجب تزويدها بأكياس ذخيرة، التي يوفرها الجندي البندقية أو فئة مماثلة. ثم يمكنك استخدام آلة حاسبة المدفع (اضغط على **3** للاختيار). يمكن إدخال المسافة إلى الهدف والفرق في الارتفاع في الآلة الحاسبة عن طريق النقر على الأرقام في حقول **"المدى"** و **"الارتفاع"**. للحصول على المدى، تأكد من أن علامة قائد الفرقة على الهدف، ثم افتح الخريطة وستجد المدى مدرجًا تحت الخريطة. بمجرد الانتهاء، انقر فقط على الزر **"حساب"** لعرض الارتفاع المطلوب للبرميل. يمكن ضبط الارتفاع باستخدام مفاتيح W و S بينما يتم تغيير الانحراف باستخدام مفاتيح A و D. عندما يتم تعيين القيمتين، فقط حدد الجولات المطلوبة وأطلق النار. تشترك جولات الانفجار الجوي والتأثير في نفس حوض الذخيرة.
 
 {% figure "../assets/mortars.png" %}
-The mortar calculator interface.
+واجهة حاسبة الطاحونة.
+{% endfigure %}
+## _تدمير الجسور_ {#تدمير-الجسور}
+
+مثلما في BF2، يمكنك في PR تدمير الجسور. يتم ذلك باستخدام متفجرات عالية القدرة مثل C4 أو متفجرات من نفس العيار، التي يحملها المهندسون أو الجنود المتخصصون. 
+
+عند تضرر الجسور، يمكن ملاحظة جزيئات وصوت سقوط الرمال عند الاقتراب. وعند تضررها أكثر، ستنهار أجزاء من الجسر ولن يتمكن كل من الجنود والمركبات من عبوره. 
+
+على عكس BF2، في PR بمجرد تدمير الجسر، لا يمكن إصلاحه. لذلك يجب عليك تدمير الجسور فقط التي ستغير مسارات فريق العدو لصالحك - سواء كان ذلك لتأخير الحركة المستقبلية أو لتوجيه قوات العدو إلى جزء مختلف من الخريطة.
+
+{% figure "../assets/bridge_built_and_destroyed_small.png" %}
+جسر قبل وبعد تدميره.
 {% endfigure %}
 
-## _Close Support Bridges \(CSB\)_ {#close-support-bridges}
+On some destroyed bridges you can deploy a CSB, which will help you cross it \(covered in the [next chapteer](the_basics.md#close-support-bridges)\).
 
-When in need to cross small rivers or damaged bridges, conventional forces can deploy CSBs using their logistic trucks - which carries two of them. In Project Reality CSBs can only be used to fill the gaps of destroyed bridges and in predetermined locations identified by \(obvious\) small heaps of sand positioned across a natural obstacle, like a river.
+## _جسور الدعم القريب \(CSB\)_ {#close-support-bridges}
+
+عند الحاجة إلى عبور الأنهار الصغيرة أو الجسور التالفة، يمكن للقوات التقليدية نشر جسور الدعم القريب باستخدام شاحنات اللوجستيات الخاصة بهم - التي تحمل اثنين منها. في Project Reality، يمكن استخدام جسور الدعم القريب فقط لسد الفجوات في الجسور المدمرة وفي مواقع محددة محددة بواسطة \(واضحة\) كوم صغيرة من الرمل موضوعة عبر عقبة طبيعية، مثل نهر.
 
 {% note %}
-CSBs are very narrow, so drive carefully when crossing them.
+المسارات السريعة ضيقة جدًا، لذا كن حذرًا عند عبورها.
 {% endnote %}
 
-The deployment process for CSBs is very simple:
-1. Drive a logistics truck to the position where the CSB will be deployed.
-2. Position the front or back of the truck as close as possible to the deployment position.
-3. Select the CSB as active equipment of the truck.
-4. Press alternate fire to deploy the bridge.
+عملية نشر الجسور السريعة للجسور السريعة بسيطة جدًا:
+1. قم بقيادة شاحنة لوجستية إلى الموقع الذي سيتم نشر الجسر السريع فيه.
+2. ضع الجزء الأمامي أو الخلفي من الشاحنة بأقرب مكان ممكن من موقع النشر.
+3. حدد الجسر السريع كجهاز نشط للشاحنة.
+4. اضغط على زر النار البديل لنشر الجسر.
 
 {{ "Video Tutorial - CSB Deployment" | youtube("Vn66KbNrVJA") }}
 
 {% figure "../assets/csb.png" %}
-CSB from truck being deployed.
+تم نشر فريق الحماية المدنية من الشاحنة.
 {% endfigure %}
 
-In some cases multiple CSBs are required to span the complete distance. In such situations, you're required to drive to the end of the incomplete bridge and deploy a new CSB and repeat untill its finish.
+في بعض الحالات قد يكون هناك حاجة لعدة جسور متحركة لتغطية المسافة بالكامل. في مثل هذه الحالات، يتوجب عليك القيادة حتى نهاية الجسر غير المكتمل ونشر جسر متحرك جديد وتكرار العملية حتى الانتهاء.
 
-## _Battlefield Navigation_ {#battlefield-navigation}
+قد تواجه سيناريوهات مختلفة عندما يتعلق الأمر بالجسور ونشر الجسور المتحركة، كما هو موضح في الصورة التالية:
+1. هذا الجسر الكبير من الخرسانة قابل للتدمير ويمكن نشر جسر متحرك عليه \(مشار إليه برمز جسر واحد\).
+2. هذا الجسر الصغير من الصخور قابل للتدمير ولكن لا يمكن نشر جسور متحركة عليه \(لا توجد علامة جسر\).
+3. وأخيرًا في هذا الموقع يمكن نشر جسر متحرك مزدوج \(علامة جسر مزدوج\).
 
-It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and team coordination also requires players to communicate locations in a clear and concise manner. PR:BF2 offers 4 tools to aid players with this.
+{% figure "../assets/bridges2.png" %}
+أنواع مختلفة من الجسور (الرموز ليست على نطاق واحد).
+{% endfigure %}
 
-1. Squad leaders can use their **squad order marker** to communicate locations to their squad and the commander. The direction to the marker is indicated by a chevron above the compass. If you are within 75m of the marker you'll also see a 3D icon which shows the location in front of you. The marker will also be visible on the map.
+## _توجيهات الملاحة في ساحة المعركة_ {#battlefield-navigation}
+
+من السهل جدًا أن تضيع في الخرائط الكبيرة لـ PR:BF2. الإيقاع البطيء والتنسيق بين الفريقين يتطلب أيضًا من اللاعبين التواصل بشكل واضح وموجز حول المواقع. تقدم PR:BF2 4 أدوات لمساعدة اللاعبين في ذلك.
+
+1. يمكن لقادة الفرق استخدام **علامة أمر الفرق** للتواصل بالمواقع مع فرقهم والقائد. يتم تحديد الاتجاه إلى العلامة بواسطة سهم فوق البوصلة. إذا كنت على بعد 75 مترًا من العلامة ، سترى أيقونة ثلاثية الأبعاد تظهر الموقع أمامك. ستكون العلامة مرئية أيضًا على الخريطة.
 
 {% figure "../assets/target.png", "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
-Targe, build, observe, defend, demolish and move marker, respectively.
+علامة الهدف، بناء، مراقبة، الدفاع، تدمير وتحريك، على التوالي.
 {% endfigure %}
 
-1. A **precision degree compass** to the bottom central area of your screen. The compass can be used to give exact bearings of nearby spotted enemies. **The 8 Cardinal Directions** are clearly indicated along with the degree bearing labels which incrementally increase every 15° with major divisions every 5°. If you just want to communicate a general direction it is best practice to say the cardinal direction, followed by the degree and in some situations the distance if appropriate. For example _**“Enemy spotted NE 75° degrees 200 meters out”**_**.**
-   * If the target is visually in line with a numbered bearing on your compass when you are facing that direction, you simply communicate that number.
-   * Remember that all large compass notches equal 5 degrees. If the target is in line with a notch to the right of a labelled notch along from 75° then right you add 5°. So the target is at 80°.![](../assets/compass.png) 
-   * Underneath the compass notches is a triangle which indicates your current bearing. If you are in a Squad, your Squad Leader’s last/currently issued order shows as a chevron as well. If you line up the chevron with the triangle, you’re looking at the location of the order mark.
-2. The maps in PR:BF2 contain **grid reference labels and keypad subgrids**. The Grid labels are found on the upper and left border of the map. The map is divided into 169 grid squares starting with A1 in the upper left corner and ending with M13 in the lower right corner. Each grid square is divided in 9 subgrids. Those are labeled from 1 to 9 in the same manner as a computer's numpad are arranged. \(Top row from left to right 7, 8, 9\). You can communicate locations by giving out a grid reference. For a rough location you only say the main grid field \(e.g. D6\). For precise locations you also add the subgrid location \(e.g. D6-2\). Grid references are mostly used to communicate locations between squads. When using Mumble the first letter of the Grid reference is usually annunciated using the NATO phonetic alphabet. The codewords are Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee and Zulu
-3. **The scale of each grid** square is displayed in the bottom right hand corner of the map. A 1km map will be indicated by a 75m grid squad, 150m for a 2km and 300m for a 4km map. You can easily estimate distances on the map using the grid squares. The squad leader's squad screen also displays the approximate distance to your current squad marker below the map of the battlefield.  
+1. **بوصلة درجة الدقة** إلى منطقة الوسط السفلي من الشاشة. يمكن استخدام البوصلة لتحديد تحملات دقيقة للأعداء المرصودين القريبين. **الاتجاهات الرئيسية الثمانية** مشار إليها بوضوح جنبًا إلى جنب مع تسميات الدرجات التي تزيد تدريجيًا كل 15 درجة مع تقسيمات رئيسية كل 5 درجات. إذا كنت ترغب فقط في التوجيه باتجاه عام، فمن الممارسة الجيدة أن تقول الاتجاه الرئيسي، تليه الدرجة وفي بعض الحالات المسافة إذا كان مناسبًا. على سبيل المثال _**"عدو رصد شمال شرق 75 درجة 200 مترًا"**_.
+   * إذا كان الهدف متواجدًا بصريًا في خط مع درجة معينة على بوصلتك عندما تواجه تلك الاتجاه، يمكنك ببساطة التواصل بهذا الرقم.
+   * تذكر أن جميع العلامات الكبيرة على البوصلة تعادل 5 درجات. إذا كان الهدف في خط مع علامة على اليمين من علامة معبرة عنها على بُعد 75 درجة ثم تضيف 5 درجات. لذا يكون الموقع عند 80 درجة.
+   * تحت علامات البوصلة يوجد مثلث يشير إلى تحملك الحالي. إذا كنت في فرقة، فإن آخر أمر أصدره قائد الفرقة يظهر كشكل مخروطي أيضًا. إذا قمت بمحاذاة الشكل المخروطي مع المثلث، فأنت تنظر إلى موقع علامة الطلب.
+2. الخرائط في PR:BF2 تحتوي على **علامات مرجعية للشبكة وشبكات فرعية لللوحة المفاتيح**. توجد علامات الشبكة على الحدود العلوية واليسرى للخريطة. تنقسم الخريطة إلى 169 مربع شبكة تبدأ من A1 في الزاوية العلوية اليسرى وتنتهي بـ M13 في الزاوية السفلية اليمنى. يتم تقسيم كل مربع شبكة إلى 9 شبكات فرعية. تُعلم كل منها من 1 إلى 9 بنفس الطريقة التي يتم فيها ترتيب لوحة المفاتيح للكمبيوتر. \(الصف العلوي من اليسار إلى اليمين 7، 8، 9\). يمكنك التواصل بالمواقع عن طريق إعطاء مرجع شبكة. للحصول على موقع تقريبي، تقول فقط حقل الشبكة الرئيسي \(على سبيل المثال D6\). للحصول على مواقع دقيقة تضيف أيضًا موقع الشبكة الفرعية \(على سبيل المثال D6-2، والذي سيتم نطقه كـ دلتا 6، لوحة المفاتيح 2\). تُستخدم مراجع الشبكة بشكل رئيسي للتواصل بين الفرق. عند استخدام Mumble، يتم تلفظ الحرف الأول من مرجع الشبكة باستخدام الأبجدية الفونية الناتو عادةً. الكلمات الرمزية هي ألفا، برافو، تشارلي، دلتا، إيكو، فوكستروت، جولف، هوتيل، إنديا، جولييت، كيلو، ليما، مايك، نوفمبر، أوسكار، بابا، كيبك، روميو، سييرا، تانغو، يونيفورم، فيكتور، ويسكي، إكس-راي، يانكي وزولو
+3. **مقياس كل شبكة** مربع يُعرض في الزاوية السفلية اليمنى من الخريطة. سيتم تحديد خريطة بمسافة 1 كم بشبكة شبكة 75 مترًا، 150 مترًا لخريطة 2 كم و 300 متر لخريطة 4 كم. يمكنك تقدير المسافات بسهولة على الخريطة باستخدام المربعات الشبكية. يعرض شاشة فريق قائد الفريق أيضًا المسافة التقريبية إلى علامة الفريق الحالية أسفل خريطة ساحة المعركة.
 
 
 {% figure "../assets/grid.png" %}
 {% endfigure %}
 
-## _Basic Vehicle Information_ {#basic-vehicle-information}
+## _معلومات أساسية عن المركبات_ {#basic-vehicle-information}
 
-Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on operating vehicles see further in this manual in the Operating Vehicles section.
+تتصرف العديد من المركبات بشكل مختلف تمامًا مقارنة بـ BF2 وتتطلب معرفة متقدمة أكثر لتشغيلها. نظرًا لأنها تستغرق وقتًا طويلاً للظهور مرة أخرى (تصل إلى 20 دقيقة)، فمن الحيوي معرفة كيفية الابتعاد عن المواقف المشكلة. سيتم التركيز في هذا الجزء على شرح أنواع المركبات وكيف تؤثر على الفريق. لمزيد من التفاصيل حول كيفية استخدام المركبات، انظر [فصل تشغيل المركبات](operating_vehicles.md#general-vehicle-information).
 
-There are many vehicle types in PR:BF2 used as classification. This isn’t always directly in line with their Real Life counterpart due to gameplay reasons. The following list shows you the main classes of vehicles in PR:BF2:
+هناك العديد من أنواع المركبات في PR:BF2 تُستخدم كتصنيف. لا تكون هذه دائمًا مباشرة مع نظيرتها في الحياة الواقعية بسبب أسباب اللعب. توضح القائمة التالية الفئات الرئيسية للمركبات في PR:BF2:
 
-* **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
+* **جيب:** مركبات نقل صغيرة لا تملأ دائمًا الفرق بأكملها. يمكنها دائمًا إسقاط صناديق ذخيرة صغيرة. أحيانًا يتم تجهيزها بعش الرشاشات.
 
 ![](../assets/jeep.png)
 
-* **Civilian vehicles:** PR:BF2’s insurgent forces have access to a range of civilian cars and technicals mounted with machine guns, rocket-pods and SPG-9 recoilless rifles. They also have a flatbed with a mounted AA-gun, bomb trucks and bomb cars in their arsenal. 
+* **المركبات المدنية:** تمتلك قوات المتمردين في PR:BF2 مجموعة من السيارات المدنية والمركبات التقنية المجهزة بمدافع رشاشة، وحاملات صواريخ، وبنادق SPG-9 الخلوية. كما تمتلك شاحنة مسطحة مع مدفع مضاد للطائرات، وشاحنات قنابل وسيارات مفخخة في ترسانتها.
 
 ![](../assets/civiliancars.png)
 
-* **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges \(more on this later\).
+* **شاحنة:** تأتي بنماذج نقل ولوجستية. النموذج النقلي قادر على إسقاط صندوق إمداد خفيف ويمكنه استيعاب الفريق بأكمله. النموذج اللوجستي يمكنه استيعاب جنديين فقط ويمكنه إسقاط صناديق إمداد ثقيلة 2، ومحطات إصلاح وجسور دعم قريبة.
 
 ![](../assets/truck.png)
 
-* **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicles types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
+* **مركبة النقل العسكرية المدرعة (APC):** مركبات مدرعة كبيرة غالبًا ما تكون مسلحة بأسلحة ثقيلة. غالبًا ما لا تمتلك القوة الكافية لهزيمة أهداف أخرى مدرعة ثقيلة مثل مركبات الإنزال الجوي والدبابات ولكنها الأفضل بين جميع أنواع المركبات في مساعدة الجنود. يمكنها استيعاب طاقم مكون من 2 فرد (سائق ومدفعي) وما يصل إلى 6 جنود ركاب.
 
 ![](../assets/apc.png)
 
-* **Infantry Fighting Vehicle \(IFV\):** Better armed and stronger than most APCs with often capabilities to defeat heavy armored targets using AT-Missiles. Are not always capable of transporting infantry. Under this category often also fall the recon-vehicles.
+* **مركبة المعركة للمشاة \(IFV\):** مسلحة بشكل أفضل وأقوى من معظم مركبات النقل المصفحة مع قدرات غالبًا على هزيمة الأهداف المدرعة الثقيلة باستخدام الصواريخ المضادة للدروع. ليست دائمًا قادرة على نقل الجنود. تندرج تحت هذه الفئة أيضًا مركبات الاستطلاع.
 
 ![](../assets/ifv.png)
 
-* **Anti-Tank Missile Mounted Vehicle \(ATM\):** The name speaks for itself. These are vehicles armed with AT-missiles to destroy other armored vehicles. Cannot transport infantry.
+* **مركبة مزودة بصواريخ مضادة للدروع \(ATM\):** الاسم يتحدث عن نفسه. هذه المركبات مسلحة بصواريخ مضادة للدروع لتدمير مركبات أخرى مدرعة. غير قادرة على نقل الجنود.
 
 ![](../assets/atm.png)
 
-* **Tank:** Our heaviest of armored vehicles. They come equipped with AP, HE and COAX weaponry.
+* **الدبابة:** أثقل مركباتنا المصفحة. تأتي مجهزة بأسلحة AP و HE و COAX.
 
 ![](../assets/tank.png)
 
-* **Anti-Air Vehicle:** These are usually light armored vehicles with only the ability to take out enemy aircraft and helicopters. They can use missiles or/and heavy guns.
+* **مركبة مضادة للطائرات:** عادةً ما تكون هذه مركبات مصفحة خفيفة بالقدرة فقط على إسقاط الطائرات العدو والمروحيات. يمكنها استخدام الصواريخ و/أو المدافع الثقيلة.
 
 ![](../assets/aavehicles.png)
 
-* **Boat:** PR:BF2 has a variety of boats both armed and un-armed.
+* **قارب:** PR:BF2 يحتوي على مجموعة متنوعة من القوارب، سواء المسلحة أو غير المسلحة.
 
 ![](../assets/boats.png)
 
-* **Transport Helicopter:** These helicopters usually come equipped with door-guns for the mounted infantry to use.They are also capable of dropping heavy supply crates. There are light, medium and heavy transport choppers. See the section on Supply Crates to read on which variant has which crates available to it.
+* **مروحية نقل:** تأتي هذه المروحيات عادة مجهزة بمدافع باب ليستخدمها الجنود المركبون. كما أنها قادرة على إسقاط صناديق إمداد ثقيلة. هناك مروحيات نقل خفيفة ومتوسطة وثقيلة. انظر القسم المتعلق بـ [صناديق الإمداد](the_basics.md#crates) لقراءة المزيد حول أي نوع من الصناديق متاح لها.
 
 ![](../assets/transheli.png)
 
-* **Attack Helicopters:** These helicopters come equipped with machine-gun pods and a variety of rockets and missiles. There are light, medium and heavy variants. Recon helicopters with the ability to laze targets and use their thermal cameras also fall under this category in PR:BF2. They are not always armed.
+* **مروحيات الهجوم:** تأتي هذه المروحيات مجهزة بأكوام من مدافع الرشاش ومجموعة متنوعة من الصواريخ والصواريخ الموجهة. هناك متغيرات خفيفة ومتوسطة وثقيلة. تندرج تحت هذه الفئة أيضًا مروحيات الاستطلاع بالقدرة على توجيه الأهداف واستخدام كاميراتها الحرارية. ليست دائمًا مسلحة.
 
 ![](../assets/attackhelis.png)
 
-* **Jets:** PR:BF2 has a wide variety of jets. There are light and heavy attack jets, fighter jets, bombers and fighter-bombers.
+* **الطائرات النفاثة:** PR:BF2 تحتوي على مجموعة واسعة من الطائرات النفاثة. هناك طائرات هجوم خفيفة وثقيلة، وطائرات مقاتلة، وقاذفات، ومقاتلات-قاذفات.
 
 ![](../assets/jets.png)
 
-All friendly vehicles are marked on the map with unique icons for easy identification.
-
-![](../assets/vehicleicons.png)
-
-* If a team vehicle asset is destroyed it incurs a ticket penalty:
-  * Jeep or truck: **2 tickets**
-  * Transport helicopter: **5 tickets**
-  * APC/AAV/RECON: **5 tickets**
-  * Tank or IFV: **10 tickets**
-  * Jet or attack helicopter: **10 tickets**
-* Vehicles are **Team Locked** and you cannot operate enemy vehicles of any kind.
-* Vehicles can only **be entered from appropriate positions** on the hull.
+* يتم وضع علامات على جميع المركبات الصديقة على الخريطة برموز فريدة لسهولة التعرف \(انظر [رموز المركبات](vehicle_icons.md)\).
+* إذا تم تدمير أصل مركبة فريق، فإنه يتسبب في خسارة تذكرة:
+  * جيب أو شاحنة: **2 تذكرة**
+  * مروحية نقل: **5 تذكرة**
+  * مركبة نقل مصفحة/مضادة للطائرات/استطلاع: **5 تذكرة**
+  * دبابة أو IFV: **10 تذكرة**
+  * طائرة نفاثة أو مروحية هجوم: **10 تذكرة**
+* المركبات مقفلة للفريق ولا يمكنك تشغيل مركبات العدو من أي نوع.
+* يمكن دخول المركبات فقط من المواقع المناسبة على الهيكل.
 
 {% figure "../assets/entrypoints.png" %}
-Vehicle entry points can differ per vehicle. Look for hatches.
+يمكن أن تختلف نقاط دخول المركبات حسب المركبة. ابحث عن الفتحات.
 {% endfigure %}
 
-* Normal soldiers are allowed to drive small unarmored vehicles such as jeeps, trucks and boats without the need for any specialized kit. If you require **a crewman or pilot kit** to operate a vehicle position, you will receive a warning message upon entering it and the screen will fade to black. If you do not exit the vehicle position within a few seconds, you will die.
-* When exiting **a moving or burning vehicle** you will become wounded and possibly die. The faster the vehicle moves the greater the chance of death.
-* **Destroying vehicle wrecks** does not influence score although a warning message states otherwise when shooting friendly wrecks.
-* When manning **stationary or vehicle weapons** it takes a specific warm up time before they have the ability to fire:
-  * MG: **5 seconds**
-  * Anti-Air Missile: **5 seconds**
-  * AT-emplacement: **10 seconds**
-  * Armor main cannon: **30 seconds**
-* Most Stationary AT-Weapons have optics with fixed zoom capability. Some of them even offer thermal optics.
-* Exiting vehicles in mid-air and falling into water from high altitudes will injure you and may result in your death.
-* Players can **request kits** from a APC’s/IFV’s entry position.
-* Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
-* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
-* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
+* يُسمح للجنود العاديين بقيادة مركبات صغيرة غير مصفحة مثل الجيب، الشاحنة والقوارب دون الحاجة إلى أي عدة متخصصة. إذا كنت بحاجة إلى **عدة طاقم أو طيار** لتشغيل موضع في المركبة، ستتلقى رسالة تحذير عند دخولها وستتلاشى الشاشة إلى اللون الأسود. إذا لم تخرج من موضع المركبة في غضون بضع ثوانٍ، فسوف تموت.
+* عند الخروج من **مركبة تتحرك أو تحترق** ستصبح جريحًا وقد تموت. كلما زادت سرعة المركبة زادت فرصة الموت.
+* **تدمير حطام المركبات** لا يؤثر على النقاط على الرغم من وجود رسالة تحذير عند إطلاق النار على حطام الأصدقاء.
+* عند استلام **أسلحة ثابتة أو مركبات** يستغرق الأمر وقتًا محددًا للتسخين قبل أن تكون لديها القدرة على إطلاق النار:
+  * مدفع رشاش: **5 ثوانٍ**
+  * صاروخ مضاد للطائرات: **5 ثوانٍ**
+  * موضع مدفع مضاد للدروع: **10 ثوانٍ**
+  * مدفع رئيسي للمركبات المصفحة: **30 ثانية**
+* معظم أسلحة الدفاع الثابتة ضد الدبابات لديها بصريات بقدرة تكبير ثابتة \(الافتراضي: **X**\). بعضها يوفر حتى بصريات حرارية \(الافتراضي: اضغط على **T**\).
+* الخروج من المركبات في الهواء والسقوط في الماء من ارتفاعات عالية سيجرحك وقد يؤدي إلى موتك.
+* يمكن للاعبين **طلب عدة** من موضع دخول APC/IFV.
+* تكون المركبات المصفحة أكثر عرضة للهجوم عند الهجوم من جوانبها. تكون الدرع على الجزء الخلفي من المركبة الأضعف. يمكن لقذيفة مضادة للدبابات واحدة جيدة المكان تعطيلها أو تدميرها.
+* على الخوادم العامة \(ليس في وضعيات اللعب المحلية\) يمكنك التبديل بسرعة إلى المقعد الفارغ التالي المتاح في مركبة عن طريق الضغط على **F8**.
+* عندما تكون في مركبة، يمكنك رؤية معلومات المقاعد المحتلة في الزاوية السفلية اليسرى من لوحة العرض. يظهر فقط مقاعد الطاقم الهامة كعلامات مربعة. لا تحتوي مقاعد الركاب على علامات مثل هذه ويتم عرضها كعداد منفصل.
 
 {% figure "../assets/seaticons.png" %}
-Important crew members are shown as squared markers. Passengers use a total counter above the vehicle icon.
+يتم عرض أعضاء الطاقم الهامين كعلامات مربعة. يستخدم الركاب عدادًا إجماليًا فوق رمز المركبة.
 {% endfigure %}
 

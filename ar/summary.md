@@ -1,23 +1,21 @@
-# SUMMARY
+# ملخص
 
-* [نبذة عن اللعبة](README.md)
+* [حول](README.md)<!--  -->
   
 ### التثبيت
-* [إعداد](set-up.md)
+* [الإعداد](set-up.md)<!--  -->
 
 ### الأساسيات
-* [اساليب اللعب](game_modes.md)
-* [الاساسيات](the_basics.md)
-* [الأسلحة و المعدات](weapons_and_equipment.md)
-* [العتاد](kits.md)
-* [قيادة الآليات](operating_vehicles.md)
+* [أوضاع اللعب](game_modes.md)<!--  -->
+* [الأساسيات](the_basics.md)<!--  -->
+* [الأسلحة والمعدات](weapons_and_equipment.md)<!--  -->
+* [الأطقم](kits.md)<!--  -->
+* [قائد الفرقة](the_squad_leader.md)<!--  -->
+* [تشغيل المركبات](operating_vehicles.md)<!--  -->
+* [رموز المركبات](vehicle_icons.md)<!--  -->
+* [القائد](commander.md)<!--  -->
+* [المدني](the_civilian.md)<!--  -->
+* [متتبع ومسجل المعارك](replays.md) <!--  -->
 
-### الأدوار
-* [الرائد](commander.md)
-* [قائد الفرقة](the_squad_leader.md)
-<!-- * [الجندي](commander.md) -->
-* [المدنيين](the_civilian.md)
-
-
-### المساعدة 
-* [تطوير الدليل ](help_manual.md)
+### المساعدة
+* [توسيع الدليل](help_manual.md)

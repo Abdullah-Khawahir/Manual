@@ -1,138 +1,143 @@
-# Operating Vehicles
+# تشغيل المركبات
 
-## _General Vehicle Information_ {#general-vehicle-information}
+## _معلومات عامة عن المركبات_ {#general-vehicle-information}
 
-* Light vehicles, trucks and boats & most jeeps \(except light armored ones\) can be operated by any soldier. Armored vehicles, helicopters and aircraft need specified vehicle kits to operate. Players not using the correct kit will not be able to steer the vehicle or use the weapons. You can't enter or use enemy vehicles. For ground vehicles you then require a **Crewman** kit. For aircraft & helicopters it’s the **Pilot** kit. These are either requestable by the vehicle or by a supply crate.
-* External views for vehicles have been removed. But for certain vehicles there are custom cameras like the trucks can watch behind them \(**C**\).
-* You can **aim down the sights** of static and vehicle-mounted MGs by pressing the change camera key\(**C**\).
-* Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
-* Vehicle-mounted MGs use ammunition belts. They are reloaded automatically but are limited in number.
-* Vehicles can be **resupplied & repaired** at the supply depot. Or use the repair drop that any logistics truck can drop. Aircraft and Helicopters are automatically repaired and rearmed at their spawn location.
-* Insurgents have **suicide vehicles** like an orange dumpster truck or small civilian cars packed with C4. You can detonate these with the alternative fire key.
-* When exiting a moving ground vehicle you’ll take damage depending on its speed. You’ll be severely wounded if you exit a burning vehicle.
-* When vehicles take much damage they may become unable to move or traverse their turret until fully repaired.
-* Vehicles that **fire wire-guided missiles** need to be stationary for about 7 seconds before they can fire their weapon.
-* Switching vehicle-weapons \(ammo type\) will usually cause a delay before you can fire.
-* You can use **Left CTRL+Mouse movement** to freelook when operating most vehicles such as helicopters, jets, jeeps, boats and trucks. APCs and IFVs do not have this feature as they use dedicated cameras.
-* On public servers (not in local gamemodes) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
-* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
-## _Armored Vehicles_ {#armored-vehicles}
+* يمكن لأي جندي تشغيل المركبات الخفيفة والشاحنات والقوارب ومعظم الجيبات \(باستثناء الجيوب المدرعة الخفيفة\). تحتاج المركبات المدرعة والمروحيات والطائرات إلى مجموعات محددة من المعدات للتشغيل. لن يتمكن اللاعبون الذين لا يستخدمون المجموعة الصحيحة من توجيه المركبة أو استخدام الأسلحة. لا يمكنك دخول أو استخدام مركبات العدو. بالنسبة للمركبات البرية، تحتاج بعد ذلك إلى مجموعة **الطاقم**. بالنسبة للطائرات والمروحيات، تحتاج إلى مجموعة **الطيار**. يمكن طلب هذه المجموعات إما من المركبة أو من صندوق الإمداد.
+* تمت إزالة العروض الخارجية للمركبات. ولكن بالنسبة لبعض المركبات، هناك كاميرات مخصصة، مثل الشاحنات التي يمكنها مشاهدة الخلف والجيوب مع مرايا جانبية\(**C**\).
+* يمكنك **تصوير الأهداف** للرشاشات الثابتة والمركبة عن طريق الضغط على مفتاح التبديل البديل\(**زر الماوس الأيمن**\).
+* غالبًا ما تكون للأسلحة التلقائية المثبتة على المركبات **التسخين**. تراقب عنصر حرارة السلاح على الزاوية السفلية اليمنى. ![](../assets/overheat.png)
+* تستخدم رشاشات المركبات أحزمة ذخيرة. تكون بعدد محدود ويمكن إعادة تعبئتها \(**افتراضيًا: R**\).
+* يمكن تزويد المركبات بالذخيرة وإصلاحها في مستودع الإمداد. أو استخدم محطة الإصلاح التي يمكن نشرها من قبل أي شاحنة لوجستية للإصلاح السريع في الميدان. يتم إصلاح وإعادة تسليح الطائرات والمروحيات تلقائيًا في موقع إنشائها.
+* لدى المتمردين **مركبات انتحارية** مثل شاحنة القمامة البرتقالية أو السيارات المدنية الصغيرة المحملة بمادة C4. يمكنك تفجير هذه بالضغط على مفتاح النار البديل\(**زر الفأرة الأيمن**\).
+* عند الخروج من مركبة برية متحركة، ستتعرض للضرر اعتمادًا على سرعتها. ستصاب بجروح خطيرة إذا خرجت من مركبة مشتعلة.
+* عندما تتعرض المركبات للكثير من الضرر، قد تصبح **معطلة**: غير قادرة على التحرك أو تحريك برجها حتى يتم إصلاحها بالكامل.
+* تحتاج المركبات التي تطلق الصواريخ الموجهة بالأسلاك إلى أن تكون ثابتة لمدة حوالي 7 ثوانٍ قبل أن تتمكن من إطلاق سلاحها.
+* سيتسبب تبديل أسلحة المركبة \(نوع الذخيرة\) عادة في تأخير قبل أن تتمكن من إطلاق النار.
+* يمكنك استخدام **اليسار CTRL+حركة الماوس** للنظر حرًا عند تشغيل معظم المركبات مثل المروحيات والطائرات النفاثة والجيوب والقوارب والشاحنات. لا تحتوي ناقلات الجنود المدرعة ومركبات النقل العسكرية المصفحة على هذه الميزة حيث تستخدم كاميرات مخصصة.
+* على الخوادم العامة \(ليس في أوضاع اللعب المحلية\) يمكنك التبديل بسرعة إلى المقعد الفارغ التالي المتاح في مركبة عن طريق الضغط على **F8**.
+* عندما تكون في مركبة، يمكنك رؤية معلومات المقاعد المحتلة في الزاوية السفلية اليسرى من لوحة المعلومات. يظهر فقط علامات المقاعد الهامة كعلامات مربعة. يتضمن ذلك مواقع السائق والمدفعي. لا تحتوي مقاعد الركاب على علامات مثل هذه ويتم عرضها كعداد منفصل.
+* يمكن لسائقي ناقلات الجنود المدرعة ومركبات النقل وبعض المركبات الأخرى **نشر صناديق الذخيرة** \(500 نقطة ذخيرة\) عن طريق تحديدها بعجلة التمرير والضغط على مفتاح النار البديل\(**زر الماوس الأيمن**\).
+* تحتوي المركبات على رموز مختلفة على الخريطة \(لمزيد من المعلومات انتقل إلى [رموز المركبات](vehicle_icons.md)\).
+* تحتوي بعض الخرائط على مساحة جوية موسعة لمركبات الدعم الجوي. تُستخدم **قواعد الطيران خارج الخريطة** للإقلاع والهبوط للأصول الجوية مثل الطائرات النفاثة والمروحيات. يتطلب الوصول إلى قاعدة الطيران خارج الخريطة الاقتراب من علامة المطار الصفراء، الموجودة بالقرب من موقع القائد \(ACV\) في القاعدة الرئيسية الخاصة بك والانتظار لبضع ثوانٍ ليتم نقلك.
 
-* Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon.
-* The driver and gunner in a vehicle must be in the same squad.
-* Tank drivers and certain APC/IFVs have a **commander view mode** which provides a 360° view around the turret. This can be accessed by pressing 2.
-* Drivers and gunners can **zoom** their view by pressing the pop smoke key \(**X**\). Some tank drivers must first change to the commander view.
-* Most tanks and IFVs can use **thermal optics** in addition to their normal views. You can switch to the thermal mode by using secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”.** Some will also allow you to switch between thermal variations like WHOT/BHOT.
+{% figure "../assets/off_map_airbase.png" %}
+علامة قاعدة الطيران خارج الخريطة.
+{% endfigure %}
+
+## _المركبات المدرعة_ {#المركبات-المدرعة}
+* للدبابات ومركبات النقل العسكرية المصفحة مقاعد قيادة ومقاعد مدفعين منفصلة. لاستخدام موقع المدفعي يجب أن يكون هناك سائق أو مدفعي في القبة موجودًا. بعد التبديل إلى موقع المدفعي يجب عليك الانتظار 30 ثانية قبل أن تتمكن من توجيه المدفع (يُعرف أيضًا بتسخين الدبابة).
+* يجب أن يكون السائق والمدفعي في المركبة في نفس الفرقة.
+* يحتوي سائقو الدبابات وبعض مركبات النقل العسكرية المصفحة على وضع **عرض القائد** الذي يوفر رؤية بزاوية 360 درجة حول البرج. يمكن الوصول إليه عن طريق الضغط على 2.
+* يمكن للسائقين والمدفعين **تكبير** رؤيتهم عن طريق الضغط على **X**. يجب على بعض سائقي الدبابات التبديل أولاً إلى وضع القائد.
+* يمكن لمعظم الدبابات ومركبات النقل العسكرية المصفحة استخدام **البصر الحراري** بالإضافة إلى رؤاهم العادية. يمكنك التبديل إلى وضع الحراري عن طريق استخدام القائمة الإضافية الثانوية (**T**) واختيار **"نهاري / حراري"**. قد تسمح بعض المركبات أيضًا بالتبديل بين تغييرات الحرارة مثل WHOT/BHOT.
 
 {% figure "../assets/thermalz.png" %}
-Thermal Vision.
+الرؤية الحرارية.
 {% endfigure %}
 
-* Armored vehicles have no warning sound when they are targeted by rocket launchers or when missiles are fired at them.
-* Armored vehicles have realistic materials. This means that front and turret armor is stronger than the one in the rear and top of the vehicle. Sides of vehicles and the tracks usually have the middle ground when it comes to armor strength.
-* Tanks and IFVs usually have up to 4 types of ammunition:
-  * **Armor-piercing \(AP\):** For attacking enemy armored vehicles.
-  * **High Explosive \(HE\)** \(loaded by pressing 2\): Effective against soft targets \(jeeps, houses, helicopters, covered infantry, etc.\)
-  * **Anti-tank missiles** \(loaded by pressing 3\): Used against heavy armor.
-  * **Co-axial MG** \(fired using the alternate fire key\): Used against infantry.
-* Tank drivers or gunners \(depending on vehicle\) and certain other vehicles can **deploy smoke** by pressing the alternate fire key.
-
-Tank & IFV gunners deploy it by selecting its weapon slot \(usually 3\) and pressing the fire key to launch a volley of smoke bombs. Each of them can fire 2 volleys \(the gunner has to wait 60s between volleys\).
-
-* For certain vehicles the smoke will be **IR-blocking** meaning it will also block on thermal vision. For other \(older vehicles\) you will be able to see through the smoke on thermal vision.
+* لا تحتوي المركبات المدرعة على صوت تحذيري عند استهدافها بقاذفات صواريخ أو عند إطلاق الصواريخ عليها.
+* تحتوي المركبات المدرعة على مواد واقعية. وهذا يعني أن درع الجبهة والبرج أقوى من الدرع في الخلف والجزء العلوي من المركبة. الجوانب والمسارات للمركبات عادةً ما تكون في المنتصف من حيث قوة الدرع.
+* تحتوي الدبابات ومركبات النقل العسكرية المصفحة عادةً على أربعة أنواع من الذخيرة:
+  * **المخرقة للدروع (AP):** لمهاجمة مركبات العدو المدرعة.
+  * **المتفجرة العالية (HE)** (يتم تحميلها عن طريق الضغط على 2): فعالة ضد الأهداف الناعمة (سيارات جيب، منازل، طائرات هليكوبتر، جنود محميين، إلخ)
+  * **الصواريخ المضادة للدبابات** (يتم تحميلها عن طريق الضغط على 3): تستخدم ضد الدروع الثقيلة.
+  * **رشاش MG المتزامن** (يتم التبديل إليه عن طريق الضغط على **F**): يستخدم ضد الجنود.
+* يمكن لبعض سيارات الجيب المعينة **نشر الدخان** عن طريق الضغط على مفتاح النار البديل.
+* يمكن لمدفعي APC وIFV والدبابات نشر الدخان عن طريق تحديد فتحة السلاح الخاصة به (عادةً **3** أو **5**) والضغط على مفتاح النار لإطلاق زخة من قنابل الدخان. يمكن للمدفعيين إطلاق زختين سريعتين قبل الانتظار 60 ثانية للمجموعة الثانية (مما يجعل 4 فرص لتغطية موقعك أو حركتك بالدخان).
+* بالنسبة لبعض المركبات، سيكون الدخان **مانعًا للأشعة تحت الحمراء**، مما يعني أنه سيمنع الرؤية على البصر الحراري. بالنسبة للمركبات الأخرى (الأقدم) ستتمكن من رؤية خلال الدخان على البصر الحراري.
 
 {% figure "../assets/vehiclesmoke.png" %}
-Vehicle deployed smoke.
+الدخان المنبثق من المركبة.
 {% endfigure %}
 
-## _Helicopters_ {#helicopters}
+## _المروحيات_ {#helicopters}
 
-* Helicopters have a **warm-up time** of around 30 seconds. If too much thrust is generated while the rotor blades spin up, the pilot will lose control and crash. To start the helicopter you have to leave the throttle at idle for at least 30 seconds before trying to lift off.
-* Helicopter pilots can look in other directions while flying by pressing the 6, 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
-* The rudder controls are mostly effective at low speeds. At higher speeds you need to bank the helicopter to turn.
-* Players using **the pilot kit cannot occupy any of the passenger seats** of an aircraft. This is to stop players using the pilot kit as some kind of SF paratrooper assault kit because it has a parachute. If you have had to bail out of your aircraft and then receive a pickup from another aircraft, ensure you drop your pilot kit before entering the aircraft’s passenger seat otherwise you will be forced out of the helicopter.
-* The pilot of Heavy Attack Helicopters aka Gunships can fire the **unguided rockets** while the gunner controls the cannon and guided missiles.
-* Gunners in attack helicopters can zoom their weapons camera by pressing the cycle camera key \(**C**\) or by pressing the F9 to F11 keys. They can also switch to a thermal imaging mode by using the secondary radio menu \(**T**\) and selecting **“DAY / THERMAL”** to toggle between the two.
-* The attack-helicopter's **gunner** has 4 different modes to choose from:
-* First-person view in the cockpit
-* Gun-camera which controls the helicopter's gun
-* **Laser-guided fire mode \(LG\)** allows a semi-manual targeting mode, where you can click on the target and the missile will guide itself towards it and click again to update the targets location to the missile in flight.
-* **Laser-targeted fire mode** **\(LT\)** \(fire-and-forget\) locks the missile onto a laser target provided by ground troops or a scout helicopter. The laser targeted mode is the best choice if a spotter can designate the target. It allows minimal exposure of the helicopter. The laser guided mode allows the best tracking of moving targets. However if the target hasn’t been “lazed” correctly or badly, or simply for some reason the missile can’t see the target after launch like if a building gets in the way, the missile may miss.
-* Helicopter crews need to be in the same squad.
-* Helicopters must return to the helipad and land to be **rearmed/repaired**. On Carriers you can only reload on the “ramp” of the carrier, off the runway, this doesn't include the lifts.
-* To successfully **drop supplies** from a transport helicopters the pilot needs to conduct the drop from an altitude under 5m / 15 feet by pressing the alternate fire key.
-* **Countermeasure flares** are limited and need to be rearmed when expended. Every time you deploy flare\(**X**\) one flare will be deployed.
+* للمروحيات وقت **التسخين** حوالي 30 ثانية. إذا تم توليد كمية كبيرة من الدفع أثناء دوران شفرات الدوران، سيفقد الطيار السيطرة ويتحطم. لبدء المروحية، يجب عليك ترك الدواسة في وضع الخمول لمدة لا تقل عن 30 ثانية قبل محاولة الانطلاق.
+* يمكن لطياري المروحيات أن ينظروا في اتجاهات أخرى أثناء الطيران عن طريق الضغط على مفاتيح 6 و 7 و 8 و 9 التي يمكنك تعيينها إلى مفتاح تحكم بالألعاب. للنظر إلى الأمام مرة أخرى، اضغط على 1 أو حدد أي سلاح آخر يحمله الطائرة.
+* تكون عناصر التحكم بالدفة فعالة بشكل رئيسي عند السرعات المنخفضة. عند السرعات العالية، تحتاج إلى ميل المروحية للدوران.
+* اللاعبون الذين يستخدمون **طقم الطيار لا يمكنهم الجلوس في أي من مقاعد الركاب** في الطائرة. يتم ذلك لوقف اللاعبين من استخدام طقم الطيار كنوع من أنواع طقم القوات الخاصة للقفز المظلي لأنه يحتوي على مظلة. إذا كنت مضطرًا للقفز من طائرتك ثم تتلقى ركوبًا من طائرة أخرى، تأكد من إسقاط طقم الطيار قبل دخول مقعد الركاب في الطائرة وإلا سيتم طردك من المروحية.
+* يمكن لطيار مروحيات الهجوم الثقيلة المعروفة أيضًا باسم المدفعية الجوية إطلاق **الصواريخ غير الموجهة** بينما يتحكم المدفع فيها والصواريخ الموجهة.
+* يمكن لمدفعي المروحيات الهجومية تكبير كاميرا الأسلحة الخاصة بهم عن طريق الضغط على مفتاح تبديل الكاميرا \(**C**\) أو عن طريق الضغط على مفاتيح F9 إلى F11. يمكنهم أيضًا التبديل إلى وضعية التصوير الحراري عن طريق استخدام القائمة الإذاعية الثانوية \(**T**\) واختيار **"نهاري / حراري"** للتبديل بينهما.
+* لدى **مدفعي** المروحيات الهجومية 4 وضعيات مختلفة للاختيار من بينها:
+  - العرض من الشخص الأول في قمرة القيادة،
+  - كاميرا المدفع التي تتحكم في مدفع المروحية.
+  - وضعية إطلاق النار الموجهة بالليزر \(LG\) تسمح بوضع استهداف شبه يدوي، حيث يمكنك النقر على الهدف وسيقوم الصاروخ بتوجيه نفسه نحوه والنقر مرة أخرى لتحديث موقع الهدف للصاروخ أثناء الطيران.
+  - وضعية إطلاق النار المستهدفة بالليزر \(LT\) \(إطلاق ونسي\) تقوم بقفل الصاروخ على هدف ليزري يتم توفيره من قبل القوات البرية أو مروحية استطلاع. وضعية الاستهداف بالليزر هي الخيار الأفضل إذا كان هناك شخص يمكنه تحديد الهدف. إنها تسمح بتعرض أدنى للمروحية. تسمح وضعية الاستهداف بالليزر بأفضل تتبع للأهداف المتحركة. ومع ذلك، إذا لم يتم "تسليم" الهدف بشكل صحيح أو سيئ، أو ببساطة لسبب ما لم يتمكن الصاروخ من رؤية الهدف بعد الإطلاق مثل إذا كان هناك مبنى في الطريق، فقد يفوت الصاروخ الهدف.
+* يجب أن تكون طواقم المروحيات في نفس الفرقة.
+* يجب على المروحيات العودة إلى منصة الهليكوبتر والهبوط ليتم **إعادة التسليح / الإصلاح**. على الحاملات، يمكنك إعادة التحميل فقط على "المنحدر" من الحاملة - خارج المدرج، وهذا لا يشمل المصاعد.
+* لإسقاط الإمدادات بنجاح من مروحية نقل، يحتاج الطيار إلى إجراء الإسقاط من ارتفاع أقل من 30 متر / 100 قدم عن طريق الضغط على مفتاح النار البديل، وإلا قد يتم كسر صندوق الإمداد عند الاتصال بالأرض.
+* **الأجهزة المضادة للتدابير** محدودة وتحتاج إلى إعادة التسليح عند الاستنفاد. في كل مرة تنشر فيها الطاردة\(**X**\) ستتم نشر طاردة واحدة.
 
-## _Fixed Wing Aircraft_ {#fixed-wing-aircraft}
+## _الطائرات ذات الأجنحة الثابتة_ {#fixed-wing-aircraft}
 
-* Aircraft have a **warm-up time** of 30 seconds before they can take off from the ground.
-* Jet pilots can look in other directions while flying by pressing the 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
-* To slowly **taxi** on the ground keep the throttle neutral and push the stick forward or press the up arrow key, to slowly move in that direction. Pull the stick back or press the down arrow key to reverse. To steer left and right use the rudder controls \(**A & D**\).
-* Your maximum altitude is 10km.
-* To **take off** you need to put the throttle on maximum and then wait a little for the plane to start accelerating. When you are down 2/3 of the runway gently start pulling on the stick and maybe add some afterburner.
-* Most aircraft come equipped with a **cannon and several external weapons**. The primary fire key will fire the cannon \(if your aircraft has one\) while the alternate fire key will fire the currently selected weapon such as bombs and missiles.
-* To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
-* Most fixed wing aircraft feature **ejection seats** when you press E. It will automatically deploy the parachute when below 750m. 
-* **Air-to-ground weapons** in single seat aircraft need an established laser lock to hit a target. The recommended procedure for an attack with them is explained below:
-  1. Ground troops find a suitable target for an air attack.
-  2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](../assets/marker.png)
-  3. The pilot informs the ground troops of his approach using the **“ON THE WAY”** command from his main radio menu and/or through mumble/text chat.
-  4. As the pilot approaches the target, the ground troops mark the target with a **GTLD laser** designator, if the laser is slightly off from the target, the missile may miss.
-  5. When the target is locked-on the pilot receives a sound cue. He may now release the bomb/missile.
-* **Two-seater aircraft** allow the weapons systems officer \(WSO\) to identify and engage targets by himself while using the TV targeting mode. The targeting modes work in the same way as in attack helicopters.
-* The commander can place a laser target from his map. Since this method is not very precise it should only be used to bomb static targets.
-* Aircrafts don't have a nose camera but you can still look back by pressing the cycle camera key \(**C**\) or F11 to look back, and F9 or a weapon key to look forwards again.
-* **Flares** are triggered individually\(**X**\) and need to be rearmed after all of them have been dropped. Since the warning sound is only played once the enemy has already locked onto your aircraft for half a second, it is recommended to use them while on an attack run to reduce the chance of the enemy establishing a lock.
-* **To land** in PR:BF2 you need to plan ahead much longer than in BF2. Here are some tips on how to make your first landings easier:
-* You need to reduce your speed in advance until you can just stay level without falling out of the sky \(about 40% power\) with the stall airspeed being different for each aircraft. \(You can find the stall speed of your aircraft yourself by just going up high and slowing your aircraft down until it starts to lose control and fall, but doing it up high will mean you can regain control by opening up the throttle and pointing your nose down, then just stay above that stall speed while landing, until your wheels hit the ground.\)
-* When you are at this speed you should start your approach.
-* Imagine a point on the map by extending the runway by about 1km.
-* Fly to this point and turn towards the runway.
-* When you are about 200m from the runway cut your throttle.
-* Once you have touched the ground pull back on the stick to slow down, the planes all handle individually.
+* للطائرات وقت **التسخين** 30 ثانية قبل أن تتمكن من الإقلاع من الأرض.
+* يمكن لطياري الطائرات النفاثة أن ينظروا في اتجاهات أخرى أثناء الطيران عن طريق الضغط على مفاتيح 7 و 8 و 9 التي يمكنك تعيينها إلى مفتاح تحكم بالألعاب. للنظر إلى الأمام مرة أخرى، اضغط على 1 أو حدد أي سلاح آخر يحمله الطائرة.
+* للتحرك ببطء على الأرض، حافظ على الدواسة في وضع الخمول واضغط على العصا إلى الأمام أو اضغط على مفتاح السهم لأعلى، للتحرك ببطء في تلك الاتجاه. اسحب العصا إلى الوراء أو اضغط على مفتاح السهم لأسفل للرجوع. للتوجيه يمينًا ويسارًا، استخدم عناصر التحكم بالدفة \(**A & D**\).
+* الارتفاع الأقصى لديك هو 10 كم.
+* لل**إقلاع**، تحتاج إلى وضع الدواسة على الحد الأقصى ثم انتظر قليلاً حتى تبدأ الطائرة في التسارع. عندما تكون على مسافة 2/3 من المدرج، ابدأ برفق في سحب العصا وربما أضف بعض الاحتراق.
+* معظم الطائرات مجهزة بـ **مدفع وعدة أسلحة خارجية**. سيقوم مفتاح النار الأساسي بإطلاق السلاح المحدد حاليًا، مثل المدافع والصواريخ.
+* لـ **إعادة التسليح والإصلاح**، يجب عليك أن تهبط الطائرة في قاعدتك الجوية وتتحرك إلى "المنحدر" أو في بعض الخرائط القليلة جدًا، على المدرج. يستغرق الأمر بعض الوقت لإعادة التسليح بالكامل. على الحاملات، يمكنك إعادة التحميل فقط على "المنحدر" من الحاملة، خارج المدرج. وهذا لا يشمل المصاعد.
+* معظم الطائرات ذات الأجنحة الثابتة تحتوي على **مقاعد الخروج الطارئة** عند الضغط على E. ستقوم تلقائيًا بنشر المظلة عندما تكون أقل من 750 متر.
+* **الأسلحة الجوية إلى الأرض** في الطائرات ذات المقعدين تحتاج إلى قفل ليزري مؤسس لضرب الهدف. الإجراء الموصى به للهجوم بها موضح أدناه:
+  1. تجد القوات البرية هدفًا مناسبًا للهجوم الجوي.
+  2. تتصل القوات بالطيار إما مباشرة من خلال الدردشة الصوتية/النصية و/أو عن طريق وضع علامة CAS. ![](../assets/marker.png)
+  3. يبلغ الطيار القوات البرية بقدومه باستخدام أمر **"في الطريق"** من قائمة الراديو الرئيسية الخاصة به و/أو من خلال الدردشة الصوتية/النصية.
+  4. عندما يقترب الطيار من الهدف، تضع القوات البرية علامة على الهدف بليزر يأتي من **GLTD**، إذا كان الليزر بعيدًا قليلاً عن الهدف، فقد يفوت الصاروخ الهدف.
+  5. عندما يتم قفل الهدف، يتلقى الطيار إشارة صوتية. يمكنه الآن إطلاق القنبلة/الصاروخ.
+* تسمح **الطائرات ذات المقعدين الاثنين** لضابط أنظمة الأسلحة \(WSO\) بتحديد واستهداف الأهداف بنفسه أثناء استخدام وضعية استهداف التلفاز. تعمل وضعيات الاستهداف بنفس الطريقة كما في المروحيات الهجومية.
+* لا تحتوي الطائرات على كاميرا أنفية ولكن يمكنك النظر إلى الخلف عن طريق الضغط على مفتاح تبديل الكاميرا \(**C**\) أو F11 للنظر إلى الخلف، و F9 أو مفتاح سلاح للنظر إلى الأمام مرة أخرى.
+* تُشغل **الطاردات** بشكل فردي\(**X**\) وتحتاج إلى إعادة التسليح بعد استنفادها جميعًا. نظرًا لأن الصوت التحذيري يتم تشغيله مرة واحدة فقط بعد أن يقوم العدو بتوجيه القفل إلى طائرتك لنصف ثانية، يُوصى باستخدامها أثناء الهجوم لتقليل فرصة تأسيس العدو للقفل.
 
-## _Fire Control Systems_ {#fire-control-systems}
-Vehicles in Project Reality use an authentic ballistic system for vehicle projectiles. Depending on the vehicle several variations of Fire Control Systems (FCS) computers can be used by the gunner. In principle, the FCS can calculate required adjustments to fire at the target exactly where you want to. Not only does the firing solution consider the drop of the projectile due to gravity, it also includes friction slowing down projectiles. Further it can account for the offset between the operator camera and barrel, the height difference to the target, banking of the vehicle as well as speed of the vehicle. Just as their real life counterparts, not every vehicle will have the same capabilities for their FCS. This section will delve deeper into some of the use-cases of our FCS implementations. 
+### الهبوط بطائرتك
+للهبوط في PR:BF2، تحتاج إلى التخطيط مسبقًا لفترة أطول بكثير مما تحتاجه في BF2. إليك بعض النصائح حول كيفية جعل هبوطك الأول أسهل:
+1. تحتاج إلى تقليل سرعتك مسبقًا حتى تتمكن من البقاء على مستوى دون السقوط من السماء (بنسبة حوالي 40٪ من الطاقة) مع سرعة الهبوط الجوي تكون مختلفة لكل طائرة. (يمكنك العثور على سرعة الهبوط الجوي لطائرتك بنفسك فقط بالارتفاع وتبطئ طائرتك حتى تبدأ في فقدان السيطرة والسقوط، ولكن القيام بذلك في الارتفاع سيعني أنه يمكنك استعادة السيطرة عن طريق فتح الثروتل وتوجيه أنفك لأسفل، ثم فقط ابق على ارتفاع أعلى من تلك السرعة حتى يصل عجلاتك إلى الأرض.)
+2. عندما تكون في هذه السرعة يجب أن تبدأ هبوطك.
+3. تخيل نقطة على الخريطة عن طريق تمديد المدرج بحوالي 1 كم.
+4. اطير إلى هذه النقطة وانعطف نحو المدرج.
+5. عندما تكون على بعد حوالي 200 متر من المدرج، قم بتقليل الثروتل.
+6. بمجرد أن تلامس الأرض، اسحب القضيب للخلف لتبطئ، حيث تتعامل الطائرات جميعًا بشكل فردي.
 
-### Ground Vehicles
-* In short, there are 3 types of FCS for ground vehicles:
-  * Static sight: You have to rely on range markings in the sight.
-  * Adjusting sight: The crosshair moves to show where to aim.
-  * Adjusting barrel: The barrel moves to hit where you are aiming.
-* The vehicle gunner‘s view (the sight in the HUD) will greatly vary from vehicle to vehicle depending on their specifications. Some vehicles, mostly older generation ones, but not limited to age, simply offer a graticule overlay with lines indicating the necessary point of aim for a given distance.
-The markings on the scope itself will usually clarify which lines are to be used for which type of armament specifically. The gunner then has to correctly estimate the range to the target and adjust the gun’s pitch in order to hit.
-* Other vehicles come with the ability to set up the gun sight’s zero to indicate the point of aim for the intended point of impact. By holding the commo-rose **\(default: Q\)**, the gunner can dial into the desired range by increasing or subtracting the indicated range. He can also reset the gun into neutral position, which is indicated by the display of **- - - -** in the HUD as range setting.
+## _أنظمة التحكم في النار_ {#fire-control-systems}
+تستخدم المركبات في Project Reality نظامًا باليستيًا أصيلًا للقذائف المركبة. ويمكن استخدام عدة تغييرات من أنظمة التحكم في النار (FCS) من قبل الرامي اعتمادًا على المركبة. في المبدأ، يمكن لنظام التحكم في النار حساب التعديلات المطلوبة لإطلاق النار على الهدف بالضبط حيث تريد. لا يعتبر الحل الناري فقط تساقط القذيفة بسبب الجاذبية، بل يشمل أيضًا الاحتكاك الذي يبطئ القذائف. بالإضافة إلى ذلك، يمكن أن يأخذ في الاعتبار الانحراف بين كاميرا المشغل والبرميل، الفارق في الارتفاع إلى الهدف، ميل المركبة بالإضافة إلى سرعة المركبة. تمامًا كما هو الحال مع نظرائها في الحياة الواقعية، لن تكون لدى كل مركبة نفس القدرات لأنظمة التحكم في النار الخاصة بها. ستتناول هذا القسم بعمق بعض حالات الاستخدام لتنفيذاتنا لأنظمة التحكم في النار.
+
+### المركبات البرية
+* بإختصار، هناك 3 أنواع من أنظمة التحكم في النيران للمركبات البرية:
+  * النظام الثابت: عليك الاعتماد على علامات المدى في النظام.
+  * النظام المتعدد: يتحرك العلامة المركزية لتظهر أين يجب التوجيه.
+  * النظام المتحرك: يتحرك المدفع ليصيب المكان الذي تستهدفه.
+* ستختلف رؤية مدفعية السيارة \(النظام في HUD\) اختلافًا كبيرًا من سيارة إلى أخرى اعتمادًا على مواصفاتها. بعض المركبات، وعادةً ما تكون من الأجيال القديمة، ولكن ليس مقتصرًا على العمر، تقدم ببساطة تركيبة شبكية تظهر خطوطًا تشير إلى النقطة اللازمة للتوجيه عند مسافة معينة.
+سيوضح العلامات على المنظار نفسه عادةً الخطوط التي يجب استخدامها لأنواع معينة من السلاح بشكل خاص. يجب على المدفعي تقدير المسافة إلى الهدف بشكل صحيح وضبط ميل المدفع لضرب الهدف.
+* تأتي بعض المركبات مع القدرة على ضبط صفر النظر في المدفع للإشارة إلى نقطة التوجيه المقصودة للإصابة. من خلال الضغط على زر الـ commo-rose **\(الافتراضي: Q\)**، يمكن للمدفعي ضبط المدى المرغوب فيه عن طريق زيادة أو طرح المدى المشار إليه. يمكنه أيضًا إعادة ضبط المدفع إلى وضعه الطبيعي، والذي يتم إشارته بعرض **- - - -** في HUD كإعداد للمدى.
 
 {% figure "../assets/fcs_manual.png" %}
-Using the commo-rose to manually change the set range.
+استخدام commo-rose لتغيير المدى المضبوط يدويًا.
 {% endfigure %}
 
-* The most sophisticated setup found on most modern vehicles comes with access to a fully automated FCS, complete with a laser range finder. They will show the icon for the laser as active:![](../assets/fcs_cap_laser.png).
-* After aiming the crosshair at the desired target(distance), vehicles that have it, the laser range finder can be used with the change camera key **\(default: C\)** which will set the gun automatically to be set in the correct position to fire at the center crosshair. 
-* In the bottom right of the HUD the current set range and available capabilities of your vehicle is shown.
+* يأتي الإعداد الأكثر تطورًا الموجود على معظم المركبات الحديثة مع إمكانية الوصول إلى نظام تحكم في النيران متكامل بالكامل، مع جهاز قياس المدى بالليزر. سيظهر الرمز لليزر كنشط:![](../assets/fcs_cap_laser.png).
+* بعد توجيه العلامة المركزية نحو الهدف المرغوب \(المسافة\), على المركبات التي تحتوي عليه، يمكن استخدام جهاز قياس المدى بالليزر باستخدام مفتاح تغيير الكاميرا **\(الافتراضي: C\)** الذي سيضبط المدفع تلقائيًا ليكون في الموضع الصحيح لإطلاق النار عند العلامة المركزية. 
+* في الزاوية السفلية اليمنى من HUD يتم عرض المدى المضبوط حاليًا والقدرات المتاحة لمركبتك.
 
 {% figure "../assets/fcs_main.png" %}
-The set range and FCS capability icons being shown in the bottom right of the HUD.
+عرض المدى المضبوط ورموز قدرات نظام التحكم في النيران الموجودة في الزاوية السفلية اليمنى من HUD.
 {% endfigure %}
 
-* The icons in the gunner view on vehicles using a FCS show a number of icons in either white or grey scale. These icons each indicate a certain type of aiming correction the FCS will account for when setting the gun up correctly. The corrections account for the following aiming inaccuracies:
-  * ![](../assets/fcs_cap_velocity.png) Speed compensation: Compensating for the vehicle’s own movement. Does NOT correct the lead on a moving enemy target vehicle.
-  * ![](../assets/fcs_cap_height.png) Height compensation: Compensates for the difference in altitude between your vehicle and the target.
-  * ![](../assets/fcs_cap_parallax.png) Parallax compensation:  Compensating the mismatch between gun position and gunner camera position.
-  * ![](../assets/fcs_cap_roll.png) Roll compensation: Compensates the vehicle sitting at an angle.
-* When switching to the coaxial machine gun, the gun’s pitch will automatically to fire the machine gun to fire at the center. The same will happen when switching to other types of munitions. To switch between main gun and coaxial MG use the switch weapon key **\(default: F\)**.
-* Although the desired mode of operation is for the weapon to be set automatically, the gunner has also the ability to dial manually. This will however not correct for aiming mismatches(see below).
-If the distance to the target is greater than physically achieveable by the selected weapon, the HUD will display a red lettering of the current range setting or **^ ^ ^ ^** as the error indication.
-* A small number of vehicles will utilize a laser range finder to receive the correct distance to the target, but instead of shifting the gun to aim in the center crosshair, the position of the crosshair within the scope will change. Changing to the coaxial machine gun or other types of ammunition will change the crosshair position automatically again. Just like above, manually dialing is also possible.
-* There is a very, very brief period after lasing and the gun entering the correct position. If you’re too hasty you may end up missing.
-* The laser range finder has a cool down period of about one second in between uses, indicated by the icon turning red. 
-* It cannot be used to set up the gun for distances under 150m. Lasing at such a low distance or into the horizon will revert the gun to settle into neutral position, with the range indicator showing **v v v v**. 
-* The laser has an error of around ± 5m.
+* تظهر الرموز في رؤية المدفعي على المركبات التي تستخدم نظام تحكم في النيران عددًا من الرموز باللون الأبيض أو بالرمادي. تشير هذه الرموز إلى أنواع معينة من التصحيحات في التوجيه التي سيأخذها نظام التحكم في النيران بعين الاعتبار عند ضبط المدفع بشكل صحيح. تصحيحات التوجيه تشمل ما يلي:
+  * ![](../assets/fcs_cap_velocity.png) تعويض السرعة: تعويض حركة المركبة ذاتها. لا يصحح التقدم نحو هدف متحرك.
+  * ![](../assets/fcs_cap_height.png) تعويض الارتفاع: يعوض عن الفرق في الارتفاع بين مركبتك والهدف.
+  * ![](../assets/fcs_cap_parallax.png) تعويض البارالاكس: يعوض عن عدم تطابق موضع المدفع وموضع كاميرا المدفعي.
+  * ![](../assets/fcs_cap_roll.png) تعويض الانقلاب: يعوض عن وضع المركبة بزاوية.
+* عند التبديل إلى المدفع الجانبي الآلي، سيتم رفع ميل المدفع تلقائيًا لإطلاق النار بالمدفع الجانبي في المركز. سيحدث نفس الأمر عند التبديل إلى أنواع أخرى من الذخائر. للتبديل بين المدفع الرئيسي والمدفع الجانبي استخدم مفتاح تبديل السلاح **\(الافتراضي: F\)**.
+* على الرغم من أن الوضع المرغوب هو أن يتم ضبط السلاح تلقائيًا، فإن لدى المدفعي أيضًا القدرة على الضبط يدويًا. ومع ذلك، لن يصحح هذا لعدم تطابق التوجيه \(انظر أدناه\).
+إذا كانت المسافة إلى الهدف أكبر مما يمكن تحقيقه فيزيائيًا بالسلاح المحدد، سيعرض HUD كتابة حمراء لإعداد المدى الحالي أو **^ ^ ^ ^** كإشارة خطأ.
+* عدد قليل جدًا من المركبات ستستخدم جهاز قياس المدى بالليزر لاستقبال المسافة الصحيحة إلى الهدف، ولكن بدلاً من تحريك المدفع للتوجيه نحو العلامة المركزية، سيتغير موضع العلامة المركزية داخل المنظار. سيؤدي التبديل إلى المدفع الجانبي أو أنواع أخرى من الذخائر إلى تغيير موضع العلامة المركزية تلقائيًا مرة أخرى. كما هو الحال أعلاه، يمكن أيضًا الضبط يدويًا.
+* هناك فترة قصيرة جدًا بعد استخدام جهاز قياس المدى بالليزر ودخول المدفع إلى الموضع الصحيح. إذا كنت عجولًا جدًا قد تنتهي بالفشل.
+* يوجد فترة تبريد لجهاز قياس المدى بالليزر تستغرق حوالي ثانية واحدة بين الاستخدامات، مما يتضح من تحول الرمز إلى اللون الأحمر. 
+* لا يمكن استخدامه لضبط المدفع للمسافات أقل من 150 متر. سيؤدي قياس المسافة في مثل هذه المسافة المنخفضة أو في الأفق إلى إعادة المدفع إلى وضعه الطبيعي، مع عرض مؤشر المدى **v v v v**. 
+* يكون لجهاز الليزر خطأ يبلغ حوالي ± 5 متر.
+* ستتذكر اللعبة آخر إعداد للمدفعي، بغض النظر عما إذا كان قد تركه أو تم قتله فيه.
+* لا يمنع مرحلة تسخين المدفع المدفعي من استخدام جهاز قياس المدى بالليزر أو الضبط اليدوي للمدى.
+* يكون نظام التحكم في النيران على مركبات SPAAA \(المدفعية المضادة للطائرات ذاتية الدفع\) نشطًا دائمًا ولا يتطلب أي إدخال إضافي من اللاعب.
+* عند تجهيز SPAAA بمعدات الرادار، سيعرض نظام التحكم في النيران دائرة تشير إلى التوجيه الصحيح للهدف بعد الحصول على قفل على الهدف. يمكن للطائرات العدو استخدام الشماريخ لكسر القفل، مما يزيل الدائرة الموجهة مؤقتًا.
 
-* The game will memorize the last setting of the gunner, regardless of whether he left it or was killed in it.
-* The gun’s warm up phase does not prevent the gunner from using the laser range finder or the manual range dialing.
-* The FCS on SPAAA (Self-Propelled Anti-Aircraft Artillery) vehicles is always active and does not require any additional input from the player.
-* When crewing a SPAAA with radar equipment, the FCS will display a circle indicating the correct target lead after aquiring a lock on the target. The enemy aircraft can deploy flares to break the lock, which removes the aiming circle temporarily.
-
-### Fixed Wing Aircraft
-The FCS is not limited to ground vehicles, fixed wing aircraft have their own versions for (automated) firing solutions. As such modern jets utilize Constantly Computed Impact Point (CCIP) which will show where bombs will land on the ground. Additionally ground attack jets will also utilize CCIP to show the impact of their main gun. Fighter jets supporting radar targeting will be able to lock onto aircraft with their guns to show a marker predicting where to aim and hit the target. This radar locking will also trigger the victims radar warning receivers and can be countered using flares.
+### الطائرات ذات الأجنحة الثابتة
+نظام التحكم في النيران ليس مقتصرًا على المركبات البرية، فالطائرات ذات الأجنحة الثابتة لديها إصداراتها الخاصة لحلول النيران \(الآلية\). وعلى هذا النحو، تستخدم الطائرات النفاثة الحديثة نقطة الإصابة المحسوبة باستمرار \(CCIP\) التي ستظهر أين ستهبط القنابل على الأرض. بالإضافة إلى ذلك، ستستخدم طائرات الهجوم الأرضي أيضًا CCIP لعرض تأثير مدفعها الرئيسي. ستتمكن طائرات القتال التي تدعم استهداف الرادار من قفل الطائرات بمدافعها لعرض علامة توقع أين يجب التوجيه وضرب الهدف. سيؤدي هذا القفل بالرادار أيضًا إلى تشغيل أجهزة إنذار الرادار للضحية ويمكن مواجهته باستخدام الشماريخ.
