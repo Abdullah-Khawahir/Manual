@@ -63,7 +63,7 @@
     * [Operare i Veicoli](it/operating_vehicles.md)
     * [Il Comandante](it/commander.md)
     * [Il Civile](it/the_civilian.md)
-* [Arabic / العربية - v1.7](ar/README.md)
+* [Arabic / العربية - v1.8](ar/README.md)
     * [Set-Up](ar/set-up.md)
     * [Game Modes](ar/game_modes.md)
     * [The Basics](ar/the_basics.md)
